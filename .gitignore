@@ -1,0 +1,21 @@
+.vite
+
+# Dependencies
+Client/node_modules
+Server/node_modules
+
+# Environment variables
+Server/.env
+Client/.env
+Client/.env.local
+
+# Build output
+Client/dist
+
+# Vite cache
+Client/.vite
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
