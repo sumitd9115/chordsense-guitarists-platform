@@ -2,32 +2,11 @@ import { useState } from "react";
 import {
   FiChevronLeft,
   FiChevronRight,
-  FiGitBranch,
-  FiActivity,
-  FiClock,
   FiGrid,
 } from "react-icons/fi";
 
 export default function HomePageGrid() {
   const cards = [
-    {
-      heading: "Practice Tracker",
-      content:
-        "Track your consistency, build better habits, and monitor your improvement over time.",
-      icon: FiActivity,
-    },
-    {
-      heading: "Chord Progressions",
-      content:
-        "Practice realistic chord transitions and discover common progressions used in popular music.",
-      icon: FiGitBranch,
-    },
-    {
-      heading: "Metronome",
-      content:
-        "Keep perfect timing and improve rhythm accuracy during practice sessions.",
-      icon: FiClock,
-    },
     {
       heading: "AI Assistant",
       content:
@@ -39,8 +18,26 @@ export default function HomePageGrid() {
   const [currentIndex, setCurrentIndex] = useState(0);
 
   const sliderButtonClass =
-    "absolute top-1/2 -translate-y-1/2 z-20 bg-stone-900 text-white p-3 rounded-full hover:bg-amber-400 hover:text-black transition-all duration-300";
+  `
+  absolute top-1/2 -translate-y-1/2
+  z-20
 
+  bg-stone-900/95 backdrop-blur-md
+  text-white
+
+  p-3 rounded-full
+
+  border border-stone-700
+  shadow-xl shadow-black/40
+
+  hover:bg-amber-400
+  hover:text-black
+  hover:border-amber-400
+  hover:scale-110
+
+  transition-all duration-300
+  `;
+  
   function nextSlide() {
     setCurrentIndex((prevIndex) =>
       prevIndex === cards.length - 1 ? 0 : prevIndex + 1,
@@ -56,7 +53,7 @@ export default function HomePageGrid() {
   return (
     <div className="relative max-w-5xl mx-auto">
       {/* Left Arrow */}
-      <button onClick={prevSlide} className={`${sliderButtonClass} left-0`}>
+      <button onClick={prevSlide} className={`${sliderButtonClass} -left-5 md:-left-6`}>
         <FiChevronLeft size={15} />
       </button>
 
@@ -92,7 +89,7 @@ export default function HomePageGrid() {
       </div>
 
       {/* Right Arrow */}
-      <button onClick={nextSlide} className={`${sliderButtonClass} right-0`}>
+      <button onClick={nextSlide} className={`${sliderButtonClass} -right-5 md:-right-6`}>
         <FiChevronRight size={15} />
       </button>
     </div>

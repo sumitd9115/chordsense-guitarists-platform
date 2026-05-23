@@ -1,7 +1,6 @@
 const express = require("express");
 const userController = require("../controllers/userController.js");
 const authController = require("../controllers/authController.js");
-const customController = require("../controllers/customController.js");
 const uRouter = express.Router();
 
 // In userRouter.js — add before the protect middleware

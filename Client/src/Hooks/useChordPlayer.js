@@ -14,7 +14,7 @@ function pluckString(
   freq,
   startTime,
   duration = 2.5,
-  gain = 0.18,
+  gain = 4.0,
   stringIndex = 0,
 ) {
   // --- Noise burst (pick attack) ---
@@ -66,7 +66,7 @@ function pluckString(
   // Noise envelope
   const noiseGain = ctx.createGain();
 
-  noiseGain.gain.setValueAtTime(0.22, startTime);
+  noiseGain.gain.setValueAtTime(0.55, startTime);
   noiseGain.gain.exponentialRampToValueAtTime(0.0001, startTime + 0.025);
 
   // Connections
@@ -155,7 +155,7 @@ export function useChordPlayer() {
       const freq = fretFreq(stringIndex, fret);
       const startTime = now + i * strumDelay;
       // Bass strings louder, treble strings slightly quieter
-      const gain = stringIndex < 2 ? 0.35 : stringIndex < 4 ? 0.3 : 0.25;
+      const gain = stringIndex < 2 ? 0.85 : stringIndex < 4 ? 0.75 : 0.65;
       pluckString(ctx, freq, startTime, 2.5, gain, stringIndex);
     });
   }

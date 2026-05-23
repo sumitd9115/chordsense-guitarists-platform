@@ -12,8 +12,6 @@ export default function HomePage() {
         HTp1="— for those who play —"
         HTp2="Your fretboard companion. Learn chords, track practice, and master
             the guitar — one string at a time."
-        b1="Get Started"
-        b2="Explore Learning Section"
         isScroll={true}
         alignment="start"
       >
@@ -25,8 +23,6 @@ export default function HomePage() {
         HTp1="— understand the harmony —"
         HTp2="From open chords to advanced jazz voicings, explore shapes, finger
             placements, and smooth transitions that bring every song to life."
-        b1="Browse Chords"
-        b2="Start Practicing"
         isScroll={false}
         alignment="end"
       >
@@ -37,8 +33,6 @@ export default function HomePage() {
         img={guitarTune}
         HTp1="— tune every string perfectly —"
         HTp2="Master standard and alternate tunings with precise guidance designed to keep your guitar sounding clean, balanced, and performance-ready at all times."
-        b1="Start Tuning"
-        b2="Explore Tunings"
         isScroll={false}
         alignment="start"
       >
@@ -65,20 +59,6 @@ export default function HomePage() {
             — Amyt Datta
           </footer>
         </blockquote>
-      </section>
-
-      {/* ─── CTA Section ─── */}
-      <section className="bg-stone-950 py-24 px-6 text-center">
-        <h2 className="text-white text-3xl md:text-4xl font-bold mb-4 font-mono">
-          Ready to play smarter?
-        </h2>
-        <p className="text-stone-400 mb-8 max-w-md mx-auto">
-          Open the menu and dive into your chord library or start learning from
-          Learning Section today.
-        </p>
-        <button className="bg-amber-400 text-black font-bold px-8 py-3 rounded-full hover:bg-amber-300 transition-colors duration-200 font-mono tracking-wide">
-          Open Dashboard →
-        </button>
       </section>
 
       {/* ─── Footer ─── */}
