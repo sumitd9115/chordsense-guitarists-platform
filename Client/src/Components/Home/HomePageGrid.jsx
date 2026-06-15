@@ -1,9 +1,5 @@
 import { useState } from "react";
-import {
-  FiChevronLeft,
-  FiChevronRight,
-  FiGrid,
-} from "react-icons/fi";
+import { FiChevronLeft, FiChevronRight } from "react-icons/fi";
 
 export default function HomePageGrid() {
   const cards = [
@@ -11,15 +7,13 @@ export default function HomePageGrid() {
       heading: "AI Assistant",
       content:
         "Receive intelligent recommendations for practice routines, chord suggestions, and learning paths.",
-      icon: FiGrid,
     },
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);
 
-  const sliderButtonClass =
-  `
-  absolute top-1/2 -translate-y-1/2
+  const sliderButtonClass = `
+absolute top-1/2 -translate-y-1/2
   z-20
 
   bg-stone-900/95 backdrop-blur-md
@@ -37,7 +31,7 @@ export default function HomePageGrid() {
 
   transition-all duration-300
   `;
-  
+
   function nextSlide() {
     setCurrentIndex((prevIndex) =>
       prevIndex === cards.length - 1 ? 0 : prevIndex + 1,
@@ -53,7 +47,10 @@ export default function HomePageGrid() {
   return (
     <div className="relative max-w-5xl mx-auto">
       {/* Left Arrow */}
-      <button onClick={prevSlide} className={`${sliderButtonClass} -left-5 md:-left-6`}>
+      <button
+        onClick={prevSlide}
+        className={`${sliderButtonClass} -left-5 md:-left-6`}
+      >
         <FiChevronLeft size={15} />
       </button>
 
@@ -66,15 +63,12 @@ export default function HomePageGrid() {
           }}
         >
           {cards.map((card) => {
-            const Icon = card.icon;
-
             return (
               <div
                 key={card.heading}
                 className="min-w-full flex justify-center"
               >
                 <div className="bg-stone-950 border border-stone-800 rounded-3xl p-8">
-                  <div className="text-amber-400 text-3xl mb-4">{Icon}</div>
                   <h3 className="text-white text-2xl font-semibold mb-4">
                     {card.heading}
                   </h3>
@@ -89,7 +83,10 @@ export default function HomePageGrid() {
       </div>
 
       {/* Right Arrow */}
-      <button onClick={nextSlide} className={`${sliderButtonClass} -right-5 md:-right-6`}>
+      <button
+        onClick={nextSlide}
+        className={`${sliderButtonClass} -right-5 md:-right-6`}
+      >
         <FiChevronRight size={15} />
       </button>
     </div>

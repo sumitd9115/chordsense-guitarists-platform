@@ -20,11 +20,6 @@ const userSchema = new mongoose.Schema({
     type: String,
     required: [true, "Confirm password is required!"],
   },
-  level: {
-    type: String,
-    enum: ["Beginner", "Intermediate", "Advanced"],
-    default: "Beginner",
-  },
   passwordChangedAt: Date,
   passwordResetToken: String,
   passwordResetExpires: Date,

@@ -1,7 +1,9 @@
 import { useState } from "react";
+import { LuPanelRight } from "react-icons/lu";
 import api from "../api/axios";
 import PillSelector from "../Components/Chord Progression Gen/PillSelector";
 import ChordCard from "../Components/Chord Progression Gen/ChordCard";
+import RightBar from "../Components/Chord Progression Gen/RightBar";
 import {
   KEYS,
   MOODS,
@@ -11,7 +13,6 @@ import {
   TIME_SIGS,
 } from "../Data/ChordProgGen";
 
-// ── Main page ─────────────────────────────────────────────────────────────────
 export default function ChordProgGen() {
   const [inputs, setInputs] = useState({
     key: "G",
@@ -24,6 +25,8 @@ export default function ChordProgGen() {
   const [result, setResult] = useState(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
+  const [openRightbar, setOpenRightbar] = useState(false);
+  const [saved, setSaved] = useState(false);
 
   function handleChange(field, value) {
     setInputs((prev) => ({ ...prev, [field]: value }));
@@ -42,6 +45,18 @@ export default function ChordProgGen() {
       setError(err.response?.data?.message || "Failed to generate. Try again.");
     } finally {
       setLoading(false);
+    }
+  }
+
+  async function handleSave() {
+    try {
+      await api.post("/progression/save", {
+        inputs,
+        result,
+      });
+      setSaved(true);
+    } catch (err) {
+      console.log(err);
     }
   }
 
@@ -65,11 +80,11 @@ export default function ChordProgGen() {
       `}</style>
 
       {/* ── Header ── */}
-      <div className="flex justify-center">
+      <div className="relative flex justify-center">
         <div
           className="bg-stone-950/80 backdrop-blur-md rounded-b-2xl
-                        border-x border-b border-stone-700/60
-                        px-12 py-3 text-center shadow-xl shadow-black/40"
+          border-x border-b border-stone-700/60
+          px-12 py-3 text-center shadow-xl shadow-black/40 flex flex-col justify-center"
         >
           <p className="text-amber-400 text-[10px] font-mono tracking-[0.5em] uppercase mb-0.5">
             ◈ ChordSense
@@ -80,6 +95,31 @@ export default function ChordProgGen() {
           <p className="text-stone-500 text-[12px] font-mono tracking-widest uppercase mt-2">
             - AI-Powered Chord Progression Generator -
           </p>
+        </div>
+
+        <div className="text-white fixed right-0 top-0 m-6">
+          <button
+            onClick={() => setOpenRightbar(!openRightbar)}
+            className={`cursor-pointer ${openRightbar ? "opacity-0 pointer-events-none" : "opacity-100"}`}
+          >
+            <LuPanelRight className="text-2xl text-stone-300" />
+          </button>
+
+          {openRightbar && (
+            <div
+              className="fixed inset-0 z-40"
+              onClick={() => setOpenRightbar(false)}
+            />
+          )}
+
+          {/* Sidebar */}
+          <div
+            className={`fixed top-0 right-0 h-full z-40 flex items-center
+                  transition-transform duration-500 ease-in-out
+                  ${openRightbar ? "translate-x-0" : "translate-x-full"}`}
+          >
+            <RightBar />
+          </div>
         </div>
       </div>
 
@@ -219,8 +259,8 @@ export default function ChordProgGen() {
 
             {/* Explanation */}
             <div className="bg-stone-900 border border-stone-700/60 rounded-2xl p-6">
-              <p className="text-amber-400 text-[10px] font-mono tracking-[0.35em] uppercase mb-3">
-                Why It Works
+              <p className="text-amber-400 text-[13px] font-mono tracking-[0.35em] uppercase mb-3">
+                Why It Works?
               </p>
               <p className="text-stone-300 text-sm leading-7">
                 {result.explanation}
@@ -265,6 +305,25 @@ export default function ChordProgGen() {
                   ))}
                 </div>
               </div>
+            </div>
+
+            {/* Progression Saving */}
+            <div className={`mt-3 flex justify-center items-center gap-2`}>
+              <p className="text-stone-300 text-[15px] font-mono">
+                Do you want to save this progression?
+              </p>
+              <button
+                onClick={handleSave}
+                disabled={saved}
+                className={`font-mono px-3 py-2 rounded-xl transition-all
+                ${
+                  saved
+                    ? "bg-stone-700 text-stone-400 cursor-not-allowed"
+                    : "bg-amber-400 text-stone-950 cursor-pointer hover:bg-amber-300"
+                }`}
+              >
+                {saved ? "Saved ✓" : "Save"}
+              </button>
             </div>
           </div>
         )}

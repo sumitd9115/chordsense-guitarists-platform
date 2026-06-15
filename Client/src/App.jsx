@@ -1,8 +1,7 @@
 import { Routes, Route, Navigate } from "react-router-dom";
-import { useState } from "react";
-import { FiMenu } from "react-icons/fi";
 
-import Sidebar from "./Components/Sidebar";
+// Components
+import Hamburger from "./Components/Hamburger";
 import ProtectedRoute from "./Components/ProtectedRoute";
 import PublicRoute from "./Components/PublicRoute";
 import PublicLayout from "./Components/PublicLayout";
@@ -21,38 +20,13 @@ import GuitarTuner from "./Pages/GuitarTuner";
 import LearningSection from "./Pages/LearningSection";
 import ChordLibrary from "./Pages/ChordLibrary";
 import ChordProgGen from "./Pages/ChordProgGen";
+import SavedProgressionPage from "./Components/Chord Progression Gen/SavedProgressionPage";
 import ProfilePage from "./Pages/ProfilePage";
 
 function AppLayout() {
-  const [openSidebar, setOpenSidebar] = useState(false);
-
   return (
     <div className="relative">
-      {/* Hamburger */}
-      <button
-        onClick={() => setOpenSidebar(!openSidebar)}
-        className={`fixed top-5 left-5 z-50 cursor-pointer ${openSidebar ? "opacity-0 pointer-events-none" : "opacity-100"}`}
-      >
-        <FiMenu className="text-2xl text-stone-300" />
-      </button>
-
-      {/* Sidebar */}
-      <div
-        className={`fixed top-0 left-0 h-full z-40 flex items-center
-        transition-transform duration-500 ease-in-out
-        ${openSidebar ? "translate-x-0" : "-translate-x-full"}`}
-      >
-        <Sidebar onClose={() => setOpenSidebar(false)} />
-      </div>
-
-      {/* Overlay */}
-      {openSidebar && (
-        <div
-          className="fixed inset-0 z-30 bg-black/30"
-          onClick={() => setOpenSidebar(false)}
-        />
-      )}
-
+      <Hamburger />
       {/* Page content — React Router renders the matched child here */}
       <Routes>
         <Route path="home" element={<HomePage />} />
@@ -60,6 +34,10 @@ function AppLayout() {
         <Route path="guitar-tuner" element={<GuitarTuner />} />
         <Route path="chord-library" element={<ChordLibrary />} />
         <Route path="chord-prog-gen" element={<ChordProgGen />} />
+        <Route
+          path="saved-progression/:id"
+          element={<SavedProgressionPage />}
+        />
         <Route path="profile" element={<ProfilePage />} />
       </Routes>
     </div>

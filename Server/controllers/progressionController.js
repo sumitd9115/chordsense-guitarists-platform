@@ -1,5 +1,6 @@
 const catchAsync = require("../utils/catchAsync");
 const AppError = require("../utils/appError");
+const chordProgressions = require("../models/generatedChordsModel.js");
 
 exports.generateProgression = catchAsync(async (req, res, next) => {
   const { key, mood, genre, difficulty, numChords, timeSignature } = req.body;
@@ -65,16 +66,12 @@ Use exactly this structure:
   }
 
   const geminiData = await geminiRes.json();
-
-  // ── Extract the text from Gemini's response ───────────────────────────────
-  // Gemini wraps its response in a nested structure
   const rawText = geminiData?.candidates?.[0]?.content?.parts?.[0]?.text;
 
   if (!rawText) {
     return next(new AppError("No response from Gemini", 502));
   }
 
-  // ── Parse JSON — strip markdown code fences if Gemini adds them ──────────
   const cleaned = rawText.replace(/```json|```/g, "").trim();
 
   let progression;
@@ -105,5 +102,43 @@ Use exactly this structure:
       progression,
       inputs: { key, mood, genre, difficulty, numChords, timeSignature },
     },
+  });
+});
+
+exports.saveProg = catchAsync(async (req, res, next) => {
+  const { inputs, result } = req.body;
+
+  const progression = await chordProgressions.create({
+    user: req.user._id,
+    name: `${inputs.mood} ${inputs.genre} Progression`,
+    inputs: inputs,
+    result: result,
+  });
+
+  res.status(201).json({
+    status: "success",
+    data: progression,
+  });
+});
+
+exports.getMyProg = catchAsync(async (req, res, next) => {
+  const progressions = await chordProgressions
+    .find({
+      user: req.user._id,
+    })
+    .sort("-createdAt");
+
+  res.status(200).json({
+    status: "success",
+    data: progressions,
+  });
+});
+
+exports.getOneProg = catchAsync(async (req, res, next) => {
+  const progression = await chordProgressions.findById(req.params.id);
+
+  res.status(200).json({
+    status: "success",
+    data: progression,
   });
 });

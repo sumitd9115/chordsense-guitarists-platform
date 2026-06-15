@@ -3,10 +3,8 @@ const jwt = require("jsonwebtoken");
 const crypto = require("crypto");
 const { promisify } = require("util");
 
-
 // All Created Packages
 const User = require("../models/userModel.js");
-const pendingUserModel = require("../models/pendingUserModel.js");
 const catchAsync = require("../utils/catchAsync.js");
 const AppError = require("../utils/appError.js");
 const sendEmail = require("../utils/email.js");
