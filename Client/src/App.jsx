@@ -10,6 +10,7 @@ import PublicLayout from "./Components/PublicLayout";
 // Auth Pages
 import LoginPage from "./Pages/Auth/LoginPage";
 import SignupPage from "./Pages/Auth/SignupPage";
+import AddPasswordPage from "./Pages/Auth/AddPasswordPage";
 import VerifyOTPPage from "./Pages/Auth/VerifyOTPPage";
 import ForgotPasswordPage from "./Pages/Auth/ForgotPasswordPage";
 import ResetPasswordPage from "./Pages/Auth/ResetPasswordPage";
@@ -19,6 +20,7 @@ import HomePage from "./Pages/HomePage";
 import GuitarTuner from "./Pages/GuitarTuner";
 import LearningSection from "./Pages/LearningSection";
 import ChordLibrary from "./Pages/ChordLibrary";
+import ChordProgGen from "./Pages/ChordProgGen";
 import ProfilePage from "./Pages/ProfilePage";
 
 function AppLayout() {
@@ -57,6 +59,7 @@ function AppLayout() {
         <Route path="learning-section" element={<LearningSection />} />
         <Route path="guitar-tuner" element={<GuitarTuner />} />
         <Route path="chord-library" element={<ChordLibrary />} />
+        <Route path="chord-prog-gen" element={<ChordProgGen />} />
         <Route path="profile" element={<ProfilePage />} />
       </Routes>
     </div>
@@ -88,6 +91,14 @@ export default function App() {
         element={
           <PublicRoute>
             <SignupPage />
+          </PublicRoute>
+        }
+      />
+      <Route
+        path="/add-password"
+        element={
+          <PublicRoute>
+            <AddPasswordPage />
           </PublicRoute>
         }
       />

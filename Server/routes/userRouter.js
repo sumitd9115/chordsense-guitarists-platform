@@ -15,6 +15,7 @@ uRouter.get("/me", authController.protect, (req, res) => {
 uRouter.post("/signUp", authController.signUp);
 uRouter.post("/verifyOTP", authController.verifyOTP);
 uRouter.post("/resendOTP", authController.resendOTP);
+uRouter.post("/passwordAddition", authController.passwordAddition);
 uRouter.post("/login", authController.login);
 uRouter.post("/logout", authController.protect, authController.logOut);
 uRouter.post("/forgotPassword", authController.forgotPassword);

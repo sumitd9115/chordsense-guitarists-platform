@@ -21,7 +21,7 @@ exports.getUser = catchAsync(async (req, res, next) => {
 
 exports.updateUser = catchAsync(async (req, res, next) => {
   const newdoc = await User.findByIdAndUpdate(req.params.id, req.body, {
-    new: true,
+    returnDocument: "after",
     runValidators: true,
   });
 

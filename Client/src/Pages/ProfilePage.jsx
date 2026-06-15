@@ -69,7 +69,6 @@ const inputCls = `
 export default function ProfilePage() {
   const { user, login } = useAuth();
 
-  // ── Profile form ──────────────────────────────────────────
   const [profile, setProfile] = useState({
     name: user?.name || "",
     email: user?.email || "",
@@ -79,7 +78,6 @@ export default function ProfilePage() {
   const [profileSuccess, setProfileSuccess] = useState("");
   const [profileError, setProfileError] = useState("");
 
-  // ── Password form ─────────────────────────────────────────
   const [passwords, setPasswords] = useState({
     currPassword: "",
     newPassword: "",
@@ -102,7 +100,6 @@ export default function ProfilePage() {
     }
   }, [user]);
 
-  // ── Handlers ──────────────────────────────────────────────
   async function handleProfileSave(e) {
     e.preventDefault();
     setProfileLoading(true);
@@ -113,7 +110,7 @@ export default function ProfilePage() {
         name: profile.name,
         level: profile.level,
       });
-      login(res.data.data.user, localStorage.getItem("token"));
+      await login(res.data.data.user, localStorage.getItem("token"));
       setProfileSuccess("Profile updated successfully!");
     } catch (err) {
       setProfileError(err.response?.data?.message || "Something went wrong");

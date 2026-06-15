@@ -1,16 +1,22 @@
+// All npm packages
+const jwt = require("jsonwebtoken");
+const crypto = require("crypto");
+const { promisify } = require("util");
+
+
+// All Created Packages
 const User = require("../models/userModel.js");
 const pendingUserModel = require("../models/pendingUserModel.js");
 const catchAsync = require("../utils/catchAsync.js");
-const jwt = require("jsonwebtoken");
 const AppError = require("../utils/appError.js");
-const { promisify } = require("util");
 const sendEmail = require("../utils/email.js");
-const crypto = require("crypto");
+const client = require("../config/redis.js");
 const {
   otpTemplate,
   forgotPasswordTemplate,
 } = require("../utils/emailTemplates");
 
+// JWT Token Generation
 const signToken = (id) => {
   return jwt.sign({ id: id }, process.env.JWT_SECRET, {
     expiresIn: process.env.JWT_EXPIRES_IN,
@@ -49,50 +55,42 @@ const createSendToken = (user, statusCode, res) => {
   });
 };
 
+// All Login and Signup Functionality
 exports.signUp = catchAsync(async (req, res, next) => {
-  const { email, name, password, passwordConfirm } = req.body;
+  const { email, name } = req.body;
 
-  // Check existing real user
-  const existingUser = await User.findOne({ email });
-
-  if (existingUser) {
-    return next(new AppError("User already exists!", 400));
+  if (!email || !name) {
+    return next(new AppError("Please provide name and email", 400));
   }
 
-  // Remove old pending user if exists
-  const existingPendingUser = await pendingUserModel.findOne({ email });
-
-  if (existingPendingUser) {
-    await pendingUserModel.findByIdAndDelete(existingPendingUser._id);
+  // Check if real user already exists
+  const existingUser = await User.findOne({ email });
+  if (existingUser) {
+    return next(new AppError("User already exists!", 400));
   }
 
   // Generate OTP
   const otp = Math.floor(100000 + Math.random() * 900000);
 
-  // Hash OTP
-  const hashedOTP = crypto
-    .createHash("sha256")
-    .update(otp.toString())
-    .digest("hex");
+  // Store in Redis with 10 min expiry
+  await client.set(
+    `signup:${email}`,
+    JSON.stringify({
+      name,
+      email,
+      otp,
+      verified: false,
+    }),
+    { EX: 600 },
+  );
 
-  // Create new pending user
-  const tempUser = await pendingUserModel.create({
-    email,
-    name,
-    password,
-    passwordConfirm,
-    otp: hashedOTP,
-    otpExpires: Date.now() + 10 * 60 * 1000,
-  });
-
-  // Send Email
+  // Send OTP email
   await sendEmail({
-    email: tempUser.email,
-    subject: "Verify Your Email",
+    email,
+    subject: "Verify Your Email — ChordSense",
     html: otpTemplate(otp),
   });
 
-  // Response
   res.status(201).json({
     success: true,
     message: "OTP sent to email successfully!!",
@@ -106,66 +104,44 @@ exports.verifyOTP = catchAsync(async (req, res, next) => {
     return next(new AppError("Please provide email and OTP", 400));
   }
 
-  const tempUser = await pendingUserModel
-    .findOne({ email })
-    .select("+password +passwordConfirm");
-
-  if (!tempUser) {
-    return next(new AppError("User not found!!", 404));
+  const data = await client.get(`signup:${email}`);
+  if (!data) {
+    return next(new AppError("OTP expired. Please sign up again.", 401));
   }
 
-  const hashedEnteredOTP = crypto
-    .createHash("sha256")
-    .update(otp.toString())
-    .digest("hex");
+  const user = JSON.parse(data);
 
-  if (tempUser.otp !== hashedEnteredOTP) {
+  if (Number(user.otp) !== Number(otp)) {
     return next(new AppError("Invalid OTP entered!!", 401));
   }
 
-  if (tempUser.otpExpires < Date.now()) {
-    return next(new AppError("OTP Expired!!", 401));
-  }
+  // Mark verified, reset TTL for password step
+  user.verified = true;
+  await client.set(`signup:${email}`, JSON.stringify(user), { EX: 600 });
 
-  // Create actual user
-  const newUser = await User.create({
-    name: tempUser.name,
-    email: tempUser.email,
-    password: tempUser.password,
-    passwordConfirm: tempUser.passwordConfirm,
+  res.status(200).json({
+    success: true,
+    message: "Email verified successfully!!",
   });
-
-  // Delete pending user
-  await pendingUserModel.findByIdAndDelete(tempUser._id);
-
-  // Login user
-  createSendToken(newUser, 201, res);
 });
 
 exports.resendOTP = catchAsync(async (req, res, next) => {
   const { email } = req.body;
 
-  const tempUser = await pendingUserModel.findOne({ email });
-
-  if (!tempUser) {
-    return next(new AppError("User not found", 404));
+  const data = await client.get(`signup:${email}`);
+  if (!data) {
+    return next(new AppError("Session expired. Please sign up again.", 400));
   }
 
+  const user = JSON.parse(data);
   const otp = Math.floor(100000 + Math.random() * 900000);
+  user.otp = otp;
 
-  const hashedOTP = crypto
-    .createHash("sha256")
-    .update(otp.toString())
-    .digest("hex");
-
-  tempUser.otp = hashedOTP;
-  tempUser.otpExpires = Date.now() + 10 * 60 * 1000;
-
-  await tempUser.save({ validateBeforeSave: false });
+  await client.set(`signup:${email}`, JSON.stringify(user), { EX: 600 });
 
   await sendEmail({
-    email: tempUser.email,
-    subject: "Verify Your Email",
+    email: user.email,
+    subject: "Verify Your Email — ChordSense",
     html: otpTemplate(otp),
   });
 
@@ -173,6 +149,37 @@ exports.resendOTP = catchAsync(async (req, res, next) => {
     success: true,
     message: "OTP resent successfully",
   });
+});
+
+exports.passwordAddition = catchAsync(async (req, res, next) => {
+  const { email, password, passwordConfirm } = req.body;
+
+  if (!email || !password || !passwordConfirm) {
+    return next(new AppError("Please provide all fields", 400));
+  }
+
+  const data = await client.get(`signup:${email}`);
+  if (!data) {
+    return next(new AppError("Session expired. Please sign up again.", 400));
+  }
+
+  const userData = JSON.parse(data);
+
+  if (!userData.verified) {
+    return next(new AppError("Please verify your email first.", 401));
+  }
+
+  const newUser = await User.create({
+    name: userData.name,
+    email: userData.email,
+    password,
+    passwordConfirm,
+  });
+
+  // Clean up Redis
+  await client.del(`signup:${email}`);
+
+  createSendToken(newUser, 201, res);
 });
 
 exports.login = catchAsync(async (req, res, next) => {
@@ -195,6 +202,7 @@ exports.login = catchAsync(async (req, res, next) => {
   createSendToken(user, 200, res);
 });
 
+// Protection Functionality
 exports.protect = catchAsync(async (req, res, next) => {
   // 1. Getting the token and check if it's there
 
@@ -253,6 +261,7 @@ exports.restrictTo = (...roles) => {
   };
 };
 
+// All Password Updating functionalities
 exports.forgotPassword = catchAsync(async (req, res, next) => {
   // 1. Get user POSTed email
   const user = await User.findOne({ email: req.body.email });
@@ -349,6 +358,7 @@ exports.updatePassword = catchAsync(async (req, res, next) => {
   createSendToken(user, 200, res);
 });
 
+// Logout Functionality
 exports.logOut = catchAsync(async (req, res, next) => {
   await User.findByIdAndUpdate(req.user.id, {
     lastActive: Date.now(),

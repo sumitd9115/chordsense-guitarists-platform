@@ -1,39 +1,3 @@
-// import guitarchords from "../../assets/Guitar-chords.jpg";
-
-// export default function ChordStartingPage({ setpage }) {
-//   return (
-//     <div
-//       className="relative h-screen flex flex-col justify-center overflow-hidden"
-//       style={{
-//         backgroundImage: `url(${guitarchords})`,
-//         backgroundSize: "cover",
-//         backgroundPosition: "center",
-//       }}
-//     >
-//       <div className="absolute inset-0 bg-black/80" />
-
-//       <div className="animate-fadeIn max-w-3xl mx-auto">
-//         <div className="text-center mb-12">
-//           <h1 className="text-white text-4xl font-bold font-sans tracking-tight mb-5">
-//             Welcome to Chord Library!
-//           </h1>
-//           <p className="text-stone-400 text-base max-w-md mx-auto leading-relaxed">
-//             Lets deep dive into Chord Library by learning various chord patterns
-//             and knowing about how exactly they are played!!
-//           </p>
-//           <button
-//             className="text-stone-900 p-4 rounded-2xl cursor-pointer bg-amber-300 mt-6"
-//             onClick={setpage}
-//           >
-//             Lets start!! →
-//           </button>
-//         </div>
-//       </div>
-//     </div>
-//   );
-// }
-
-
 import guitarchords from "../../assets/Guitar-chords.jpg";
 
 export default function ChordStartingPage({ setpage }) {

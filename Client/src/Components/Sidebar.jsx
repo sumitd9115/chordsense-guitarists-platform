@@ -1,139 +1,16 @@
-// import { useState } from "react";
-// import {
-//   FiHome,
-//   FiGrid,
-//   FiMusic,
-//   FiBook,
-//   FiSliders,
-//   FiUser,
-//   FiLogOut,
-// } from "react-icons/fi";
-// import { useAuth } from "../context/useAuth";
-// import api from "../api/axios";
-// import { useNavigate } from "react-router-dom";
-
-// const navItems = [
-//   { label: "Home", icon: FiHome },
-//   { label: "Dashboard", icon: FiGrid },
-//   { label: "Learning Section", icon: FiBook },
-//   { label: "Chord Library", icon: FiMusic },
-//   { label: "Guitar Tuner", icon: FiSliders },
-//   { label: "Profile", icon: FiUser },
-// ];
-
-// export default function Sidebar({ onNavigate, activePage, onNavigateButton }) {
-//   const [hovered, setHovered] = useState(null);
-//   const [loggingOut, setLoggingOut] = useState(false);
-//   const { logout } = useAuth();
-//   const navigate = useNavigate();
-
-//   async function handleLogout() {
-//     setLoggingOut(true);
-//     try {
-//       await api.post("/users/logout");
-//     } catch (_) {
-//       // even if it fails, clear local state
-//     } finally {
-//       logout();
-//       navigate("/login");
-//     }
-//   }
-
-//   return (
-//     <aside className="h-full w-80 bg-stone-950 border-r border-stone-800 flex flex-col shadow-2xl shadow-black/60 overflow-hidden">
-//       {/* Brand */}
-//       <div className="px-2 py-4 border-b border-stone-800">
-//         <p className="text-amber-400 font-sans text-md text-center font-bold tracking-[0.35em] uppercase mb-1">
-//           — MENU —
-//         </p>
-//       </div>
-
-//       {/* Nav Items */}
-//       <nav className="flex-1 px-3 py-5 space-y-1 overflow-y-auto">
-//         {navItems.map(({ label, icon: Icon }, i) => {
-//           const isActive = activePage === label;
-//           const isHovered = hovered === label;
-
-//           return (
-//             <button
-//               key={label}
-//               onClick={() => {
-//                 onNavigate?.(label);
-//                 onNavigateButton(false);
-//               }}
-//               onMouseEnter={() => setHovered(label)}
-//               onMouseLeave={() => setHovered(null)}
-//               style={{ animationDelay: `${i * 40}ms` }}
-//               className={`
-//                 w-full flex items-center gap-3 px-4 py-2.5 rounded-xl
-//                 font-mono text-sm tracking-wide transition-all duration-200
-//                 group relative overflow-hidden
-//                 ${
-//                   isActive
-//                     ? "bg-amber-400/10 text-amber-400 border border-amber-400/30"
-//                     : "text-stone-300 hover:text-white hover:bg-stone-800/70 border border-transparent"
-//                 }
-//               `}
-//             >
-//               {isActive && (
-//                 <span className="absolute left-0 top-1/2 -translate-y-1/2 w-[3px] h-5 bg-amber-400 rounded-r-full" />
-//               )}
-//               <Icon
-//                 className={`text-base flex-shrink-0 transition-transform duration-200
-//                   ${isActive ? "text-amber-400" : "text-stone-300 group-hover:text-amber-400"}
-//                   ${isHovered && !isActive ? "scale-110" : ""}
-//                 `}
-//               />
-//               <span>{label}</span>
-//               {isHovered && !isActive && (
-//                 <span className="ml-auto text-amber-400/60 text-xs">›</span>
-//               )}
-//             </button>
-//           );
-//         })}
-//       </nav>
-
-//       {/* Logout */}
-//       <div className="px-3 py-4 border-t border-stone-800">
-//         <button
-//           onClick={handleLogout}
-//           disabled={loggingOut}
-//           onMouseEnter={() => setHovered("logout")}
-//           onMouseLeave={() => setHovered(null)}
-//           className="w-full flex items-center gap-3 px-4 py-2.5 rounded-xl
-//                      font-mono text-sm tracking-wide transition-all duration-200
-//                      text-stone-500 hover:text-red-400 hover:bg-red-500/10
-//                      border border-transparent hover:border-red-500/20
-//                      disabled:opacity-40 disabled:cursor-not-allowed group"
-//         >
-//           {loggingOut ? (
-//             <div className="w-4 h-4 border-2 border-stone-500 border-t-transparent rounded-full animate-spin" />
-//           ) : (
-//             <FiLogOut
-//               className={`text-base flex-shrink-0 transition-transform duration-200
-//                 ${hovered === "logout" ? "scale-110 text-red-400" : "text-stone-500"}
-//               `}
-//             />
-//           )}
-//           <span>{loggingOut ? "Signing out..." : "Log out"}</span>
-//         </button>
-//       </div>
-//     </aside>
-//   );
-// }
-
 import { useState } from "react";
 import { NavLink, useNavigate } from "react-router-dom";
-import { FiMusic, FiBook, FiSliders, FiLogOut, FiUser } from "react-icons/fi";
+import { FiMusic, FiBookOpen, FiSliders, FiLogOut, FiUser, FiHome, FiTrendingUp } from "react-icons/fi";
 
 import { useAuth } from "../context/useAuth";
 import api from "../api/axios";
 
 const navItems = [
-  { label: "Home", icon: FiSliders, path: "/home" },
+  { label: "Home", icon: FiHome, path: "/home" },
   { label: "Guitar Tuner", icon: FiSliders, path: "/guitar-tuner" },
-  { label: "Learning Section", icon: FiBook, path: "/learning-section" },
+  { label: "Learning Section", icon: FiBookOpen, path: "/learning-section" },
   { label: "Chord Library", icon: FiMusic, path: "/chord-library" },
+  { label: "Harmony Forge", icon: FiTrendingUp, path: "/chord-prog-gen" },
   { label: "Profile", icon: FiUser, path: "/profile" },
 ];
 

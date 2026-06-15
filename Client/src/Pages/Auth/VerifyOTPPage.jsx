@@ -1,12 +1,10 @@
 import { useState, useRef, useEffect } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
-import { useAuth } from "../../context/useAuth";
 import api from "../../api/axios";
 
 export default function VerifyOTPPage() {
   const navigate = useNavigate();
   const location = useLocation();
-  const { login } = useAuth();
 
   const email = location.state?.email;
 
@@ -71,12 +69,8 @@ export default function VerifyOTPPage() {
     setError("");
 
     try {
-      const res = await api.post("/users/verifyOTP", {
-        email,
-        otp: otpString,
-      });
-      login(res.data.data.user, res.data.token);
-      navigate("/home", { replace: true });
+      await api.post("/users/verifyOTP", { email, otp: otpString });
+      navigate("/add-password", { state: { email }, replace: true });
     } catch (err) {
       setError(err.response?.data?.message || "Invalid OTP");
       setOtp(["", "", "", "", "", ""]);
@@ -121,7 +115,7 @@ export default function VerifyOTPPage() {
           </p>
           <div
             className="w-14 h-14 bg-amber-400/10 border border-amber-400/30 rounded-2xl
-                          flex items-center justify-center mx-auto mb-4"
+                  flex items-center justify-center mx-auto mb-4"
           >
             <span className="text-2xl">📬</span>
           </div>
@@ -133,6 +127,29 @@ export default function VerifyOTPPage() {
             <br />
             <span className="text-amber-400 font-mono">{email}</span>
           </p>
+          {/* Step indicator — step 2 active */}
+          <div className="flex items-center justify-center gap-2 mt-4">
+            <div className="flex items-center gap-1.5">
+              <div className="w-6 h-6 rounded-full bg-stone-600 text-stone-300 text-xs font-bold font-mono flex items-center justify-center">
+                ✓
+              </div>
+              <span className="text-stone-500 text-xs font-mono">Details</span>
+            </div>
+            <div className="w-8 h-px bg-stone-600" />
+            <div className="flex items-center gap-1.5">
+              <div className="w-6 h-6 rounded-full bg-amber-400 text-black text-xs font-bold font-mono flex items-center justify-center">
+                2
+              </div>
+              <span className="text-amber-400 text-xs font-mono">Verify</span>
+            </div>
+            <div className="w-8 h-px bg-stone-700" />
+            <div className="flex items-center gap-1.5">
+              <div className="w-6 h-6 rounded-full bg-stone-700 text-stone-400 text-xs font-bold font-mono flex items-center justify-center">
+                3
+              </div>
+              <span className="text-stone-500 text-xs font-mono">Password</span>
+            </div>
+          </div>
         </div>
 
         {/* Card */}

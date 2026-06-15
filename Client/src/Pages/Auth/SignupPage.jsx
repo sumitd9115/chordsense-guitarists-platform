@@ -5,12 +5,10 @@ import api from "../../api/axios";
 export default function SignupPage() {
   const navigate = useNavigate();
 
-  const [form, setForm] = useState({
-    name: "", email: "", password: "", passwordConfirm: "",
-  });
-  const [error, setError]   = useState("");
+  // ✅ Only name + email now
+  const [form, setForm] = useState({ name: "", email: "" });
+  const [error, setError] = useState("");
   const [loading, setLoading] = useState(false);
-  const [showPass, setShowPass] = useState(false);
 
   function handleChange(e) {
     setForm({ ...form, [e.target.name]: e.target.value });
@@ -19,30 +17,19 @@ export default function SignupPage() {
 
   async function handleSubmit(e) {
     e.preventDefault();
-    if (form.password !== form.passwordConfirm) {
-      setError("Passwords do not match");
-      return;
-    }
     setLoading(true);
     setError("");
 
     try {
       await api.post("/users/signUp", form);
-      // OTP sent — go to verify page with email in state
+      // ✅ Pass email in state so VerifyOTP page knows it
       navigate("/verify-otp", { state: { email: form.email } });
     } catch (err) {
-      setError(err.response?.data?.message || "Enter all fields with valid data!!");
+      setError(err.response?.data?.message || "Something went wrong!!");
     } finally {
       setLoading(false);
     }
   }
-
-  const fields = [
-    { name: "name",            label: "Full Name",       type: "text",     placeholder: "John Doe" },
-    { name: "email",           label: "Email",           type: "email",    placeholder: "you@example.com" },
-    { name: "password",        label: "Password",        type: "password", placeholder: "Min 8 characters" },
-    { name: "passwordConfirm", label: "Confirm Password",type: "password", placeholder: "Repeat password" },
-  ];
 
   return (
     <div className="min-h-screen bg-stone-950 flex items-center justify-center px-4 py-10 font-sans">
@@ -56,7 +43,6 @@ export default function SignupPage() {
 
       <div className="w-full max-w-md fade-up">
 
-        {/* Brand */}
         <div className="text-center mb-8">
           <p className="text-amber-400 text-[10px] font-mono tracking-[0.5em] uppercase mb-2">
             ◈ ChordSense
@@ -67,9 +53,25 @@ export default function SignupPage() {
           <p className="text-stone-500 text-sm mt-2">
             Create your free account
           </p>
+          {/* ✅ Step indicator */}
+          <div className="flex items-center justify-center gap-2 mt-4">
+            <div className="flex items-center gap-1.5">
+              <div className="w-6 h-6 rounded-full bg-amber-400 text-black text-xs font-bold font-mono flex items-center justify-center">1</div>
+              <span className="text-amber-400 text-xs font-mono">Details</span>
+            </div>
+            <div className="w-8 h-px bg-stone-700" />
+            <div className="flex items-center gap-1.5">
+              <div className="w-6 h-6 rounded-full bg-stone-700 text-stone-400 text-xs font-bold font-mono flex items-center justify-center">2</div>
+              <span className="text-stone-500 text-xs font-mono">Verify</span>
+            </div>
+            <div className="w-8 h-px bg-stone-700" />
+            <div className="flex items-center gap-1.5">
+              <div className="w-6 h-6 rounded-full bg-stone-700 text-stone-400 text-xs font-bold font-mono flex items-center justify-center">3</div>
+              <span className="text-stone-500 text-xs font-mono">Password</span>
+            </div>
+          </div>
         </div>
 
-        {/* Card */}
         <div className="bg-stone-900 border border-stone-700/60 rounded-2xl p-8 shadow-2xl shadow-black/60">
 
           {error && (
@@ -79,41 +81,44 @@ export default function SignupPage() {
           )}
 
           <form onSubmit={handleSubmit} className="flex flex-col gap-5">
-            {fields.map((field) => (
-              <div key={field.name} className="flex flex-col gap-1.5">
-                <label className="text-stone-400 text-xs font-mono tracking-widest uppercase">
-                  {field.label}
-                </label>
-                <div className="relative">
-                  <input
-                    type={
-                      field.type === "password"
-                        ? showPass ? "text" : "password"
-                        : field.type
-                    }
-                    name={field.name}
-                    value={form[field.name]}
-                    onChange={handleChange}
-                    placeholder={field.placeholder}
-                    required
-                    className="w-full bg-stone-800/60 border border-stone-700/60 rounded-xl px-4 py-3
-                               text-white placeholder-stone-600 text-sm
-                               focus:outline-none focus:border-amber-400/50 focus:bg-stone-800
-                               transition-all duration-200"
-                  />
-                  {field.type === "password" && (
-                    <button
-                      type="button"
-                      onClick={() => setShowPass(!showPass)}
-                      className="absolute right-4 top-1/2 -translate-y-1/2 text-stone-500
-                                 hover:text-stone-300 transition-colors text-xs font-mono"
-                    >
-                      {showPass ? "HIDE" : "SHOW"}
-                    </button>
-                  )}
-                </div>
-              </div>
-            ))}
+
+            {/* Name */}
+            <div className="flex flex-col gap-1.5">
+              <label className="text-stone-400 text-xs font-mono tracking-widest uppercase">
+                Full Name
+              </label>
+              <input
+                type="text"
+                name="name"
+                value={form.name}
+                onChange={handleChange}
+                placeholder="John Doe"
+                required
+                className="w-full bg-stone-800/60 border border-stone-700/60 rounded-xl px-4 py-3
+                           text-white placeholder-stone-600 text-sm
+                           focus:outline-none focus:border-amber-400/50 focus:bg-stone-800
+                           transition-all duration-200"
+              />
+            </div>
+
+            {/* Email */}
+            <div className="flex flex-col gap-1.5">
+              <label className="text-stone-400 text-xs font-mono tracking-widest uppercase">
+                Email
+              </label>
+              <input
+                type="email"
+                name="email"
+                value={form.email}
+                onChange={handleChange}
+                placeholder="you@example.com"
+                required
+                className="w-full bg-stone-800/60 border border-stone-700/60 rounded-xl px-4 py-3
+                           text-white placeholder-stone-600 text-sm
+                           focus:outline-none focus:border-amber-400/50 focus:bg-stone-800
+                           transition-all duration-200"
+              />
+            </div>
 
             <button
               type="submit"
@@ -127,10 +132,11 @@ export default function SignupPage() {
               {loading ? (
                 <>
                   <div className="w-4 h-4 border-2 border-amber-400 border-t-transparent rounded-full animate-spin" />
-                  Creating account...
+                  Sending OTP...
                 </>
-              ) : "Create Account →"}
+              ) : "Continue →"}
             </button>
+
           </form>
         </div>
 

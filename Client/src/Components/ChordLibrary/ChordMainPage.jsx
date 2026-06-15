@@ -4,7 +4,7 @@ import ChordDiagram from "./ChordDiagram";
 import { ROOT_NOTES, QUALITIES } from "../../Data/ChordLibraryBasics";
 import { ChordLibrary } from "../../Data/ChordLibrary";
 import { useChordPlayer } from "../../Hooks/useChordPlayer";
-
+  
 export default function ChordMainPage() {
   const [root, setRoot] = useState("C");
   const [quality, setQuality] = useState("Major");
