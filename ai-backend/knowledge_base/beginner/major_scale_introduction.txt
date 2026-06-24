@@ -1,0 +1,73 @@
+LEVEL: Beginner
+LESSON: Major Scale Introduction
+============================================================
+
+PAGE 1: What Is A Scale
+----------------------------------------
+The major scale is the most fundamental structure in Western music. Understanding it unlocks chord construction, songwriting, and improvisation.
+ 
+  WHAT IS A SCALE?  
+A scale is a specific sequence of notes in a specific order of intervals. The major scale uses a pattern of whole steps (W) and half steps (H):
+ 
+W - W - H - W - W - W - H
+ 
+Starting from any note and following this pattern gives you the major scale for that root note.
+ 
+  C MAJOR SCALE (no sharps or flats — the simplest example)  
+C - D - E - F - G - A - B - C
+  C to D = Whole step
+  D to E = Whole step
+  E to F = Half step (no sharp between E and F)
+  F to G = Whole step
+  G to A = Whole step
+  A to B = Whole step
+  B to C = Half step (no sharp between B and C)
+ 
+  THE SCALE DEGREES  
+Each note in the scale is numbered:
+  1 = C (root)
+  2 = D
+  3 = E
+  4 = F
+  5 = G
+  6 = A
+  7 = B
+  8 = C (octave)
+ 
+These numbers are used throughout all music theory. "Play the 1-4-5 progression in G" means use the 1st, 4th, and 5th notes of G major as chord roots.
+ 
+  WHY LEARN THIS NOW?  
+Every chord you play is built from scale notes. C major chord (C-E-G) uses the 1st, 3rd, and 5th notes of C major. This relationship between scales and chords is the foundation of all music theory on guitar.
+
+PAGE 2: C Major Scale On One String
+----------------------------------------
+Playing the major scale on a single string is the clearest way to physically feel the whole step / half step pattern and connect theory to the fretboard.
+ 
+  C MAJOR ON THE B STRING (2nd string)  
+The B string opens on B, so C is at the 1st fret:
+ 
+  Fret 1  = C  (root)
+  Fret 3  = D  (whole step from C)
+  Fret 5  = E  (whole step from D)
+  Fret 6  = F  (half step from E — only 1 fret!)
+  Fret 8  = G  (whole step from F)
+  Fret 10 = A  (whole step from G)
+  Fret 12 = B  (whole step from A)
+  Fret 13 = C  (half step from B — only 1 fret!)
+ 
+Notice the pattern: 2-2-1-2-2-2-1 frets between notes. That is the W-W-H-W-W-W-H major scale pattern made physical.
+ 
+  C MAJOR ON THE LOW E STRING (6th string)  
+C is at the 8th fret of the low E string:
+  Fret 8  = C
+  Fret 10 = D
+  Fret 12 = E
+  Fret 13 = F (only 1 fret!)
+  Fret 15 = G
+  Fret 17 = A
+  Fret 19 = B
+  Fret 20 = C
+ 
+  THE KEY INSIGHT  
+The pattern of fret distances is the same on every string (adjusting for the B string's major third tuning). Once you know the W-W-H-W-W-W-H pattern and the starting note, you can play any major scale on any string. This is how moveable scale patterns work across the entire fretboard.
+

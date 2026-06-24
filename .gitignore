@@ -1,21 +1,39 @@
-.vite
-
+# Node.js / React
 # Dependencies
-Client/node_modules
-Server/node_modules
-
-# Environment variables
-Server/.env
-Client/.env
-Client/.env.local
+Client/node_modules/
+Server/node_modules/
 
 # Build output
-Client/dist
+Client/dist/
+Client/.vite/
 
-# Vite cache
-Client/.vite
+# Python / FastAPI
+# Virtual Environments
+ai-backend/chordsense-venv/
 
-# System files
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Environment Variables
+Client/.env
+Client/.env.local
+Server/.env
+ai-backend/.env
+
+# AI Generated Data
+ai-backend/vector_store/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS Files
 .DS_Store
 Thumbs.db
-*.log

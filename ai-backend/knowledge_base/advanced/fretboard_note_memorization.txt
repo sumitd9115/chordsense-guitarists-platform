@@ -1,0 +1,61 @@
+LEVEL: Advanced
+LESSON: Fretboard Note Memorization
+============================================================
+
+PAGE 1: Methods For Knowing Every Note Instantly
+----------------------------------------
+Knowing every note on every string instantly — without calculating — is a hallmark of an advanced guitarist. It transforms how you think and communicate musically.
+
+  WHY IT MATTERS  
+When a bandmate says "let's play in Eb," or a chord chart shows an unfamiliar chord, knowing the notes on the fretboard lets you immediately find any chord shape, scale, or reference point you need without pausing to calculate.
+
+  METHOD 1 — LOW E AND A STRINGS FIRST  
+These two strings are most important: they contain the root notes for all barre chords and scale patterns. Memorise them as a priority.
+
+Low E string natural notes:
+  E(0)  F(1)  G(3)  A(5)  B(7)  C(8)  D(10)  E(12)
+
+A string natural notes:
+  A(0)  B(2)  C(3)  D(5)  E(7)  F(8)  G(10)  A(12)
+
+Quiz yourself daily until these are instant. This alone unlocks every barre chord in every key.
+
+  METHOD 2 — OCTAVE SHAPES  
+The same note appears at multiple neck locations in predictable patterns:
+  Same note: 2 strings higher, 2 frets higher (from the E/A/D/G string group)
+  Same note: 2 strings higher, 3 frets higher (from the B string — major third adjustment)
+
+Find C on the A string (3rd fret) → same C appears on the G string (5th fret) and on the high e (8th fret). Octave shapes let you find any note quickly from a known position.
+
+  METHOD 3 — 12TH FRET RESET  
+At the 12th fret, every string repeats its open note one octave higher. Frets 12-24 are an exact repeat of frets 0-12. Know frets 1-12 and you know the entire neck.
+
+  METHOD 4 — DOT INLAY LANDMARKS  
+Memorise the notes at frets 3, 5, 7, 9, and 12 on each string (where the dot inlays are). Use these as reference points and calculate up or down from the nearest landmark for any other fret.
+
+  DAILY PRACTICE  
+Pick a random fret and string. Name the note immediately. Check yourself. 5 minutes daily. Within one month the entire fretboard becomes familiar.
+
+PAGE 2: Octave Shapes and Pattern Recognition
+----------------------------------------
+Octave shapes are the fastest practical tool for navigating the fretboard — once you know one instance of a note, you can instantly locate it everywhere else on the neck.
+
+  THE TWO OCTAVE SHAPES  
+
+ SHAPE 1 — 2 strings up, 2 frets up (from strings 6→4, 5→3, 4→2) 
+Example: G at the 3rd fret of the 6th string
+  → Same G appears at the 5th fret of the 4th string
+  → Same G appears at the 7th fret of the 3rd string
+Pattern: skip one string, move 2 frets toward the body.
+
+ SHAPE 2 — 2 strings up, 3 frets up (when crossing the B string) 
+Example: G at the 8th fret of the 2nd string (B string)
+Going from the G string (3rd) to the B string (2nd): add 1 extra fret due to the major third tuning gap.
+  G at 5th fret of D string → G at 8th fret of B string (not 7th — B string exception adds 1)
+
+  THE B STRING EXCEPTION  
+The B string is tuned a major 3rd above the G string instead of a perfect 4th. This means any shape crossing the B string shifts 1 fret higher than expected. This exception applies to ALL patterns (scales, chords, octave shapes) involving the B string. Internalising this exception is essential for advanced fretboard navigation.
+
+  PRACTICAL APPLICATION  
+You're playing in the key of D and need to find the chord tones of D major (D, F#, A) across the neck. Start with D on the A string (5th fret). Use octave shapes to find D everywhere else. Then do the same for F# and A. In minutes you've mapped all D major chord tones across the entire neck — the foundation for CAGED and advanced chord voicings.
+

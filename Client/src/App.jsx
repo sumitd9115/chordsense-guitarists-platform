@@ -21,6 +21,7 @@ import LearningSection from "./Pages/LearningSection";
 import ChordLibrary from "./Pages/ChordLibrary";
 import ChordProgGen from "./Pages/ChordProgGen";
 import SavedProgressionPage from "./Components/Chord Progression Gen/SavedProgressionPage";
+import AIassistant from "./Pages/AIassistant";
 import ProfilePage from "./Pages/ProfilePage";
 
 function AppLayout() {
@@ -38,6 +39,8 @@ function AppLayout() {
           path="saved-progression/:id"
           element={<SavedProgressionPage />}
         />
+        <Route path="ai-assistant" element={<AIassistant />} />
+        <Route path="ai-assistant/:chatId" element={<AIassistant />} />
         <Route path="profile" element={<ProfilePage />} />
       </Routes>
     </div>

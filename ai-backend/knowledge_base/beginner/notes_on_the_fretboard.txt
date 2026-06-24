@@ -1,0 +1,69 @@
+LEVEL: Beginner
+LESSON: Notes On The Fretboard
+============================================================
+
+PAGE 1: Natural Notes
+----------------------------------------
+The guitar neck contains 12 unique musical notes, repeating across every string as you move higher up the frets.
+ 
+  THE 12 NOTES  
+A   A#/Bb   B   C   C#/Db   D   D#/Eb   E   F   F#/Gb   G   G#/Ab
+Then it repeats: A, A#, B, C...
+ 
+The distance between any two adjacent notes = one Half Step (semitone) = one fret.
+Two frets = a Whole Step (whole tone).
+ 
+  THE 7 NATURAL NOTES (NO SHARPS OR FLATS)  
+A  B  C  D  E  F  G — then back to A.
+Two important exceptions — pairs of natural notes with NO sharp/flat between them:
+  B → C: naturally a half step apart (no B# exists in standard music)
+  E → F: naturally a half step apart (no E# exists in standard music)
+Memorise these exceptions — they come up constantly in theory.
+ 
+  THE 12TH FRET RULE  
+At the 12th fret, every string produces exactly the same note as its open string — one octave higher. The 12th fret is marked with a double dot inlay on most guitars for this reason.
+ 
+  OCTAVE SHAPES  
+The same note appears at multiple locations across the neck in predictable patterns:
+  Same note is found 2 strings higher, 2 frets higher (from the E/A/D/G string group)
+  Same note is found 2 strings higher, 3 frets higher (from the B string, due to the major third)
+Learning octave shapes lets you quickly find any note anywhere on the fretboard.
+
+PAGE 2: Finding Notes On Each String
+----------------------------------------
+Knowing the notes on every string — especially the lowest two — is the foundation for understanding the entire fretboard.
+ 
+  LOW E STRING (6th) — MOST IMPORTANT  
+  Open = E
+  Fret 1 = F
+  Fret 2 = F#/Gb
+  Fret 3 = G
+  Fret 4 = G#/Ab
+  Fret 5 = A
+  Fret 6 = A#/Bb
+  Fret 7 = B
+  Fret 8 = C
+  Fret 9 = C#/Db
+  Fret 10 = D
+  Fret 11 = D#/Eb
+  Fret 12 = E (octave — same as open)
+ 
+  A STRING (5th) — SECOND MOST IMPORTANT  
+  Open = A
+  Fret 2 = B
+  Fret 3 = C
+  Fret 5 = D
+  Fret 7 = E
+  Fret 8 = F
+  Fret 10 = G
+  Fret 12 = A (octave)
+ 
+  WHY THESE TWO STRINGS FIRST  
+The 6th and 5th strings contain the root notes for all E-shape and A-shape barre chords. Knowing these strings means you can immediately find any barre chord in any key — a huge practical payoff.
+ 
+  DOT INLAYS AS LANDMARKS  
+Most guitars have dot inlays at frets 3, 5, 7, 9, and 12. Use these as reference points. Know the notes at these fret positions on each string and calculate from the nearest landmark for any fret in between.
+ 
+  MEMORISATION METHOD  
+Pick one string. Learn its notes at the dot inlay frets first (3, 5, 7, 9, 12). Then fill in the gaps. Spend 5 minutes quizzing yourself daily on random fret-string combinations. Full fretboard knowledge comes within a month of consistent daily practice.
+

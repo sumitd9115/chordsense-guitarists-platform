@@ -1,0 +1,61 @@
+LEVEL: Beginner
+LESSON: Understanding Beat and Tempo
+============================================================
+
+PAGE 1: What Is A Beat?
+----------------------------------------
+Before you can strum, you need to understand the rhythmic foundation that all music is built on.
+ 
+  WHAT IS A BEAT?  
+A beat is the basic unit of time in music — it's the steady pulse you tap your foot to when listening to a song. If someone says "count to four," they mean count four beats: 1, 2, 3, 4, 1, 2, 3, 4.
+ 
+  WHAT IS TEMPO?  
+Tempo is the speed of those beats, measured in BPM (beats per minute).
+  60 BPM = 1 beat per second (slow ballad)
+  90 BPM = medium pace (pop/rock)
+  120 BPM = energetic pace (upbeat pop)
+  160+ BPM = fast (metal, fast rock)
+ 
+  TIME SIGNATURES  
+The most common is 4/4 — 4 beats per measure (bar). You count: 1, 2, 3, 4, 1, 2, 3, 4. Also called "common time." Used in the vast majority of popular music.
+ 
+3/4 time (waltz): 3 beats per measure — 1, 2, 3, 1, 2, 3.
+ 
+  SUBDIVISIONS  
+Each beat can be divided into smaller units:
+   Eighth notes:  divide each beat into 2 → counted: 1 + 2 + 3 + 4 + (where + = "and")
+   Sixteenth notes:  divide each beat into 4 → counted: 1 e + a 2 e + a 3 e + a 4 e + a
+ 
+Most basic strumming patterns use eighth note subdivisions — the "and" counts between the main beats.
+ 
+  USING A METRONOME  
+A metronome clicks at a set BPM, helping you maintain steady time. Use your app's built-in metronome. Start every practice session slow and only speed up when the pattern is clean and consistent.
+
+PAGE 2: BPM and Counting
+----------------------------------------
+Understanding BPM and how to count through a song gives you the framework to learn any song and play with other musicians.
+ 
+  COUNTING A BAR  
+In 4/4 time, count steadily: 1 — 2 — 3 — 4 — 1 — 2 — 3 — 4
+Each number is one beat. Four beats = one bar (measure).
+When the bar repeats, you're back at 1.
+ 
+  COUNTING WITH SUBDIVISIONS  
+To count eighth notes (the most common subdivision for strumming), add "and" between each beat:
+  1 and 2 and 3 and 4 and
+  1  +  2  +  3  +  4  +
+ 
+Each "and" falls exactly halfway between two beats. Your strumming hand moves DOWN on the numbers, UP on the "ands."
+ 
+  FINDING THE TEMPO OF A SONG  
+Tap your foot along with a song you know. Count how many taps happen in 15 seconds, then multiply by 4 — that's roughly the BPM. Or use a tap-tempo feature (available in your app's metronome).
+ 
+  COMMON SONG TEMPOS  
+  Slow ballad: 60–75 BPM
+  Medium pop/rock: 90–110 BPM
+  Fast pop: 120–140 BPM
+  Punk/metal: 160–200+ BPM
+ 
+  INTERNAL PULSE  
+The goal of all tempo practice is to develop an internal pulse — a reliable inner clock that keeps steady time without external help. This develops through consistent metronome practice. Every professional musician has a deeply internalised sense of time built through years of deliberate rhythmic practice.
+

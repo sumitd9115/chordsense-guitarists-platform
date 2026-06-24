@@ -1,0 +1,73 @@
+LEVEL: Intermediate
+LESSON: Pentatonic Scale — Minor
+============================================================
+
+PAGE 1: The Minor Pentatonic Box
+----------------------------------------
+The minor pentatonic scale is the most important scale in rock, blues, and pop lead guitar. If you only ever learn one scale, make it this one.
+
+  WHAT IS THE PENTATONIC SCALE?  
+"Penta" means five, "tonic" means tone. The pentatonic scale uses only 5 notes per octave (vs 7 in a full major scale). This reduction removes the notes most likely to clash with chord changes, making it almost impossible to play a wrong note in the right key context.
+
+  THE A MINOR PENTATONIC — POSITION 1 (The Box)  
+  e |--5--8--|
+  B |--5--8--|
+  G |--5--7--|
+  D |--5--7--|
+  A |--5--7--|
+  E |--5--8--|
+
+Starting on the 5th fret places you in A minor pentatonic. This rectangular shape is called "the box" — the launching point for most rock and blues improvisation.
+
+  THE 5 NOTES  
+A minor pentatonic: A - C - D - E - G
+
+  USING IT TO IMPROVISE  
+1. Find a backing track in Am
+2. Place your hand in the box (5th fret)
+3. Play any notes in any order — listen to how each one sounds against the chords
+4. Add bends, hammer-ons, pull-offs to make it musical
+5. Leave space between phrases
+
+  TRANSPOSING TO OTHER KEYS  
+The box is moveable. The root note (6th string, index finger) determines the key:
+  5th fret = A minor pentatonic
+  7th fret = B minor pentatonic
+  8th fret = C minor pentatonic
+  10th fret = D minor pentatonic
+
+PAGE 2: 5 Positions Across The Fretboard
+----------------------------------------
+The minor pentatonic scale has 5 positions that together cover the entire fretboard. Knowing all 5 gives you complete freedom to play anywhere on the neck in any key.
+
+  WHY 5 POSITIONS?  
+The pentatonic scale has 5 notes. Each note can serve as the starting point for a position pattern. Together the 5 positions connect and overlap to cover the entire neck.
+
+  THE 5 POSITIONS (in A minor pentatonic)  
+
+ POSITION 1 — The Box (root at 5th fret) 
+  e |--5--8--|  B |--5--8--|  G |--5--7--|
+  D |--5--7--|  A |--5--7--|  E |--5--8--|
+
+ POSITION 2 (root at 8th fret area) 
+  e |--8--10--|  B |--8--10--|  G |--7--10--|
+  D |--7--10--|  A |--7--10--|  E |--8--10--|
+
+ POSITION 3 
+  e |--10--12--|  B |--10--13--|  G |--10--12--|
+  D |--10--12--|  A |--10--12--|  E |--10--12--|
+
+ POSITION 4 
+  e |--12--15--|  B |--13--15--|  G |--12--14--|
+  D |--12--14--|  A |--12--14--|  E |--12--15--|
+
+ POSITION 5 (connects back to Position 1 an octave up) 
+  e |--15--17--|  B |--15--17--|  G |--14--17--|
+  D |--14--17--|  A |--14--17--|  E |--15--17--|
+
+  CONNECTING POSITIONS  
+Each position overlaps with the next. The top two strings of Position 1 are the same as the bottom two strings of Position 2. Learn to slide seamlessly between adjacent positions — this is what makes your solos move across the entire neck rather than staying trapped in one box.
+
+  LEARNING ORDER  
+Master Position 1 thoroughly. Learn Position 2 next. Practice connecting them in one fluid run. Then add Position 3. Build outward from Position 1 rather than trying to learn all 5 separately.
+

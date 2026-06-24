@@ -1,3 +1,4 @@
+import { useEffect } from "react";
 import guitarBg from "../assets/Guitar_06.png";
 import chords from "../assets/Chords.jpg";
 import guitarTune from "../assets/Guitar-Tuner.jpg";
@@ -5,6 +6,11 @@ import HomePageSection from "../Components/Home/HomePageSection.jsx";
 import HomePageGrid from "../Components/Home/HomePageGrid.jsx";
 
 export default function HomePage() {
+  useEffect(() => {
+    // Force scroll to top on page load
+    window.scrollTo({ top: 0, behavior: "instant" });
+  }, []);
+
   return (
     <div className="relative font-mono">
       <HomePageSection

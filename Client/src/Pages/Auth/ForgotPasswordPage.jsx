@@ -16,10 +16,7 @@ export default function ForgotPasswordPage() {
 
     try {
       const res = await api.post("/users/forgotPassword", { email });
-      setSuccess(
-        res.data?.message ||
-          "Reset link sent! Check your inbox."
-      );
+      setSuccess(res.data?.message || "Reset link sent! Check your inbox.");
       setEmail("");
     } catch (err) {
       setError(err.response?.data?.message || "Something went wrong!!");

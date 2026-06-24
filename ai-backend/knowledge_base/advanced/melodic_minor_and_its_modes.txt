@@ -1,0 +1,58 @@
+LEVEL: Advanced
+LESSON: Melodic Minor and Its Modes
+============================================================
+
+PAGE 1: Jazz Melodic Minor Scale
+----------------------------------------
+The melodic minor scale is the most harmonically versatile minor scale — the foundation of jazz improvisation, creating harmonic colours unavailable from natural or harmonic minor.
+
+  WHAT IS MELODIC MINOR?  
+Classical melodic minor raised the 6th and 7th ascending, reverted to natural minor descending. Jazz melodic minor keeps the raised 6th and 7th in both directions — this "jazz melodic minor" is what guitarists mean when they say "melodic minor."
+
+A MELODIC MINOR: A B C D E F# G# A
+Compare to A natural minor: A B C D E F G
+Two notes are raised: the 6th (F→F#) and 7th (G→G#).
+
+  THE SOUND  
+Melodic minor has a "smoky," sophisticated quality — it's minor in feel (the flat 3rd gives it darkness) but the raised 6th and 7th prevent the heaviness of natural or harmonic minor. Sophisticated and slightly unstable in a beautiful way — perfect for jazz.
+
+  A MELODIC MINOR BOX (5th fret)  
+  e |--5--7--8--|
+  B |--5--7--8--|
+  G |--4--6--7--|
+  D |--5--7--8--|
+  A |--5--7--8--|
+  E |--5--7--8--|
+
+  PRACTICAL STARTING POINT  
+Learn the scale as a shape first — then focus on its two most musically valuable modes: Lydian Dominant and the Altered Scale.
+
+PAGE 2: Lydian Dominant and Altered Scale
+----------------------------------------
+The two most important modes of melodic minor for guitarists are Lydian Dominant (4th mode) and the Altered Scale (7th mode). These are the most used jazz improvisation tools beyond the basic modes.
+
+  LYDIAN DOMINANT (4th mode of melodic minor)  
+Starting on the 4th degree of A melodic minor (D):
+D - E - F# - G# - A - B - C - D
+This is D Lydian Dominant: major with a raised 4th (#11) AND a flat 7th.
+
+ THE SOUND:  Combines the dreamy floating quality of Lydian (#4) with the unresolved tension of Mixolydian (b7). The result: a dominant chord colour that floats rather than pushes. Used over dominant 7th chords where you want sophistication rather than blues.
+
+ CHARACTERISTIC:  The #11 (raised 4th/tritone) — the note that defines Lydian Dominant and gives it its floating quality over a dominant chord.
+
+ USE OVER:  D7, D9, D13 chords — especially in jazz contexts where the standard G Mixolydian sounds too plain.
+
+  THE ALTERED SCALE (7th mode of melodic minor)  
+Starting on the 7th degree of A melodic minor (G#):
+G# - A - B - C - D - E - F# - G#
+Also called the "Super Locrian" scale.
+
+ THE SOUND:  Maximum harmonic tension over a dominant chord. This scale contains every possible alteration of a dominant chord: b9, #9, b5 (#11), and b13.
+
+ USE OVER:  G#7alt (altered dominant) — creates the most intense possible tension before resolving to C# major or C# minor. Essential for bebop and modern jazz.
+
+  THE RULE  
+ Lydian Dominant:  use for a sophisticated, floating dominant sound (not too tense)
+ Altered Scale:  use for maximum tension demanding immediate resolution
+ Combined:  the complete jazz dominant chord vocabulary
+

@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import { Link, useNavigate, useLocation } from "react-router-dom";  // ✅ add useLocation
-import { useAuth } from "../../context/useAuth";                     // ✅ add useAuth
+import { Link, useNavigate, useLocation } from "react-router-dom"; // ✅ add useLocation
+import { useAuth } from "../../context/useAuth"; // ✅ add useAuth
 import api from "../../api/axios";
 
 export default function AddPasswordPage() {
@@ -38,7 +38,7 @@ export default function AddPasswordPage() {
     try {
       // ✅ Send email + passwords together
       const res = await api.post("/users/passwordAddition", {
-        email,                         // ← from location.state
+        email, // ← from location.state
         password: form.password,
         passwordConfirm: form.passwordConfirm,
       });
@@ -63,7 +63,6 @@ export default function AddPasswordPage() {
       `}</style>
 
       <div className="w-full max-w-md fade-up">
-
         <div className="text-center mb-8">
           <p className="text-amber-400 text-[10px] font-mono tracking-[0.5em] uppercase mb-2">
             ◈ ChordSense
@@ -77,24 +76,29 @@ export default function AddPasswordPage() {
           {/* Step indicator — step 3 active */}
           <div className="flex items-center justify-center gap-2 mt-4">
             <div className="flex items-center gap-1.5">
-              <div className="w-6 h-6 rounded-full bg-stone-600 text-stone-300 text-xs font-bold font-mono flex items-center justify-center">✓</div>
+              <div className="w-6 h-6 rounded-full bg-stone-600 text-stone-300 text-xs font-bold font-mono flex items-center justify-center">
+                ✓
+              </div>
               <span className="text-stone-500 text-xs font-mono">Details</span>
             </div>
             <div className="w-8 h-px bg-stone-600" />
             <div className="flex items-center gap-1.5">
-              <div className="w-6 h-6 rounded-full bg-stone-600 text-stone-300 text-xs font-bold font-mono flex items-center justify-center">✓</div>
+              <div className="w-6 h-6 rounded-full bg-stone-600 text-stone-300 text-xs font-bold font-mono flex items-center justify-center">
+                ✓
+              </div>
               <span className="text-stone-500 text-xs font-mono">Verify</span>
             </div>
             <div className="w-8 h-px bg-stone-600" />
             <div className="flex items-center gap-1.5">
-              <div className="w-6 h-6 rounded-full bg-amber-400 text-black text-xs font-bold font-mono flex items-center justify-center">3</div>
+              <div className="w-6 h-6 rounded-full bg-amber-400 text-black text-xs font-bold font-mono flex items-center justify-center">
+                3
+              </div>
               <span className="text-amber-400 text-xs font-mono">Password</span>
             </div>
           </div>
         </div>
 
         <div className="bg-stone-900 border border-stone-700/60 rounded-2xl p-8 shadow-2xl shadow-black/60">
-
           {error && (
             <div className="mb-5 px-4 py-3 bg-red-500/10 border border-red-500/30 rounded-xl">
               <p className="text-red-400 text-sm font-mono">{error}</p>
@@ -103,8 +107,16 @@ export default function AddPasswordPage() {
 
           <form onSubmit={handleSubmit} className="flex flex-col gap-5">
             {[
-              { name: "password",        label: "Password",         placeholder: "Min 8 characters" },
-              { name: "passwordConfirm", label: "Confirm Password", placeholder: "Repeat password" },
+              {
+                name: "password",
+                label: "Password",
+                placeholder: "Min 8 characters",
+              },
+              {
+                name: "passwordConfirm",
+                label: "Confirm Password",
+                placeholder: "Repeat password",
+              },
             ].map((field) => (
               <div key={field.name} className="flex flex-col gap-1.5">
                 <label className="text-stone-400 text-xs font-mono tracking-widest uppercase">
@@ -150,18 +162,22 @@ export default function AddPasswordPage() {
                   <div className="w-4 h-4 border-2 border-amber-400 border-t-transparent rounded-full animate-spin" />
                   Creating account...
                 </>
-              ) : "Create Account →"}
+              ) : (
+                "Create Account →"
+              )}
             </button>
           </form>
         </div>
 
         <p className="text-center text-stone-500 text-sm mt-6">
           Already have an account?{" "}
-          <Link to="/login" className="text-amber-400 hover:text-amber-300 transition-colors font-medium">
+          <Link
+            to="/login"
+            className="text-amber-400 hover:text-amber-300 transition-colors font-medium"
+          >
             Sign in
           </Link>
         </p>
-
       </div>
     </div>
   );

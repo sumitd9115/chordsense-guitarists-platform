@@ -1,0 +1,59 @@
+LEVEL: Advanced
+LESSON: Economy Picking
+============================================================
+
+PAGE 1: Economy Picking Principle
+----------------------------------------
+Economy picking combines alternate picking and sweep picking for maximum efficiency of motion — enabling the fastest and most effortless melodic runs across multiple strings.
+
+  THE PRINCIPLE  
+In strict alternate picking, moving from one string to the next always alternates direction regardless of which direction the string crossing moves. Economy picking instead continues in the same direction when crossing to a new string — eliminating the "wasted" opposite pick stroke.
+
+  ALTERNATE vs ECONOMY AT A STRING CROSSING  
+ Alternate picking:  ...D-U-D | cross to next string | U-D-U...
+ Economy picking:  ...D-U-D | cross to next string | D-U-D... (pick continues downward into the new string)
+
+The downstroke that plays the last note on string 1 flows directly into the first note on string 2 — one continuous downward movement rather than a direction reversal.
+
+  WHEN ECONOMY WINS OVER ALTERNATE  
+ Economy:  best for scalar runs across many strings — the pick flows in the direction of travel
+ Alternate:  best for string skipping, single-string passages, and rhythmic accuracy where consistent pick direction matters
+
+Most advanced guitarists use both — economy for scale runs, alternate for string-skipping licks. The choice is musical and practical, not dogmatic.
+
+  NOTABLE ECONOMY PICKERS  
+Frank Gambale (jazz fusion) is the most prominent advocate and has published method books on the subject. Many jazz and fusion guitarists use economy picking instinctively. Shawn Lane and Brett Garsed also use it extensively.
+
+  EFFICIENCY OF MOTION  
+The deeper principle behind economy picking: use the minimum number of pick strokes needed to play any given passage. Every "wasted" motion is energy spent that doesn't produce a note. Economy picking simply applies this efficiency principle to string crossings.
+
+PAGE 2: Applying Economy Picking to Scales
+----------------------------------------
+The most practical application of economy picking is 3-notes-per-string scale runs — the combination produces the fastest, most fluid scalar passages on guitar.
+
+  3NPS + ECONOMY PICKING — THE PERFECT PAIRING  
+With 3 notes per string, the pick pattern per string is D-U-D. When crossing to the next string in an ascending run:
+  String 1: D-U-D (last stroke is D, going downward)
+  Cross to string 2: continue D (sweep down into the new string)
+  String 2: D-U-D
+  Cross to string 3: continue D
+  ...and so on ascending
+
+Descending runs work the same way with upstrokes:
+  String 6: U-D-U (last stroke is U, going upward)
+  Cross to string 5: continue U (sweep up into the new string)
+  String 5: U-D-U
+
+  THE RESULT  
+An ascending major scale run from low E to high e becomes one continuous, flowing motion — the pick never reverses direction unnecessarily. The result is a smooth, fast, effortless quality that alternate picking on the same run can't match.
+
+  LEARNING APPROACH  
+Step 1: Learn the G major scale Position 1 with 3NPS fingering (D-U-D per string)
+Step 2: Practice with alternate picking first — make the fingering automatic before changing pick technique
+Step 3: Relearn with economy picking — the string crossing direction change will feel unnatural initially
+Step 4: Use a metronome at 60 BPM. Focus on the string crossing moments. Start slow.
+Step 5: Build speed only when the crossing is clean and natural
+
+  THE COMMON MISTAKE  
+Students learn the economy picking motion at slow speeds but the motion "breaks down" at fast tempos and reverts to alternate picking. The fix: practice at the specific speed where the breakdown occurs and stay there until it's solid before going faster.
+

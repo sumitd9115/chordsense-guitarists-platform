@@ -1,0 +1,64 @@
+LEVEL: Advanced
+LESSON: Sweep Picking
+============================================================
+
+PAGE 1: Sweep Picking Explained
+----------------------------------------
+Sweep picking is one of the most technically demanding and visually impressive guitar techniques — used to play arpeggios at very high speed with fluidity.
+
+  WHAT IS SWEEP PICKING?  
+Instead of alternate picking (down-up-down-up), sweep picking uses one continuous directional stroke across multiple strings in sequence. A downward sweep flows from the low strings to the high strings; an upward sweep flows back. Combined with the fretting hand playing one note per string, this produces arpeggios that sound fast and clean.
+
+  THE KEY INSIGHT — NOT STRUMMING  
+Sweep picking is NOT strumming. In strumming, all strings are hit simultaneously. In sweep picking, each string is struck individually in sequence — the pick flows like a slow, deliberate sweep — but each string is muted immediately after being picked (by releasing fretting pressure) so only one note sounds at a time. One note at a time, continuous pick direction: this is sweep picking.
+
+  THE FRETTING HAND ROLE  
+The fretting hand must:
+- Place each finger just before the pick arrives at that string
+- Release pressure immediately after the pick passes
+- Never leave two fingers pressed simultaneously (this creates a chord, not an arpeggio)
+
+This coordination of fretting hand timing with pick motion is what makes sweep picking technically demanding.
+
+  3-STRING ARPEGGIO SHAPE (A minor)  
+  G |----5------|  ← 1 note
+  D |----7------|  ← 1 note
+  A |----7------|  ← 1 note
+
+Sweep down: A string (7) → D string (7) → G string (5)
+Sweep back up: G string (5) → D string (7) → A string (7)
+
+  LEARNING APPROACH  
+Start at 30 BPM — far slower than you think necessary. The muscle memory for simultaneous pick direction and fretting hand release must be built carefully. Speed comes naturally once the motion is clean. Forcing speed before the motion is clean produces a technique that breaks down at higher tempos.
+
+PAGE 2: 3-String and 5-String Sweeps
+----------------------------------------
+Once the basic sweep motion is internalised, extend the technique to 5-string arpeggios — the most commonly used sweep pattern in advanced guitar playing.
+
+  3-STRING MAJOR ARPEGGIO (C major, starting 8th fret A string)  
+  G |----9------|  ← major 3rd (E)
+  D |----10-----|  ← fifth (G)
+  A |----8------|  ← root (C)
+
+  3-STRING MINOR ARPEGGIO (A minor, starting 5th fret A string)  
+  G |----5------|  ← minor 3rd (C)
+  D |----7------|  ← fifth (E)
+  A |----7------|  ← root (A)
+
+  5-STRING ARPEGGIO (A minor, full shape)  
+  e |----5------|  ← octave root (tap or hammer)
+  B |----5------|  ← fifth (E)
+  G |----5------|  ← minor 3rd (C)
+  D |----7------|  ← fifth (E)
+  A |----7------|  ← root (A)
+  E |----5------|  ← root (A, lowest)
+
+  THE DIRECTION CHANGE AT THE TOP  
+A 5-string sweep descends from low E to high e, then reverses and ascends. The top note (high e string) often has a hammer-on or pull-off to add a note before reversing direction:
+  Descend: low E → A → D → G → B → e
+  Top: tap or hammer-on at the e string
+  Ascend: e → B → G → D → A → low E
+
+  MUSICAL CONTEXT  
+Sweep picking is used in: neo-classical metal (Yngwie Malmsteen), progressive rock (Dream Theater), shred guitar. It is not appropriate for blues, folk, or most pop contexts. Knowing when NOT to use a technique is as important as knowing how to use it.
+

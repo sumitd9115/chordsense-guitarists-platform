@@ -1,0 +1,39 @@
+LEVEL: Intermediate
+LESSON: Building Chords From Scales
+============================================================
+
+PAGE 1: Chord Construction Formulas
+----------------------------------------
+Every chord you play was built systematically from a scale. Understanding chord construction gives you the ability to build any chord and understand why progressions work.
+
+  THE TRIAD FORMULA  
+A basic triad (3-note chord) is built by taking the root note and stacking the 3rd and 5th scale degrees above it.
+
+ MAJOR CHORD: Root + Major 3rd + Perfect 5th 
+  C major = C + E + G
+  C is root → E is 4 semitones above (major 3rd) → G is 7 semitones above (perfect 5th)
+
+ MINOR CHORD: Root + Minor 3rd + Perfect 5th 
+  A minor = A + C + E
+  A is root → C is 3 semitones above (minor 3rd) → E is 7 semitones above (perfect 5th)
+
+The only difference between major and minor: the third is one semitone lower in minor chords. That single semitone difference creates the entire emotional distinction.
+
+  DIATONIC CHORDS — CHORDS BUILT FROM THE MAJOR SCALE  
+When you build chords from every note of the major scale using only notes within that scale, you get 7 chords with this consistent major/minor pattern:
+  1 = Major (I)
+  2 = Minor (ii)
+  3 = Minor (iii)
+  4 = Major (IV)
+  5 = Major (V) — the "dominant," strong pull back to I
+  6 = Minor (vi) — the "relative minor"
+  7 = Diminished (vii°)
+
+  IN THE KEY OF G:  
+  G(I)  Am(ii)  Bm(iii)  C(IV)  D(V)  Em(vi)  F#dim(vii°)
+
+This is why those specific chords always sound good together — they all come from the same parent scale and share common notes.
+
+  THE DOMINANT-TONIC RELATIONSHIP  
+The V chord creates tension that "wants" to resolve to the I chord: G7→C, D7→G, A7→D. This push-pull between V and I is the engine of harmony in Western music.
+

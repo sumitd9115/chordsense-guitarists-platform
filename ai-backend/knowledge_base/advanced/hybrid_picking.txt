@@ -1,0 +1,62 @@
+LEVEL: Advanced
+LESSON: Hybrid Picking
+============================================================
+
+PAGE 1: Hybrid Picking Technique
+----------------------------------------
+Hybrid picking combines holding a pick with simultaneously using the middle, ring, and pinky fingers of the picking hand. It bridges the gap between pick playing and fingerstyle, offering capabilities neither alone can provide.
+
+  HOW IT WORKS  
+Hold the pick between thumb and index finger as normal. Your middle (m), ring (a), and pinky fingers are free to pluck strings independently. You can pick one string with the pick and simultaneously pluck a higher string with a finger — impossible with a pick alone and impractical with pure fingerstyle repositioning.
+
+  THE COUNTRY CHICKEN-PICKING SOUND  
+Hybrid picking is the defining technique of country lead guitar. The pick handles the low strings with snappy, aggressive attack while the fingers pluck the high strings for bright, banjo-like notes. Rapidly alternating between pick and fingers at speed creates the "clucking" country sound.
+
+  BASIC HYBRID PATTERN (double stop)  
+Pick the G string with the pick → simultaneously pluck the high e with the ring finger. The combination of two strings at once with different attack characters is the hybrid picking signature.
+
+Tab: D string picked, B string finger:
+  B |--5--|  ← ring finger plucks
+  D |--5--|  ← pick strikes
+Both simultaneously.
+
+  ROCK AND BLUES APPLICATION  
+Hybrid picking allows complex chord embellishments while maintaining a strummed rhythm. Play a power chord with the pick, then pluck a hammer-on embellishment on the high strings with the middle finger — without changing pick grip.
+
+  COMPLEX VOICINGS  
+Extended and spread voicings (where chord notes are spread across non-adjacent strings) are much easier with hybrid picking — the fingers can pluck the wide-interval strings that a flat pick would need to awkwardly skip across.
+
+PAGE 2: Country Bends and Complex Voicings
+----------------------------------------
+Once the basic hybrid motion is comfortable, two specific applications — country bends and complex chord voicings — represent the technique's highest musical payoffs.
+
+  COUNTRY BENDS WITH HYBRID PICKING  
+The "chicken picking" technique combines:
+1. A string bend on a lower string (pick)
+2. A simultaneously plucked open string or fretted note on a higher string (finger)
+The result: two notes at different pitches sounding simultaneously, one bending upward while the other stays fixed. This is the exact sound of a pedal steel guitar — impossible to replicate any other way on standard guitar.
+
+Example — G string bend + B string pluck:
+  B |--0--|  ← ring finger plucks open B string
+  G |--7b9|  ← pick bends G string from 7 up to pitch of 9
+Both simultaneously. The open B rings while the G string bends up to meet it and passes it.
+
+  ADDING THE "SNAP"  
+Country chicken-picking has a characteristic snapping attack. To achieve it: slightly dig the finger into the string and pull it slightly away from the fretboard before releasing. The snap as the string releases against the fretboard creates the percussive pop that defines the sound.
+
+  COMPLEX VOICINGS — WIDE INTERVALS  
+Many advanced chord voicings use notes on non-adjacent strings — impossible to arpeggiate naturally with just a flat pick. Hybrid picking solves this:
+
+A13 voicing:
+  e |--0--|  ← ring finger
+  B |--0--|  ← middle finger
+  G |--1--|  ← pick
+  D |--0--|
+  A |--0--|
+  E |--x--|
+
+The pick handles the G string while the fingers simultaneously pluck B and e. All three sound together cleanly.
+
+  THE TRANSFER TO JAZZ AND FUSION  
+Jazz guitarists use hybrid picking for chord-melody playing — simultaneously picking bass notes with the pick and plucking chord tones with the fingers, producing full arrangements without accompaniment.
+

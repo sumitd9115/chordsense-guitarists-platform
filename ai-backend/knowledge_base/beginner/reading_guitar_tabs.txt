@@ -1,0 +1,129 @@
+LEVEL: Beginner
+LESSON: Reading Guitar Tabs
+============================================================
+
+PAGE 1: How Tablature Works
+----------------------------------------
+Guitar tablature (tab) is a simple system for writing guitar music that tells you exactly where to put your fingers — no music reading experience needed. It's the most widely used format for guitar music on the internet.
+ 
+  HOW TO READ TAB  
+Tab shows 6 horizontal lines. Each line represents one string:
+ 
+  e |---|---|---|---|   ← 1st string (thinnest, highest)
+  B |---|---|---|---|   ← 2nd string
+  G |---|---|---|---|   ← 3rd string
+  D |---|---|---|---|   ← 4th string
+  A |---|---|---|---|   ← 5th string
+  E |---|---|---|---|   ← 6th string (thickest, lowest) 
+
+The numbers on the lines tell you which fret to press. A 0 means play the string open (no fret pressed).
+
+ EXAMPLE — The Opening Riff of "Smoke on the Water"
+  e |------------------------|
+  B |------------------------|
+  G |--0-3-5-0-3-6-5---------|
+  D |------------------------|
+  A |------------------------|
+  E |------------------------| 
+ 
+Read left to right. Press fret 0 (open), then fret 3, then fret 5 on the G string.
+ 
+  READING RHYTHM IN TAB  
+Standard tab doesn't always show rhythm — it shows finger positions only. To know the rhythm, you usually need to listen to the song alongside the tab. Some advanced tabs include rhythm notation above the numbers.
+ 
+  TAB VS STANDARD NOTATION  
+ Tab:  Easy to read, shows exact finger positions, no music theory needed.
+ Standard Notation:  More precise about rhythm and pitch, universal across all instruments.
+ 
+For guitar beginners, tab is the fastest way to start playing real songs. Most guitarists use tab their entire career, even professionals.
+
+PAGE 2: String Lines and Fret Numbers
+----------------------------------------
+Understanding the layout of tab — which line is which string, and what the numbers mean — is the foundation for reading any piece of guitar music you find online.
+ 
+  THE 6 LINES  
+The bottom line in a tab = the LOW E string (6th, thickest).
+The top line in a tab = the HIGH e string (1st, thinnest).
+This is the opposite of how the guitar looks when you hold it — the thickest string is at the top of the guitar but at the BOTTOM of the tab. This trips up many beginners.
+ 
+  e |---|   ← 1st string (HIGH e, thinnest — TOP LINE in tab)
+  B |---|   ← 2nd string
+  G |---|   ← 3rd string
+  D |---|   ← 4th string
+  A |---|   ← 5th string
+  E |---|   ← 6th string (LOW E, thickest — BOTTOM LINE in tab) 
+ 
+  FRET NUMBERS  
+  0 = open string (don't fret anything, just pick the string)
+  1 = press the 1st fret
+  5 = press the 5th fret
+  12 = press the 12th fret
+ 
+Numbers are always read left to right — left is earlier in time, right is later.
+ 
+  SIMULTANEOUS NOTES (CHORDS IN TAB)  
+When numbers appear stacked vertically (same horizontal position), play all those strings at exactly the same time:
+ 
+  e |--0--|
+  B |--1--|
+  G |--0--|
+  D |--2--|
+  A |--3--|
+  E |--x--|
+  This is a C Major chord. The x means don't play the low E string.
+ 
+  SEQUENTIAL NOTES (MELODIES AND RIFFS)  
+When numbers appear one after another horizontally, play them one at a time in sequence — left to right.
+ 
+  PRACTICAL TIP  
+Always identify: is this tab showing a chord (vertical stack) or a melody/riff (horizontal sequence)? Most tabs contain both at different points.
+
+PAGE 3: Basic Tab Symbols
+----------------------------------------
+Beyond basic fret numbers, tabs use symbols to indicate specific techniques. Recognising these unlocks the full meaning of any tab you encounter.
+ 
+  ESSENTIAL SYMBOLS  
+ 
+ h — Hammer-on 
+Pick the first note, then "hammer" another finger onto a higher fret without picking again.
+  G |--5h7--|   → Pick fret 5, hammer onto fret 7
+ 
+ p — Pull-off 
+Pick a higher fret, then pull your finger off to sound a lower fret without picking.
+  G |--7p5--|   → Pick fret 7, pull off to sound fret 5
+ 
+ / — Slide Up 
+Pick the first note, then slide your finger up to the second fret.
+  G |--5/7--|   → Pick fret 5, slide up to fret 7
+ 
+ \ — Slide Down 
+  G |--7\5--|   → Pick fret 7, slide down to fret 5
+ 
+ b — Bend 
+Push the string sideways to raise its pitch.
+  G |--7b9--|   → Pick fret 7, bend until it sounds like fret 9
+ 
+ r — Release Bend 
+Return the bent string back to its original pitch.
+  G |--7b9r7--|   → Bend up to 9, release back to 7
+ 
+ ~ — Vibrato 
+Rapidly oscillate the string slightly after picking.
+  G |--7~---|   → Pick fret 7, apply vibrato
+ 
+ x — Muted / Dead Note 
+Pick the string while lightly resting your finger on it — produces a percussive "thunk."
+  A |--x-x-x--|
+ 
+ ( ) — Ghost Note 
+A note implied from a previous technique — usually from a bend or slide.
+ 
+ T — Tap 
+Use a picking-hand finger to tap directly onto the fret.
+  e |--T12--|   → Tap fret 12 with your picking hand
+ 
+ PM or P.M. — Palm Mute 
+Rest your picking hand's palm edge on the strings near the bridge while playing.
+  PM--|
+  E |--0-0-0-0--|
+

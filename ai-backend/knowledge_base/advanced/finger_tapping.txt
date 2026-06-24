@@ -1,0 +1,61 @@
+LEVEL: Advanced
+LESSON: Finger Tapping
+============================================================
+
+PAGE 1: Eddie Van Halen Style Tapping
+----------------------------------------
+Tapping uses a picking-hand finger to fret notes on the neck, allowing melodic lines and arpeggios that span ranges impossible to reach with the fretting hand alone.
+
+  WHAT IS TAPPING?  
+You use a finger of your picking hand (usually the index or middle) to hammer-on directly onto the fretboard while the fretting hand simultaneously handles its own notes. This allows rapid two-hand legato passages spanning wide intervals.
+
+  THE BASIC TECHNIQUE  
+1. Place fretting hand fingers on the neck as normal (e.g., index at fret 5, ring at fret 7)
+2. Bring a picking-hand finger down sharply onto a higher fret (e.g., fret 12)
+3. Pull off the tapping finger with a slight downward flick — this sets the string vibrating
+4. The fretting hand note (fret 7) now sounds without picking
+5. Hammer-on back to fret 7 with the fretting hand ring finger
+6. Repeat: tap 12 → pull off to 7 → pull off to 5 → hammer to 7 → tap 12...
+
+  TAB NOTATION  
+  e |--T12p7p5h7--|   → Tap fret 12, pull off to 7, pull off to 5, hammer to 7
+
+  THE VAN HALEN "ERUPTION" PATTERN  
+Eddie Van Halen's 1978 solo "Eruption" introduced tapping to mainstream rock. His core tapping pattern: rapid tap-pull-hammer-pull sequences on one string, covering a wide range, played at extremely high speed. The specific notes matter less than the fluidity and evenness of the three-note pattern.
+
+  HOLDING THE PICK WHILE TAPPING  
+Most rock guitarists hold the pick between their middle finger and thumb while tapping with the index finger (or hold it in the palm to free the index finger). Practice holding and retrieving the pick quickly — you'll need it after the tapping section.
+
+  THE ESSENTIAL REQUIREMENT  
+Every tap must be followed by a proper pull-off — not just lifting the finger. The pull-off motion (slight downward flick) is what sets the string vibrating for the lower note. Without it, the lower note won't sound.
+
+PAGE 2: Two-Hand Tapping Introduction
+----------------------------------------
+Two-hand tapping extends the technique to using multiple fingers of both hands, enabling complex arpeggios, chord melodies, and passages that are completely impossible by conventional single-hand playing.
+
+  BEYOND ONE-FINGER TAPPING  
+Single-finger tapping uses one picking-hand finger alternating with two fretting-hand fingers. Two-hand tapping expands to:
+- Multiple picking-hand fingers tapping different frets in sequence
+- Both hands simultaneously tapping across all 6 strings
+- Complete chord voicings tapped with both hands (8-finger tapping)
+
+  SIMPLE TWO-FINGER TAPPING  
+Adding a second tapping finger:
+Fretting hand: index at fret 5, ring at fret 7
+Picking hand: index taps fret 12, middle finger taps fret 10
+
+Pattern: T12 - p7 - T10 - p7 - T12 - p7 - T10 - p7
+This creates a 4-note repeating pattern covering a range impossible with one hand.
+
+  8-FINGER TAPPING (STANLEY JORDAN / STEVE HOWE APPROACH)  
+Both hands tap chords and melodies simultaneously, treating the guitar like a piano keyboard. Each finger of both hands independently taps its own notes. This technique is highly specialised and requires years of development — it's mentioned here as a direction rather than an immediate goal.
+
+  RHYTHMIC EVENNESS — THE CORE CHALLENGE  
+Tapping naturally groups notes in triplets (tap-pull-hammer = 3 notes). Keeping these triplets rhythmically even — each note the same duration as the others — is the primary technical challenge. Use a metronome exclusively during tapping practice. Record yourself and listen back — uneven tapping is often invisible while playing but obvious on playback.
+
+  MUSICAL CONTEXTS FOR TAPPING  
+ Rock and metal solos:  dramatic, showy moments
+ Neo-classical passages:  wide-interval arpeggios
+ Ambient/atmospheric guitar:  harmonics combined with tapping
+NOT appropriate for: blues, folk, acoustic rhythm — context always determines technique choice.
+

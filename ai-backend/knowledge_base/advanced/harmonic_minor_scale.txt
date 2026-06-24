@@ -1,0 +1,61 @@
+LEVEL: Advanced
+LESSON: Harmonic Minor Scale
+============================================================
+
+PAGE 1: The Harmonic Minor Scale
+----------------------------------------
+The harmonic minor scale is one of the most distinctive and emotionally powerful scales in guitar music. Its unique interval creates an exotic, tense, "Spanish" or "Arabian" sound.
+
+  WHAT IS IT?  
+The harmonic minor scale is the natural minor scale (Aeolian) with one alteration: the 7th scale degree is raised by one half step.
+
+A natural minor:   A B C D E F G A
+A harmonic minor:  A B C D E F G# A
+
+The single G# (raised 7th) creates an augmented 2nd interval between the 6th and 7th degrees (F to G# = 3 semitones). This unusual interval is what gives harmonic minor its exotic, tense character.
+
+  WHY IS IT CALLED "HARMONIC" MINOR?  
+The raised 7th creates a stronger V7 chord in the minor key. In A natural minor, the V chord is Em (weak pull back to Am). Raising G to G# makes the V chord E major (or E7) — which has a dramatically stronger resolution back to Am. This stronger dominant-to-tonic pull is essential for "harmonic" purposes — hence the name.
+
+  THE "SPANISH" / "ARABIAN" SOUND  
+The augmented 2nd interval (F to G#) is the sound of flamenco, Middle Eastern music, and dramatic film scores. This interval doesn't appear in the standard major or natural minor scale — it's entirely unique to harmonic minor and its modes.
+
+  A HARMONIC MINOR BOX (5th fret position)  
+  e |--5--7--8--|
+  B |--5--6--8--|
+  G |--4--5--7--|
+  D |--5--7--8--|
+  A |--5--7--8--|
+  E |--5--7--8--|
+
+  FAMOUS USES  
+Yngwie Malmsteen built his entire neo-classical metal style on harmonic minor. Also prominent in flamenco, Middle Eastern music, and Baroque-influenced guitar.
+
+PAGE 2: Phrygian Dominant Mode
+----------------------------------------
+Phrygian Dominant is the 5th mode of the harmonic minor scale. It produces the "Spanish" and "Arabian Nights" sound — one of the most instantly recognisable modal colours in all of music.
+
+  HOW IT'S DERIVED  
+Take A harmonic minor: A B C D E F G#
+Start on the 5th degree (E) and play to the octave: E F G# A B C D E
+This is E Phrygian Dominant.
+
+  THE DEFINING INTERVAL  
+The flat 2nd (F natural, one semitone above E) is the defining note. Standard Phrygian also has a flat 2nd, but Phrygian Dominant raises the 3rd to major (G# instead of G). The combination of a major 3rd with a flat 2nd — present in no other common scale — creates the exotic dominant-with-Spanish-flavour sound.
+
+E PHRYGIAN DOMINANT NOTES: E - F - G# - A - B - C - D
+
+  THE SIGNATURE CHORD MOVEMENT  
+Play E major (E-G#-B) then move to F major (F-A-C) — just one semitone above the root chord. This E → F movement is the signature Phrygian Dominant chord change. It's the opening of countless flamenco progressions and the harmonic engine of "Spanish" guitar music.
+
+  E PHRYGIAN DOMINANT (open position)  
+  e |--0--1--4--|
+  B |--0--1--3--|
+  G |--1--2--4--|
+  D |--2--3-----|
+  A |--2--3-----|
+  E |--0--1-----|
+
+  USE IN ROCK AND METAL  
+Metallica's "Wherever I May Roam," many Megadeth and Black Sabbath riffs, and virtually all neo-classical metal use Phrygian Dominant. The raised 3rd in an otherwise dark, flat-heavy scale creates dramatic harmonic tension perfectly suited to aggressive music.
+

@@ -1,0 +1,96 @@
+LEVEL: Intermediate
+LESSON: 7th Chords
+============================================================
+
+PAGE 1: 7th Chords Explained
+----------------------------------------
+7th chords add a 4th note to the basic triad, creating richer, more complex harmony. They are the defining sound of blues, jazz, funk, and soul.
+
+  WHY THE 7TH?  
+A basic major or minor chord uses 3 notes: root, 3rd, and 5th. Adding the 7th degree of the scale creates a 4-note chord with more colour and tension.
+
+  THE THREE MAIN 7TH CHORD TYPES  
+
+ DOMINANT 7TH (written as G7, C7, A7) 
+Formula: 1 - 3 - 5 - b7 (major chord + flat 7th)
+Sound: Tense, bluesy — strongly pulls toward the I chord.
+Use: Blues, jazz, country, R&B. The V7 chord in any key.
+G7 shape:
+  e |--1--|
+  B |--0--|
+  G |--0--|
+  D |--0--|
+  A |--2--|
+  E |--3--|
+
+ MAJOR 7TH (written as Cmaj7, Gmaj7, Amaj7) 
+Formula: 1 - 3 - 5 - 7 (major chord + natural 7th)
+Sound: Warm, dreamy, sophisticated.
+Use: Jazz, bossa nova, neo-soul.
+Cmaj7 shape:
+  e |--0--|
+  B |--0--|
+  G |--0--|
+  D |--2--|
+  A |--3--|
+  E |--x--|
+
+ MINOR 7TH (written as Am7, Dm7, Em7) 
+Formula: 1 - b3 - 5 - b7 (minor chord + flat 7th)
+Sound: Cool, melancholic, smooth.
+Use: Jazz ii chords, soul, funk.
+Am7 shape:
+  e |--0--|
+  B |--1--|
+  G |--0--|
+  D |--2--|
+  A |--0--|
+  E |--x--|
+
+  THE BLUES CONNECTION  
+The entire 12-bar blues is built on dominant 7th chords (I7 - IV7 - V7). Playing open G7, C7, and D7 gives you instant access to authentic blues sound.
+
+PAGE 2: G7, C7, D7, B7 Shapes
+----------------------------------------
+These are the most-used dominant 7th chord shapes in open position. Every guitarist needs these in their vocabulary.
+
+  G7  
+  e |--1--|  ← index finger
+  B |--0--|
+  G |--0--|
+  D |--0--|
+  A |--2--|  ← middle finger
+  E |--3--|  ← ring finger
+G7 is the V7 chord in the key of C — used constantly in folk, blues, and pop.
+
+  C7  
+  e |--0--|
+  B |--1--|  ← index finger
+  G |--3--|  ← ring finger
+  D |--2--|  ← middle finger
+  A |--3--|  ← pinky finger
+  E |--x--|
+C7 is the V7 chord in the key of F and the I7 chord in C blues.
+
+  D7  
+  e |--2--|  ← middle finger
+  B |--1--|  ← index finger
+  G |--2--|  ← ring finger
+  D |--0--|
+  A |--x--|
+  E |--x--|
+D7 is the V7 chord in the key of G — one of the most common chord changes in folk and country.
+
+  B7  
+  e |--2--|  ← middle finger
+  B |--0--|
+  G |--2--|  ← index finger
+  D |--1--|  ← ring finger
+  A |--2--|  ← pinky
+  E |--x--|
+B7 is the V7 chord in the key of E — used constantly in blues and acoustic music.
+
+  PRACTICAL PROGRESSION — 12-BAR BLUES IN E  
+E7 - E7 - E7 - E7 - A7 - A7 - E7 - E7 - B7 - A7 - E7 - B7
+All achievable with open-position shapes. This lets you jam over any blues backing track in E immediately.
+

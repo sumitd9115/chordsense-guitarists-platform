@@ -1,0 +1,36 @@
+LEVEL: Intermediate
+LESSON: Chord Progressions in Keys
+============================================================
+
+PAGE 1: I IV V in Multiple Keys
+----------------------------------------
+The I-IV-V chord progression is the engine of popular music. Understanding how to find it in any key lets you play along with songs in any key without needing a capo or learning new shapes.
+
+  THE DIATONIC CHORDS REVIEW  
+Every major key produces 7 chords. The I (one), IV (four), and V (five) chords are always major and are the most commonly used.
+
+  I-IV-V IN COMMON GUITAR KEYS  
+  Key of G:  G (I)  -  C (IV)  -  D (V)
+  Key of D:  D (I)  -  G (IV)  -  A (V)
+  Key of A:  A (I)  -  D (IV)  -  E (V)
+  Key of E:  E (I)  -  A (IV)  -  B (V)
+  Key of C:  C (I)  -  F (IV)  -  G (V)
+
+  THE PATTERN  
+Find the I chord. Count up 4 scale steps for IV. Count up 5 steps for V (or just 2 steps up from IV). This formula works in every key.
+
+  THE 12-BAR BLUES STRUCTURE  
+The most important application of I-IV-V:
+  | I  | I  | I  | I  |
+  | IV | IV | I  | I  |
+  | V  | IV | I  | V  |
+
+In G: G7 - G7 - G7 - G7 - C7 - C7 - G7 - G7 - D7 - C7 - G7 - D7
+
+This 12-bar pattern is the foundation of all blues and a huge proportion of rock and roll. Once internalised, you can jam with any blues musician in any key.
+
+  THE NASHVILLE NUMBER SYSTEM  
+Professional session musicians use numbers instead of chord names so the same chart works in any key:
+  1 - 4 - 5 (instead of G - C - D)
+When the key changes, every musician transposes using the numbers. This system is used on thousands of professional recordings.
+

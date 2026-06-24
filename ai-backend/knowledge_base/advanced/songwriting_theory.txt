@@ -1,0 +1,61 @@
+LEVEL: Advanced
+LESSON: Songwriting Theory
+============================================================
+
+PAGE 1: The Emotional Logic of Chord Choices
+----------------------------------------
+Beyond music theory rules, there is an emotional logic to harmony — patterns and tendencies that listeners feel even without conscious awareness. Understanding this logic lets you write music that creates specific emotional experiences.
+
+  THE EMOTIONAL MAP OF DIATONIC CHORDS (in a major key)  
+   I (tonic):  Home, resolution, stability, arrival
+   ii (supertonic):  Gentle movement, slightly unstable, anticipatory
+   iii (mediant):  Ambiguous, introspective — rarely used as a landing point
+   IV (subdominant):  Warmth, hope, "lifting" feeling — the gospel chord
+   V (dominant):  Tension, forward drive, urgency — demands resolution to I
+   vi (submediant):  Emotional, melancholic, inward — the "emotional" chord
+   vii° (leading tone):  Maximum tension, instability — drives hard to I
+
+  THE POWER OF THE IV CHORD  
+The IV chord has a special warmth — the "church chord," used in gospel and soul to create uplift. Moving from I to IV feels like opening a door or looking upward. The IV is the major chord most harmonically distant from the tonic while still sharing 2 notes with it.
+
+  THE vi CHORD — EMOTIONAL TURN  
+The vi chord (relative minor) is the most emotionally charged diatonic chord. Moving I - V - vi feels like a sudden turn toward introspection. Many classic pop songs use this moment deliberately — the chorus lands on I with joy, then the post-chorus drops to vi for an emotional check.
+
+  WRITING WITH EMOTIONAL INTENT  
+Before writing a chord progression, ask: what should this section feel like?
+   Restless, unresolved:  avoid landing on I, end phrases on V or ii
+   Triumphant, arrived:  emphasise I, approach it from V
+   Dark, serious:  stay in minor keys, use vi and iv, avoid IV major
+   Dreamy, suspended:  use maj7 chords, add9, avoid strong V-I resolutions
+
+PAGE 2: Tension, Release, and Song Architecture
+----------------------------------------
+The most effective songs are not just collections of good chords and memorable melodies — they are architecturally designed experiences where tension and release are carefully controlled from beginning to end.
+
+  WHAT CREATES TENSION IN MUSIC  
+   Harmonically:  dominant chords, altered chords, avoiding resolution
+   Melodically:  non-chord tones on strong beats, ascending lines, unresolved phrases
+   Rhythmically:  syncopation, accelerating note density, off-beat accents
+   Dynamically:  increasing volume, adding instruments or texture
+   Texturally:  distortion, dissonance, higher register
+
+  WHAT CREATES RELEASE  
+   Harmonically:  resolving to I, arriving at the tonic after a strong V7
+   Melodically:  landing on the root note, descending to a chord tone
+   Rhythmically:  landing on beat 1, a sudden rhythmic pause
+   Dynamically:  sudden drop in volume, stripped-back texture after fullness
+   Texturally:  clean tone after distortion, silence
+
+  THE ARCHITECTURE OF A GREAT SONG  
+Think of tension and release as a wave:
+   Intro:  introduces tension gently
+   Verse:  moderate tension, storytelling, holding back energy
+   Pre-chorus:  tension builds — harmonically, rhythmically, dynamically
+   Chorus:  major release — the payoff. Maximum clarity, highest melodic point
+   Verse 2:  rebuild tension from a new starting point
+   Bridge:  highest tension of the entire song — unexpected harmony, new register
+   Final Chorus:  maximum release — the song's greatest moment of arrival
+
+  THE PRINCIPLE OF DELAYED GRATIFICATION  
+The longer you delay resolution, the more satisfying it is when it arrives. A song that withholds the chorus through a long verse and pre-chorus trains the listener's anticipation — and the release is proportionally more powerful. This is why the greatest choruses in music feel inevitable and earned rather than simply pleasant.
+

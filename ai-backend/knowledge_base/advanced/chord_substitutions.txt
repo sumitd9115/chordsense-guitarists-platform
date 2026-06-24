@@ -1,0 +1,33 @@
+LEVEL: Advanced
+LESSON: Chord Substitutions
+============================================================
+
+PAGE 1: Tritone Substitution and Secondary Dominants
+----------------------------------------
+Chord substitution is the art of replacing an expected chord with a different chord that serves a similar harmonic function. It is fundamental to jazz harmony and sophisticated songwriting.
+
+  TRITONE SUBSTITUTION (Jazz)  
+The most famous chord substitution in jazz. Any dominant 7th chord can be replaced by the dominant 7th chord whose root is a tritone (6 semitones) away.
+
+G7 resolves to Cmaj7 (standard V7 → I)
+Tritone of G: Db (6 semitones away)
+Db7 → Cmaj7 — also resolves to C, with beautiful chromatic voice leading (Db moves down by half step to C)
+
+  WHY IT WORKS  
+A dominant 7th chord's identity is defined by its guide tones (3rd and 7th). G7's guide tones: B (3rd) and F (7th). Db7's guide tones: F (3rd) and Cb/B (7th). The same two notes — just swapped in function. The ear accepts the substitution because the harmonic "job" (tension → resolution) is still performed.
+
+  SECONDARY DOMINANT  
+Temporarily treating any chord as a I chord and placing its V7 chord before it:
+  In key of C: C - Am - Dm - G7 - C (standard)
+  With secondary dominant: C - A7 - Dm - G7 - C
+  The A7 is the V7 of Dm — it creates extra pull toward Dm
+
+Any chord in any key can be preceded by its V7 chord. This creates a "mini resolution" to a non-tonic chord that adds momentum to the progression.
+
+  REHARMONISATION  
+Completely rewriting the underlying chords of a melody while keeping the melody unchanged. The melody notes are retained but harmonised by different chords. Used extensively in jazz arrangements and sophisticated covers.
+
+  RELATIVE MAJOR/MINOR SUBSTITUTION  
+Any major chord substitutes with its relative minor (3 semitones below), sharing 2 of 3 notes:
+  C major (C-E-G) ↔ Am (A-C-E) — share C and E
+

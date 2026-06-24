@@ -9,6 +9,7 @@ import {
   FiHome,
   FiTrendingUp,
 } from "react-icons/fi";
+import { FaRobot } from "react-icons/fa";
 
 import { useAuth } from "../context/useAuth";
 import { Link } from "react-router-dom";
@@ -20,6 +21,7 @@ const navItems = [
   { label: "Learning Section", icon: FiBookOpen, path: "/learning-section" },
   { label: "Chord Library", icon: FiMusic, path: "/chord-library" },
   { label: "Harmony Forge", icon: FiTrendingUp, path: "/chord-prog-gen" },
+  { label: "Sense AI", icon: FaRobot, path: "/ai-assistant" },
   { label: "Profile", icon: FiUser, path: "/profile" },
 ];
 

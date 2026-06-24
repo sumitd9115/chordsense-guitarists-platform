@@ -1,0 +1,63 @@
+LEVEL: Advanced
+LESSON: Composing Your Own Music
+============================================================
+
+PAGE 1: Song Structure
+----------------------------------------
+Understanding song structure lets you compose pieces that feel intentional, emotionally logical, and satisfying to listen to — not just collections of chords.
+
+  THE FUNDAMENTAL STRUCTURE: VERSE-CHORUS  
+  Intro: establishes mood and key (4-8 bars)
+  Verse: tells the story, lower energy (16 bars)
+  Chorus: emotional peak, highest energy and memorability (8 bars)
+  Verse 2: continues story (16 bars)
+  Chorus: repeat (8 bars)
+  Bridge: contrast and tension, harmonically different (8 bars)
+  Final Chorus: resolved, triumphant, often louder or differently arranged (8 bars)
+  Outro: winds down (4-8 bars)
+
+  WHY THIS STRUCTURE WORKS  
+It creates expectation (verse), fulfils it (chorus), surprises (bridge), and resolves (final chorus). This arc mirrors the emotional journey of storytelling. The listener's anticipation builds through the verse, is released by the chorus, and the bridge creates the greatest tension before the final payoff.
+
+  TENSION AND RELEASE — THE ENGINE OF COMPOSITION  
+Every good song is built on tension followed by release at every level:
+   Within a bar:  a bent note resolving to a chord tone
+   Within a phrase:  a question-phrase resolved by an answer-phrase
+   Within a section:  verse tension released by the chorus
+   Within the whole song:  the bridge creates greatest tension before the final resolution
+
+  DEPARTURE FROM STANDARD STRUCTURE  
+Once you understand standard structure, break it deliberately for effect. Nirvana's "Smells Like Teen Spirit" delayed the chorus so long it felt explosive when it arrived. The rules exist to be understood, then broken with intention.
+
+PAGE 2: Writing Chord Progressions and Melodies
+----------------------------------------
+The craft of writing chord progressions and melodies that work together is the core of songwriting. Here is the practical framework used by professional songwriters.
+
+  WRITING A CHORD PROGRESSION  
+Step 1: Choose a key — it determines your palette of natural chords
+Step 2: Start with the tonic (I chord) to establish home
+Step 3: Move to a chord that creates movement — IV, V, or vi
+Step 4: Create tension by approaching the V chord
+Step 5: Resolve back to I
+
+Simplest complete progression: I - IV - V - I (home, movement, tension, resolution)
+
+  EMOTIONAL COLOUR BY CHORD CHOICE  
+   I → IV:  warmth, hope, opening up
+   I → V:  momentum, forward motion
+   I → vi:  emotional turn inward, slight sadness
+   I → bVII:  surprise, rock anthemic quality (borrowed from Mixolydian)
+   V → I:  resolution, satisfaction, arrival
+
+  WRITING A MELODY OVER CHORDS  
+ Rule 1:  Chord tones are the most stable landing points for the melody on strong beats
+ Rule 2:  Non-chord tones create tension on strong beats and need to resolve to chord tones
+ Rule 3:  Stepwise motion (moving by 2nds) feels natural and singable. Leaps (3rds, 4ths, 5ths) create drama
+ Rule 4:  Your melody should have a clear shape — rising, falling, or arch
+
+  THE CONTRAPUNTAL RULE  
+When chords move a lot, keep the melody simple. When chords are static (holding one chord), let the melody move more. This contrast keeps both elements interesting and prevents rhythmic and harmonic monotony.
+
+  HUMMING FIRST  
+Before touching the guitar, hum the melody you want. Then figure out how to play what you're humming. This reversal — ear first, instrument second — produces more original, personal melodies than noodling on the guitar hoping something sticks. Your melodic imagination is richer than your fingers believe.
+

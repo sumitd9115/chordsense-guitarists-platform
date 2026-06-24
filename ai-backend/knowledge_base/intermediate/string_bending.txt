@@ -1,0 +1,57 @@
+LEVEL: Intermediate
+LESSON: String Bending
+============================================================
+
+PAGE 1: Half Step and Full Step Bends
+----------------------------------------
+String bending is what gives guitar its most expressive, vocal quality — the ability to make the instrument "sing." It is the signature technique of blues, rock, and country lead guitar.
+
+  WHAT IS A BEND?  
+Pushing or pulling a fretted string sideways (perpendicular to the neck) increases its tension, which raises the pitch. A full bend raises the pitch by one whole step (two frets). A half bend raises by one half step (one fret).
+
+  HOW TO BEND  
+1. Fret a note (e.g., 7th fret, G string)
+2. Place support fingers behind the bending finger (e.g., index and middle behind ring finger)
+3. Push the string upward (toward the ceiling on G, B, e strings — downward for low E, A)
+4. Use wrist rotation — not just finger strength — to drive the bend
+5. The support fingers prevent the single bending finger from working alone and fatiguing
+
+ FULL BEND: Tab 7b9 
+Pick fret 7, bend until the pitch matches fret 9 (a whole step higher).
+
+ HALF BEND: Tab 7b8 
+Pick fret 7, bend until the pitch matches fret 8 (a half step higher).
+
+  INTONATION — BENDING IN TUNE  
+Out-of-tune bends are the most common mistake in lead guitar. To check: first play the target note (e.g., fret 9) so you remember how it sounds. Then bend fret 7 up to match that exact pitch. Your ear is the judge — not how far you physically push the string.
+
+  WHICH STRINGS BEND EASIEST  
+G, B, and high e strings bend most easily. Low E and A strings require significantly more force and are bent less frequently in typical lead playing.
+
+PAGE 2: Bend and Release
+----------------------------------------
+The bend-and-release is one of the most expressive guitar techniques — bending the string up to a higher pitch, then releasing it back down to the original note, all in one fluid motion.
+
+  WHAT IS BEND AND RELEASE?  
+Pick the note, bend it up to the target pitch (e.g., a full step), then smoothly return the string to its original unbent position. The listener hears the pitch rise and then fall — a guitar "singing" the way a voice would.
+
+ TAB NOTATION: 7b9r7 
+Pick fret 7 → bend up to the pitch of fret 9 → release back to fret 7 pitch.
+
+  HOW TO EXECUTE  
+1. Pick the note at fret 7
+2. Bend upward to the target pitch (fret 9 equivalent) smoothly
+3. Without re-picking, reverse the wrist rotation to release the bend back to fret 7
+4. The release should be as controlled as the bend — not a sudden drop
+
+  THE KEY: CONTINUOUS VIBRATION  
+The string must keep vibrating throughout the entire bend AND release. If the string goes quiet before the release, the effect is lost. Maintaining enough pick attack on the initial note and keeping the bend smooth and controlled preserves the sustain.
+
+  PRE-BEND AND RELEASE  
+Bend the string to the target pitch BEFORE picking. Then pick and release downward.
+TAB: (7b9)r7 — parentheses indicate the bend happens before the pick strike.
+The listener only hears the note falling from the high pitch, not rising. A completely different emotional effect.
+
+  VIBRATO WITH BENDS  
+After a full bend, adding vibrato at the top pitch — before releasing — creates the most expressive sound in all of rock and blues lead guitar. Bend to pitch, apply vibrato, then release. This is the BB King and David Gilmour signature move.
+

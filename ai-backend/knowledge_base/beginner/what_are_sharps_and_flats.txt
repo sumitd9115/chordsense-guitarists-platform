@@ -1,0 +1,35 @@
+LEVEL: Beginner
+LESSON: What Are Sharps and Flats
+============================================================
+
+PAGE 1: Sharps, Flats, and the Musical Alphabet
+----------------------------------------
+Sharps and flats fill the gaps between the natural notes (A B C D E F G) and are essential for understanding scales, keys, and chords.
+ 
+  THE 12 NOTES  
+Western music uses 12 unique pitches before they repeat:
+A — A#/Bb — B — C — C#/Db — D — D#/Eb — E — F — F#/Gb — G — G#/Ab — then back to A
+ 
+ Sharp (#):  raises a note by one half step (one fret higher)
+ Flat (b):  lowers a note by one half step (one fret lower)
+ 
+  ENHARMONIC EQUIVALENTS  
+A# and Bb are the same pitch — just named differently depending on musical context. These are called enharmonic equivalents. The same physical fret, two different names:
+  A# = Bb
+  C# = Db
+  D# = Eb
+  F# = Gb
+  G# = Ab
+ 
+  THE NATURAL EXCEPTIONS — NO SHARPS BETWEEN THESE  
+  B → C: naturally a half step apart (no B# in standard use)
+  E → F: naturally a half step apart (no E# in standard use)
+These exceptions are built into the structure of the major scale. Memorise them.
+ 
+  HALF STEPS AND WHOLE STEPS  
+ Half step (semitone):  distance between two adjacent frets. The smallest interval in Western music.
+ Whole step (whole tone):  two frets apart = two half steps.
+ 
+  ON THE GUITAR  
+Every fret = one half step. Moving from 5th fret to 6th fret raises pitch by one semitone. From 5th fret to 7th fret = one whole step. The guitar makes interval distances physically visible and tangible in a way other instruments don't — use this advantage.
+

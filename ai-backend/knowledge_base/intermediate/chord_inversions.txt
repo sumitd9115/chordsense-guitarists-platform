@@ -1,0 +1,37 @@
+LEVEL: Intermediate
+LESSON: Chord Inversions
+============================================================
+
+PAGE 1: Root Position vs Inversions
+----------------------------------------
+A chord inversion changes which note is the lowest (bass) note of the chord. Inversions create smoother voice leading and more interesting basslines without changing the chord's basic identity.
+
+  ROOT POSITION  
+The root of the chord is the lowest note. C major in root position has C as the lowest note (C-E-G from bottom to top). This is the standard way you've been playing all chords so far.
+
+  FIRST INVERSION  
+The 3rd of the chord is the lowest note. C major first inversion has E as the bass (E-G-C). Written as C/E — "C chord with E in the bass" — a slash chord.
+
+  SECOND INVERSION  
+The 5th of the chord is the lowest note. C major second inversion has G as the bass (G-C-E). Written as C/G.
+
+  SLASH CHORD NOTATION  
+When you see G/B in a chord chart: play a G major chord with B as the lowest note. This is the first inversion of G.
+
+G/B shape (common in pop and folk):
+  e |--3--|
+  B |--0--|
+  G |--0--|
+  D |--0--|
+  A |--2--|  ← B note (not the usual 6th string root)
+  E |--x--|
+
+  WHY INVERSIONS MATTER — VOICE LEADING  
+Inversions enable smooth bassline movement between chords. Instead of bass notes jumping around, they can step by step:
+
+ Without inversions:  C - Am - F - G (bass: C → A → F → G — jumpy)
+ With inversions:     C - C/B - Am - Am/G - F - C/E - Dm - G
+Bass line descends smoothly: C - B - A - G - F - E - D - G
+
+This walking bass descent under changing chords is one of the most elegant sounds in acoustic guitar — and it's built entirely from inversions.
+

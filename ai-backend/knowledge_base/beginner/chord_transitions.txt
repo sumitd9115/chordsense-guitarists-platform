@@ -1,0 +1,52 @@
+LEVEL: Beginner
+LESSON: Chord Transitions
+============================================================
+
+PAGE 1: The One-Minute Change Exercise
+----------------------------------------
+Knowing chord shapes is only half the challenge. Moving between them smoothly and in time is the real skill. This exercise is the single most effective way to build that skill.
+ 
+  THE EXERCISE  
+Set a timer for 60 seconds. Pick two chords (start with G and C). Strum one, immediately switch to the other, strum again. Count how many complete changes you make in 60 seconds. Write it down. Practice this daily. Track your progress.
+ 
+  TARGETS  
+  Day 1: 10–15 changes/minute (normal starting point)
+  Week 1: 25–30 changes/minute
+  Week 2: 40+ changes/minute
+  Month 1: 60+ changes/minute (smooth, musical playing level)
+ 
+  PRIORITY TRANSITIONS TO MASTER  
+  G ↔ C — the most common transition in pop and rock
+  C ↔ Am — folk, ballads, shares pivot fingers
+  G ↔ D — country, rock
+  Am ↔ E — blues, rock
+  D ↔ A — very common in many keys
+ 
+  THE GOLDEN RULE  
+Slow and clean always beats fast and sloppy. Practice at a tempo where the transition is clean. Speed builds naturally as muscle memory develops — you cannot force it faster without losing accuracy.
+
+PAGE 2: Pivot Fingers and Smooth Changes
+----------------------------------------
+The secret to fast chord transitions is not speed — it's efficiency. Pivot fingers and anchor fingers dramatically reduce the amount of movement required between chords.
+ 
+  WHAT IS A PIVOT FINGER?  
+A pivot finger is a finger that stays in the same position (or very close to it) when changing between two chords. Instead of lifting all fingers and replanting them, you keep the pivot finger down as an anchor while the other fingers reposition around it.
+ 
+  EXAMPLE — C MAJOR TO A MINOR  
+  C major:  index=B string fret 1,  middle=D string fret 2,  ring=A string fret 3
+  A minor:  index=B string fret 1,  middle=D string fret 2,  ring=G string fret 2
+ 
+Your index and middle fingers don't move at all — they stay in exactly the same position. Only the ring finger moves (from A string fret 3 to G string fret 2). This is a pivot transition.
+ 
+  EXAMPLE — G MAJOR TO CADD9  
+  G major:   ring=E string fret 3, middle=A string fret 2, pinky=e string fret 3
+  Cadd9:     ring=B string fret 3, middle=D string fret 2, pinky=e string fret 3 (stays!)
+ 
+The pinky stays at fret 3 on the e string for both chords. Use it as the anchor.
+ 
+  FINDING PIVOT FINGERS  
+Before practicing any transition, stop and compare the two chord diagrams. Ask: "Which fingers are in the same or very similar position in both chords?" Those are your pivot fingers. Keep them down. Only move what needs to move.
+ 
+  MENTAL PREPARATION  
+Don't wait until the beat to start moving your fingers. Think ahead — as you're playing the last strum of chord 1, your mind should already be preparing chord 2. Anticipation is what makes transitions sound smooth.
+

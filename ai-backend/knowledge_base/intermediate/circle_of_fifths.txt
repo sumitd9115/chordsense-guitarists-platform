@@ -1,0 +1,36 @@
+LEVEL: Intermediate
+LESSON: Circle of Fifths
+============================================================
+
+PAGE 1: What The Circle of Fifths Shows
+----------------------------------------
+The Circle of Fifths is the most important diagram in music theory. It maps the relationships between all 12 keys and tells you which chords and keys are closely related.
+
+  WHAT IT SHOWS  
+The Circle of Fifths arranges all 12 musical keys in a circle. Moving clockwise, each key is a perfect fifth higher than the previous. Moving counter-clockwise, each key is a perfect fourth higher.
+
+  C → G → D → A → E → B → F# → C# → Ab → Eb → Bb → F → C
+
+  PRACTICAL USE 1 — KEY SIGNATURES  
+As you move clockwise from C, each key adds one sharp:
+  C = 0 sharps
+  G = 1 sharp (F#)
+  D = 2 sharps (F#, C#)
+  A = 3 sharps (F#, C#, G#)
+
+As you move counter-clockwise from C, each key adds one flat:
+  F = 1 flat (Bb)
+  Bb = 2 flats (Bb, Eb)
+
+  PRACTICAL USE 2 — CHORD PROGRESSIONS  
+Keys adjacent on the circle share many chords and sound naturally compatible. This is why chord progressions frequently move between neighbouring keys. The classic I-IV-V progression always moves through adjacent positions on the circle.
+
+  PRACTICAL USE 3 — RELATIVE MINOR KEYS  
+Every major key has a relative minor that shares all the same notes. On the circle, the relative minor is found 3 steps clockwise:
+  C major ↔ A minor
+  G major ↔ E minor
+  D major ↔ B minor
+
+  FOR GUITARISTS SPECIFICALLY  
+The Circle explains why G, C, and D appear together so often (all adjacent), and why Am, C, G, F sound so natural together. These aren't arbitrary groupings — they are musically adjacent keys.
+

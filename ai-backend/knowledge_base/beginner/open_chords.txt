@@ -1,0 +1,93 @@
+LEVEL: Beginner
+LESSON: Open Chords
+============================================================
+
+PAGE 1: The 5 Essential Major Chords
+----------------------------------------
+These are the 5 open major chords every guitarist must know. "Open" means at least one string is played unfretted.
+ 
+  E MAJOR  
+  e |--0--|
+  B |--0--|
+  G |--1--|  ← middle finger
+  D |--2--|  ← ring finger
+  A |--2--|  ← index finger
+  E |--0--|
+All 6 strings strummed. One of the easiest chords — a great starting point.
+ 
+  A MAJOR  
+  e |--0--|
+  B |--2--|  ← ring finger
+  G |--2--|  ← middle finger
+  D |--2--|  ← index finger
+  A |--0--|
+  E |--x--|  (don't play)
+Three fingers on the same fret in a row. Try using one finger as a small barre across strings 2, 3, 4.
+ 
+  D MAJOR  
+  e |--2--|  ← middle finger
+  B |--3--|  ← ring finger
+  G |--2--|  ← index finger
+  D |--0--|
+  A |--x--|  (don't play)
+  E |--x--|  (don't play)
+Only the top 4 strings. Bright and cheerful sounding.
+ 
+  G MAJOR  
+  e |--3--|  ← pinky
+  B |--0--|
+  G |--0--|
+  D |--0--|
+  A |--2--|  ← middle finger
+  E |--3--|  ← ring finger
+All 6 strings. G major has several fingering variations — this is the most common for beginners.
+ 
+  C MAJOR  
+  e |--0--|
+  B |--1--|  ← index finger
+  G |--0--|
+  D |--2--|  ← middle finger
+  A |--3--|  ← ring finger
+  E |--x--|  (don't play)
+Often the hardest first chord due to the stretched position. Becomes natural within days of consistent practice.
+ 
+  PRACTICE TIP  
+Practice each chord individually — press all fingers, strum slowly, listen to every string. If any string buzzes, press closer to the fret wire and use your fingertips.
+
+PAGE 2: The 3 Essential Minor Chords
+----------------------------------------
+Minor chords complete your beginner vocabulary. These three open minor chords pair naturally with the major chords and are used in virtually every song genre.
+ 
+  E MINOR (Em)  
+  e |--0--|
+  B |--0--|
+  G |--0--|
+  D |--2--|  ← middle finger
+  A |--2--|  ← index finger
+  E |--0--|
+Em is the easiest chord on guitar — only two fingers. Deep, melancholic sound. All 6 strings strummed.
+ 
+  A MINOR (Am)  
+  e |--0--|
+  B |--1--|  ← index finger
+  G |--2--|  ← middle finger
+  D |--2--|  ← ring finger
+  A |--0--|
+  E |--x--|  (don't play)
+Am is very similar to E major shifted across the strings. Notice the shape similarity — this is the beginning of understanding moveable chord shapes.
+ 
+  D MINOR (Dm)  
+  e |--1--|  ← index finger
+  B |--3--|  ← ring finger
+  G |--2--|  ← middle finger
+  D |--0--|
+  A |--x--|  (don't play)
+  E |--x--|  (don't play)
+Dm has a particularly mournful quality. Only the top 4 strings, same as D major.
+ 
+  THE RELATIONSHIP BETWEEN MAJOR AND MINOR  
+E Major and E Minor are nearly identical — you simply remove the finger on the G string to go from E to Em. This relationship exists throughout the chord system and is worth observing as you learn each pair.
+ 
+  THE FOUR CHORD TRICK  
+Am - F - C - G is used in hundreds of popular songs. Once you know Am, C, and G, you're already playing the backbone of pop music.
+

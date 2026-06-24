@@ -1,0 +1,65 @@
+LEVEL: Intermediate
+LESSON: Hammer-Ons and Pull-Offs
+============================================================
+
+PAGE 1: Hammer-Ons
+----------------------------------------
+A hammer-on lets you sound a higher note without picking — the force of the fretting finger itself makes the string vibrate. This creates a smooth, fluid connection between notes.
+
+  WHAT IS A HAMMER-ON?  
+You pick the lower note, then sharply bring another finger down onto a higher fret. The momentum of the finger "hammering" onto the fret causes the string to vibrate and produce the higher note — no second pick attack needed.
+
+ TAB NOTATION: 5h7 
+Pick fret 5, hammer onto fret 7.
+
+  HOW TO EXECUTE  
+1. Pick the first note cleanly (e.g., 5th fret, G string)
+2. Keep the first finger pressed down
+3. Bring the hammer finger (e.g., ring finger) down SHARPLY onto the target fret (7th)
+4. The landing must be fast and firm — right behind the fret wire
+5. The second note should ring clearly without any second pick stroke
+
+  COMMON PROBLEMS  
+ Too quiet:  Not enough speed/force on the hammer. The finger must drop quickly, not slowly press down.
+ Buzz on hammer note:  Landing too far from the fret wire. Aim right behind the metal fret strip.
+ First note mutes:  You're accidentally releasing the first finger when hammering. Keep it pressed.
+
+  SINGLE-FINGER LEGATO  
+Once comfortable with two-finger hammer-ons, practice a full scale using only hammer-ons ascending — pick only the first note on each string and hammer all subsequent notes. This is called single-direction legato and is the foundation of smooth scale runs.
+
+  SPEED BUILDING  
+Practice hammer-ons with a metronome starting at 60 BPM. Focus on evenness — both the picked note and the hammered note should be the same volume and duration. Uneven legato is the most common intermediate mistake.
+
+PAGE 2: Pull-Offs
+----------------------------------------
+A pull-off is the descending counterpart to the hammer-on — sounding a lower note by pulling the fretting finger off the string with a slight plucking motion.
+
+  WHAT IS A PULL-OFF?  
+You have two fingers on the string simultaneously. You pick the higher fret, then pull the top finger off (slightly downward or upward) to sound the lower fret — again without a second pick stroke.
+
+ TAB NOTATION: 7p5 
+Pick fret 7, pull off to sound fret 5.
+
+  HOW TO EXECUTE  
+1. Place both fingers on the string simultaneously before picking (index on fret 5, ring on fret 7)
+2. Pick the higher fret (ring finger, fret 7)
+3. Pull the ring finger off the string with a slight sideways "pluck" — toward the adjacent lower string
+4. The index finger (fret 5) should ring out clearly
+
+  THE CRUCIAL DETAIL  
+Simply lifting your finger straight off the string won't work — the string won't vibrate. You need the slight sideways pull that sets the string in motion. Think of it as plucking the string with your fretting finger as you remove it.
+
+  COMBINING HAMMER-ONS AND PULL-OFFS — TRILLS  
+Rapidly alternating between the two creates a trill:
+  TAB: 5h7p5h7p5h7
+
+Place both fingers. Pick fret 5. Hammer to 7. Pull off to 5. Hammer to 7. Pull off to 5. Repeat. Start slowly — the rhythm must be perfectly even.
+
+  SPEED BUILDING EXERCISES  
+Practice trills on every finger combination:
+  Index-Middle (frets 5-6)
+  Index-Ring (frets 5-7)
+  Index-Pinky (frets 5-8)
+  Middle-Pinky (frets 6-8)
+30 seconds per combination, both ascending and descending. This isolates the weakest finger pairs directly.
+

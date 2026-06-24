@@ -1,0 +1,89 @@
+LEVEL: Beginner
+LESSON: How To Tune Your Guitar
+============================================================
+
+PAGE 1: Standard Tuning
+----------------------------------------
+Tuning your guitar is the very first thing you do every single time you play. An out-of-tune guitar sounds bad no matter how well you play — and it trains your ear incorrectly. Never skip tuning.
+ 
+  STANDARD TUNING  
+The 6 strings, from thickest to thinnest, are tuned to:
+  6th string → E (82.41 Hz)
+  5th string → A (110 Hz)
+  4th string → D (146.83 Hz)
+  3rd string → G (196 Hz)
+  2nd string → B (246.94 Hz)
+  1st string → E (329.63 Hz)
+ 
+All tuners — clip-on, app, pedal — listen for these exact frequencies.
+ 
+  HOW TUNING WORKS  
+Each tuning peg controls one string. Turning it increases or decreases string tension, which raises or lowers the pitch.
+  Tightening the peg → higher pitch (sharp)
+  Loosening the peg → lower pitch (flat)
+ 
+  USING A CLIP-ON TUNER (RECOMMENDED FOR BEGINNERS)  
+1. Clip the tuner onto your headstock
+2. Pluck one string
+3. The tuner detects the vibration and shows the nearest note
+4. Needle/indicator to the LEFT → you are flat (too low) → tighten the peg
+5. Needle/indicator to the RIGHT → you are sharp (too high) → loosen the peg
+6. Aim for the needle pointing perfectly to the centre / green indicator
+7. Tune all 6 strings, starting from the low E
+ 
+  IMPORTANT HABIT  
+Always tune UP to a note, not down. If you overshoot and go sharp, loosen past the note and come back up. This keeps string tension consistent and helps the guitar stay in tune longer.
+ 
+  HOW OFTEN TO TUNE  
+Tune every single time you pick up the guitar. Guitars go out of tune naturally due to temperature changes, humidity, and just from being played. Even 10 minutes of playing can shift the tuning enough to notice.
+
+PAGE 2: Using A Tuner
+----------------------------------------
+Electronic tuners take all the guesswork out of tuning, making it fast, reliable, and accurate for players at every level.
+ 
+  TYPES OF TUNERS  
+ 
+ CLIP-ON TUNER 
+Clips directly onto the headstock. Detects pitch through vibration in the wood — not through sound in the air. This means it works even in noisy environments (rehearsal rooms, gigs). Best choice for most guitarists. Affordable and highly reliable.
+ 
+ PEDAL TUNER 
+Plugs into your signal chain between guitar and amp. Used by professional guitarists on stage. Extremely accurate. Has a mute function so you can tune silently during live performance. Only relevant for electric guitar players.
+ 
+ PHONE APP TUNERS 
+Free apps (GuitarTuna, Pano Tuner, Fender Tune) use your phone's microphone. Work well in quiet environments. Less reliable in noisy rooms — the microphone picks up background sound. Good for home practice.
+ 
+ YOUR APP'S BUILT-IN TUNER 
+The guitar tuner feature in this app uses your device's microphone or the Web Audio API to detect your guitar's pitch in real time — the same technology as dedicated tuner apps, built directly into your practice environment.
+ 
+  READING THE TUNER DISPLAY  
+Most tuners show:
+- The detected note name (E, A, D, G, B)
+- A needle or bar indicator
+- Colour feedback: red = out of tune, green/blue = in tune
+ 
+  TUNING TIPS  
+- Pluck the string cleanly and let it ring — don't mute it
+- Tune one string at a time
+- After tuning all 6 strings, go back and recheck — tuning one string can slightly affect others
+- New strings go out of tune faster until they're "broken in" — stretch them gently by pulling them away from the fretboard and retune until stable
+
+PAGE 3: Relative Tuning By Ear
+----------------------------------------
+Once your low E string is in tune (use a tuner for this reference pitch), you can tune the remaining 5 strings by ear using only the guitar itself.
+ 
+  THE 5TH FRET METHOD  
+Press the 5th fret on the 6th string (E) → the note produced is A → tune the open 5th string to match it
+Press the 5th fret on the 5th string (A) → the note produced is D → tune the open 4th string to match it
+Press the 5th fret on the 4th string (D) → the note produced is G → tune the open 3rd string to match it
+Press the 4th fret on the 3rd string (G) → the note produced is B → tune the open 2nd string to match it
+Press the 5th fret on the 2nd string (B) → the note produced is E → tune the open 1st string to match it
+ 
+  THE CRITICAL EXCEPTION  
+The G to B transition uses the 4TH fret, not the 5th. This is because of the major third interval between those two strings. All other pairs use the 5th fret. Forgetting this exception is the most common mistake in relative tuning.
+ 
+  HOW TO MATCH PITCHES BY EAR  
+Play the fretted reference note, then pluck the open string. Listen for "beating" — a wavering, wobbling sound that occurs when two notes are close but not exactly matching. The beating speeds up as the notes diverge and slows down as they converge. Adjust the tuning peg until the beating completely disappears and the two notes fuse into one smooth, stable tone.
+ 
+  LIMITATION OF RELATIVE TUNING  
+Relative tuning keeps your guitar in tune with itself, but does not guarantee you are in tune with other instruments or recordings. Always use a tuner when playing with other musicians.
+

@@ -1,0 +1,63 @@
+LEVEL: Advanced
+LESSON: Reading Standard Notation
+============================================================
+
+PAGE 1: Introduction to Standard Notation
+----------------------------------------
+Standard notation (sheet music) is the universal language of music — readable by a pianist, violinist, or guitarist anywhere in the world. Reading it unlocks a vastly larger world of musical resources.
+
+  THE STAFF  
+Standard notation uses a staff: 5 horizontal lines with notes placed on lines and in spaces. For guitar, the treble clef is used (the swirling symbol at the start of each staff).
+
+  NOTE POSITIONS ON THE TREBLE CLEF  
+Notes on lines (bottom to top): E - G - B - D - F ("Every Good Boy Does Fine")
+Notes in spaces (bottom to top): F - A - C - E ("FACE")
+
+  RHYTHM VALUES  
+   Whole note:  4 beats (open oval, no stem)
+   Half note:  2 beats (open oval with stem)
+   Quarter note:  1 beat (filled oval with stem)
+   Eighth note:  1/2 beat (filled oval with stem + flag or beam)
+   Sixteenth note:  1/4 beat (filled oval with stem + double flag or beam)
+
+  GUITAR IS A TRANSPOSING INSTRUMENT  
+Guitar music is written one octave higher than it actually sounds. This is purely conventional — it keeps most guitar notes on or near the staff rather than requiring many ledger lines below it.
+
+  WHY LEARN THIS?  
+Access to the entire classical guitar repertoire, jazz lead sheets, and collaborative notation with non-guitar musicians. Even slow reading opens up a world of musical resources unavailable through tab alone.
+
+PAGE 2: Key Signatures and Time Signatures
+----------------------------------------
+Key signatures and time signatures are the two fundamental pieces of information at the start of every piece of written music. Reading them correctly is the entry point to sight-reading.
+
+  KEY SIGNATURES  
+Placed immediately after the clef, a key signature shows which notes are consistently sharped or flatted throughout the piece.
+
+  SHARP KEY SIGNATURES (sharps added in this order: F# C# G# D# A# E# B#)  
+  No sharps = C major / A minor
+  1 sharp (F#) = G major / E minor
+  2 sharps (F# C#) = D major / B minor
+  3 sharps (F# C# G#) = A major / F# minor
+  4 sharps = E major / C# minor
+
+  FLAT KEY SIGNATURES (flats added: Bb Eb Ab Db Gb Cb Fb)  
+  1 flat (Bb) = F major / D minor
+  2 flats (Bb Eb) = Bb major / G minor
+  3 flats = Eb major / C minor
+  4 flats = Ab major / F minor
+
+  NATURAL SIGN  
+A natural sign (♮) cancels the key signature for one specific note in that bar. After the bar line, the key signature applies again.
+
+  TIME SIGNATURES  
+The fraction after the key signature:
+   Top number  = beats per bar
+   Bottom number  = what note value = 1 beat (4 = quarter note, 8 = eighth note)
+
+Common signatures:
+   4/4:  4 quarter-note beats per bar (most common — "common time")
+   3/4:  3 quarter-note beats per bar (waltz)
+   6/8:  6 eighth-note beats per bar (compound duple — counted in 2 groups of 3)
+   2/4:  2 quarter-note beats per bar (march)
+   5/4:  5 quarter-note beats per bar (Dave Brubeck, Pink Floyd's "Money")
+

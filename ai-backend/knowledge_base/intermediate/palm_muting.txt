@@ -1,0 +1,65 @@
+LEVEL: Intermediate
+LESSON: Palm Muting
+============================================================
+
+PAGE 1: Palm Muting Technique
+----------------------------------------
+Palm muting is the rhythmic "chugging" technique that defines rock rhythm guitar. It is one of the most used techniques in all of rock and metal.
+
+  WHAT IS PALM MUTING?  
+Rest the fleshy edge of your picking hand (the side below the pinky) lightly on the strings right where they cross over the bridge saddles. When you strum or pick, the strings vibrate but are partially dampened — producing a muted, percussive "thunk" rather than a full, resonant note.
+
+  FINDING THE SWEET SPOT  
+The contact point's exact position matters enormously:
+-  Too far from the bridge (toward the neck):  strings muted too much, produces a dead thud
+-  Too close to the bridge:  barely any muting effect
+-  Right at the bridge saddles:  the sweet spot — notes are recognisably pitched but tight and chunky
+
+This position varies between guitars and adjusts continuously as you play — it becomes instinctive with practice.
+
+  THE MUTING PRESSURE  
+Use the minimum pressure needed. The palm should rest on the strings gently — not pressing firmly. Too much pressure deadens the note completely; too little has no effect.
+
+  WITH DISTORTION  
+Palm muting combined with distortion and power chords creates the classic "chug" that drives rock and metal rhythm tracks. This combination is the most iconic sound in rock rhythm guitar.
+
+  PRACTICE EXERCISE  
+Play E5 power chord. Alternate between:
+   Full open strum:  rich, loud, full resonance
+   Palm-muted strum:  tight, compressed, percussive
+Listen to the dramatic contrast. Then build 4-bar patterns combining both.
+
+PAGE 2: The Chug Sound in Rock Music
+----------------------------------------
+The "chug" — that tight, percussive, rhythmic palm-muted power chord sound — is the backbone of rock and metal rhythm guitar. Mastering it unlocks the entire genre.
+
+  ANATOMY OF THE CHUG  
+A "chug" combines three elements simultaneously:
+1. Palm muting (dampening the strings near the bridge)
+2. Power chord shape (usually E5 or A5 as the main "chugging" chord)
+3. Tight, downstroke-heavy picking (mostly downstrokes for aggression)
+
+  THE CLASSIC CHUG PATTERN  
+  PM---|
+  E |--0-0-0-0-0-0-0-0--|
+
+Eight palm-muted hits on the open low E string. Add rhythmic accents (every 4th hit slightly louder) to make it musical rather than mechanical.
+
+  ALTERNATING CHUGS AND OPEN POWER CHORDS  
+Great rock riffs use the contrast between muted and open:
+  PM-- |       |
+  E5: 0-0-0-0-5-5-5-5
+  The palm-muted section builds tension; the open power chord is the release.
+
+  DOWNSTROKES VS ALTERNATE PICKING FOR PALM MUTING  
+ Downstrokes only:  heavier, more aggressive, slightly slower (Metallica, classic metal)
+ Alternate picking:  faster, more even, used for rapid chug patterns
+ Beginners:  start with all downstrokes. The consistent angle of the pick hitting the palm-muted strings is easier to control.
+
+  TAB NOTATION  
+P.M.--| (with dashes showing how long the muting lasts)
+  P.M.--|         |
+  E |--0-0-0-0-5-5--|
+
+The vertical bar shows where palm muting stops and open strumming begins.
+

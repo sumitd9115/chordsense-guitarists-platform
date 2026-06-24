@@ -1,0 +1,63 @@
+LEVEL: Beginner
+LESSON: Understanding Keys
+============================================================
+
+PAGE 1: What Playing In A Key Means
+----------------------------------------
+A key is the home base of a piece of music — the note and scale that everything else revolves around and "wants" to return to.
+ 
+  WHAT DOES "PLAYING IN A KEY" MEAN?  
+When a song is "in the key of G," it means:
+- The G note feels like home — the most resolved, resting note
+- The chord progression is built from notes of the G major scale
+- Lead guitar solos use notes from the G major scale
+ 
+  THE CHORDS IN A KEY  
+Every major key has 7 chords built from its scale notes with this consistent major/minor pattern:
+  1 = Major (I)
+  2 = Minor (ii)
+  3 = Minor (iii)
+  4 = Major (IV)
+  5 = Major (V)
+  6 = Minor (vi)
+  7 = Diminished (vii°) — rarely used at beginner level
+ 
+  KEY OF G EXAMPLE  
+  I   = G Major
+  ii  = Am (A minor)
+  iii = Bm (B minor)
+  IV  = C Major
+  V   = D Major
+  vi  = Em (E minor)
+ 
+This is why G, C, D, and Em appear together constantly in songs — they all belong to the key of G.
+ 
+  THE I-IV-V PROGRESSION  
+The 1st, 4th, and 5th chords of any key are the most powerful and most used in all music.
+  Key of G: G - C - D
+  Key of A: A - D - E
+  Key of C: C - F - G
+This three-chord pattern is the backbone of blues, rock, country, and folk.
+
+PAGE 2: Why Keys Matter For Beginners
+----------------------------------------
+Understanding keys isn't just theory — it has immediate, practical uses for learning songs, jamming, and communicating with other musicians.
+ 
+  PRACTICAL USE 1 — FIGURING OUT SONGS FASTER  
+When you hear a new song and want to play it, identify the key. Once you know the key, you instantly know which chords are most likely to appear. Instead of guessing randomly, you have a shortlist of 6–7 chords that all work together. This is how musicians "figure out songs by ear."
+ 
+  PRACTICAL USE 2 — JAMMING WITH OTHER MUSICIANS  
+When someone says "let's jam in G" they mean: use G major scale notes for your melody and solo. All the chords belong to the key of G. You don't need the full chord chart — you already know the framework.
+ 
+  PRACTICAL USE 3 — TRANSPOSING  
+Moving a song to a different key keeps all the same chord relationships but starts on a different root note. The song sounds the same; it's just higher or lower. Knowing keys lets you transpose instantly by moving the same chord pattern to a new starting point.
+ 
+  RELATIVE MINOR  
+Every major key has a relative minor — a minor key that shares all the same notes and chords. The relative minor starts on the 6th degree of the major scale.
+  G major ↔ E minor (same notes, same chords, different tonal centre)
+  C major ↔ A minor
+  D major ↔ B minor
+ 
+  SONGS IN G MAJOR AND E MINOR  
+Songs in G major and songs in E minor use the same 6 chords — they just treat different chords as "home." This is why the same four chords (G, C, D, Em) work for both "happy" songs in G and "darker" songs in Em.
+

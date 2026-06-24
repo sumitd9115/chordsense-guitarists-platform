@@ -1,0 +1,58 @@
+LEVEL: Intermediate
+LESSON: Advanced Strumming
+============================================================
+
+PAGE 1: 16th Note Strumming
+----------------------------------------
+16th note strumming doubles the subdivisions of 8th note strumming — creating denser, more energetic rhythmic patterns used in funk, pop, and uptempo rock.
+
+  THE COUNTING  
+ 8th notes:  1 + 2 + 3 + 4 + (8 strokes per bar)
+ 16th notes:  1 e + a 2 e + a 3 e + a 4 e + a (16 positions per bar)
+
+Your strumming hand moves at 16th note speed — constant down-up-down-up at double the previous rate. You choose which of these 16 positions actually contact the strings.
+
+  16TH NOTE PATTERNS  
+
+ Pattern 1 — Basic (D on 1, 2, 3, 4 — fill with ups): 
+  1  e  +  a  2  e  +  a  3  e  +  a  4  e  +  a
+  D  .  U  .  D  .  U  .  D  .  U  .  D  .  U  .
+
+ Pattern 2 — Funk pattern (dots = air strum): 
+  D  .  D  U  .  U  D  U  .  U  D  U  .  U  D  .
+
+  THE PENDULUM PRINCIPLE (still applies)  
+Your arm moves continuously at 16th note speed regardless of whether you hit the strings. The pick makes contact or misses — the arm never stops. At typical song tempos, 16th notes feel very fast; the consistency of arm motion is what makes it manageable.
+
+  MUTING IN 16TH PATTERNS  
+16th note funk strumming typically alternates between fretted chord strums and muted strums. Lightly rest fretting hand fingers on the strings for the muted positions — this creates the percussive "ch" sound that defines funk rhythm guitar.
+
+  PRACTICE TEMPO  
+Start at 60 BPM for 16th note patterns. This gives each position enough time to execute cleanly. Rushing is the most common mistake — the arm wants to play strong beats harder and faster.
+
+PAGE 2: Syncopation
+----------------------------------------
+Syncopation means emphasising the off-beats — the weak beats or the "and" counts between main beats. It's what makes rhythm guitar feel alive, groovy, and forward-moving rather than mechanical.
+
+  WHAT IS SYNCOPATION?  
+In a standard pattern, the strongest beats are 1, 2, 3, and 4. The "and" counts between them are weaker. Syncopation deliberately places accents, chord hits, or emphasis on those weaker positions — creating surprise and forward momentum.
+
+  THE ANTICIPATED CHORD CHANGE  
+The most common syncopation technique: instead of landing the chord change exactly on beat 1, play it on the "and" of beat 4 — one eighth note early. This "anticipation" is used in virtually all pop and rock and prevents the progression from sounding mechanical.
+
+  TIED NOTES  
+When a chord is strummed on an off-beat and held through the following strong beat (rather than re-strummed on the beat), it creates syncopation. The rhythm "leans forward."
+
+  REGGAE SKANK — PURE OFF-BEAT  
+Reggae is pure off-beat emphasis: chords are played ONLY on the "and" counts (between the beats), never on the main beats:
+  1  +  2  +  3  +  4  +
+  .  D  .  D  .  D  .  D
+
+This creates the characteristic light, choppy, bouncy feel of reggae rhythm guitar.
+
+  MUTING BETWEEN STRUMS  
+Another form of syncopation: place your fretting hand lightly on the strings between chord strums to create a percussive "ch" sound. This chop-and-strum rhythm is fundamental to funk and R&B.
+
+  INTERNALISING SYNCOPATION  
+Listen to Stevie Wonder, James Brown, Earth Wind & Fire. Your body learns groove from listening. Syncopated feel is absorbed before it can be executed — listen first, then play.
+

@@ -1,0 +1,62 @@
+LEVEL: Intermediate
+LESSON: Power Chords
+============================================================
+
+PAGE 1: Power Chords Explained
+----------------------------------------
+Power chords are the most important chord type in rock and metal — simple, aggressive, and moveable anywhere on the fretboard.
+
+  WHAT IS A POWER CHORD?  
+A power chord contains only two unique notes: the root and the fifth. Unlike full major or minor chords which have 3 note types, power chords contain no third — the note that determines major or minor quality. This is why they're called "5 chords" (written as G5, A5, C5 etc.) and why they sound equally powerful with both clean and distorted tones.
+
+  WHY USE POWER CHORDS?  
+Distortion and overdrive effects (used in rock and metal) make full chords sound muddy and unclear. The two-note simplicity of power chords cuts through distortion with clarity and aggression. This is why virtually all electric rock rhythm guitar is built on power chords.
+
+  THE BASIC POWER CHORD SHAPE (root on 6th string)  
+G5 example:
+  e |--x--|
+  B |--x--|
+  G |--x--|
+  D |--5--|  ← ring finger
+  A |--5--|  ← middle finger (optional — adds octave root)
+  E |--3--|  ← index finger (root = G)
+
+  ROOT ON 5TH STRING SHAPE  
+A5 example:
+  e |--x--|
+  B |--x--|
+  G |--x--|
+  D |--7--|  ← ring finger
+  A |--5--|  ← index finger (root = A)
+  E |--x--|
+
+  MOVING POWER CHORDS  
+Like barre chords, power chords are entirely moveable. The shape never changes — only the fret position changes. This makes learning power chord-based rock songs very fast once you know the shape and the note positions on the 6th and 5th strings.
+
+  PALM MUTING WITH POWER CHORDS  
+Place the edge of your picking hand lightly on the strings just above the bridge while strumming. This creates the classic muted "chug" sound that defines rock rhythm guitar.
+
+PAGE 2: Rock and Punk Usage
+----------------------------------------
+Power chords are not just a guitar technique — they are the defining sound of rock and punk music. Understanding how to use them musically is as important as knowing the shapes.
+
+  THE DISTORTION FACTOR  
+Power chords were born out of necessity. When guitarists started using distortion and overdrive in the 1950s and 60s, they discovered that full major and minor chords sounded muddy and indistinct with high gain. The two-note power chord, however, cut through distortion with clarity and punch. This is the core reason power chords dominate rock and punk.
+
+  PUNK USAGE — FAST AND AGGRESSIVE  
+Punk guitar is essentially rapid power chord changes played with aggressive downstrokes. The fast chord changes, downstroke-only picking, and palm-muted verses alternating with full open strums are the complete punk rhythm guitar vocabulary.
+
+Classic punk chord progressions are often just 3-4 power chords in rapid succession:
+  E5 - A5 - D5 - A5 (played fast with all downstrokes)
+
+  ROCK USAGE — DYNAMICS AND TEXTURE  
+Rock uses power chords more dynamically — alternating between palm-muted "chugging" (tight, compressed) and fully open strummed power chords (loud, full). This contrast creates the push-pull energy of rock rhythm tracks.
+
+  RIFF BUILDING WITH POWER CHORDS  
+Many iconic rock riffs move between a root power chord and additional notes:
+  E5 on the open 6th string → single note on 4th string → back to E5
+  This kind of riff builds on the power chord as a home base with melodic movement around it.
+
+  THE THREE-CHORD APPROACH  
+Most rock and punk songs use 3-4 power chords. Learn the note positions on the 6th and 5th strings and you can instantly figure out the power chord positions for any rock song by ear.
+

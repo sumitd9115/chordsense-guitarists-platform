@@ -1,0 +1,72 @@
+LEVEL: Advanced
+LESSON: Extended Chords
+============================================================
+
+PAGE 1: 9th, 11th, and 13th Chords
+----------------------------------------
+Extended chords go beyond the basic 3-note triad to include the 7th, 9th, 11th, and 13th scale degrees. They are the language of jazz, soul, and sophisticated pop harmony.
+
+  BUILDING EXTENDED CHORDS  
+Start with a major triad (1-3-5) and keep stacking thirds:
+  Add 7th  → 7th chord (1-3-5-7)
+  Add 9th  → 9th chord (1-3-5-7-9)
+  Add 11th → 11th chord (1-3-5-7-9-11)
+  Add 13th → 13th chord (1-3-5-7-9-11-13)
+
+The 9th = the 2nd an octave higher
+The 11th = the 4th an octave higher
+The 13th = the 6th an octave higher
+
+  TYPES OF 7TH CHORDS  
+ Major 7th (maj7):  1-3-5-7. Natural 7th. Sound: warm, dreamy, sophisticated. E.g., Cmaj7
+ Dominant 7th (7):  1-3-5-b7. Flat 7th. Sound: tense, bluesy, wants to resolve. E.g., G7
+ Minor 7th (m7):  1-b3-5-b7. Sound: cool, smooth, jazz-influenced. E.g., Am7
+
+  9TH CHORDS  
+ Dominant 9th (9):  1-3-5-b7-9. Most common in funk and soul rhythm guitar.
+ Major 9th (maj9):  1-3-5-7-9. Lush, cinematic quality.
+ Minor 9th (m9):  1-b3-5-b7-9. Very sophisticated minor sound.
+
+  PRACTICAL APPLICATION  
+Extended chords are essential for:
+- Jazz and bossa nova comping
+- Neo-soul and R&B rhythm guitar
+- Film and TV music
+- Sophisticated pop songwriting
+
+PAGE 2: Jazz Voicings and Shell Chords
+----------------------------------------
+On guitar, playing all 7 notes of an extended chord is physically impossible — only 6 strings. Jazz guitarists solve this with shell chords: minimal voicings containing only the essential notes.
+
+  WHAT IS A SHELL CHORD?  
+A shell chord uses the minimum notes needed to define a chord's quality and function:
+  Root + 3rd + 7th = the shell
+  These three notes tell the listener everything essential about the chord
+
+ The 3rd defines:  major or minor quality
+ The 7th defines:  major 7th, dominant 7th, or minor 7th quality
+ The 5th  is almost always omitted — it adds little harmonic information
+
+  ADD COLOUR NOTES ON TOP  
+After the shell (R-3-7), add one colour note:
+  Add 9th for richness: R-3-7-9
+  Add 13th for brightness: R-3-7-13
+  Add #11 for Lydian Dominant colour: R-3-7-#11
+
+  COMMON SHELL CHORD SHAPES (jazz style)  
+
+G7 shell (root on 6th string, 3rd fret):
+  e |--x--|
+  B |--1--|  ← b7 (F)
+  G |--0--|  ← 3rd (B)
+  D |--x--|
+  A |--x--|
+  E |--3--|  ← root (G)
+
+  VOICE LEADING WITH SHELL CHORDS  
+In a ii-V-I progression (Dm7 - G7 - Cmaj7), the guide tones (3rd and 7th) move by small steps:
+   Dm7:  3rd=F, 7th=C
+   G7:  3rd=B, 7th=F (F was 7th of Dm7, now 3rd of G7 — same note!)
+   Cmaj7:  3rd=E, 7th=B (B was 3rd of G7, now 7th of Cmaj7 — same note!)
+This smooth guide-tone movement is the foundation of jazz harmonic voice leading.
+

@@ -1,0 +1,67 @@
+LEVEL: Advanced
+LESSON: Horizontal vs Vertical Playing
+============================================================
+
+PAGE 1: Vertical vs Horizontal Thinking
+----------------------------------------
+Most beginners play vertically — staying in one position, using box patterns. Advanced players think horizontally — moving across the entire length of the neck. Mastery combines both.
+
+  VERTICAL PLAYING (POSITION-BASED)  
+Playing within a 4-5 fret window using box patterns. Strong for:
+- Control and precision in one area
+- Pentatonic licks and blues playing
+- Chord-tone targeting in a specific register
+- Building positional confidence and accuracy
+
+  HORIZONTAL PLAYING (LINEAR)  
+Playing across multiple positions, moving along one or two strings for extended stretches. Strong for:
+- Dramatic, sweeping melodic lines spanning wide ranges
+- Covering wide pitch ranges in a single phrase
+- Position shifting and connecting different neck areas
+- Imitating vocal and wind instrument phrasing
+
+  THE GUITAR NECK AS GEOGRAPHY  
+Think of the fretboard as a map:
+   Vertical  = staying in your neighbourhood
+   Horizontal  = travelling across the city
+   Mastery  = moving freely between both at will
+
+  ONE-STRING SCALES  
+Practice playing the G major scale entirely on one string (e.g., the B string). You'll cover 12 frets in one octave. This forces your hand to shift position continuously and builds horizontal orientation. It also reveals the note layout of the entire string in a linear, visually clear way.
+
+  WHEN EACH APPROACH IS SUPERIOR  
+ Blues playing:  vertical (box patterns, tight control, bending in one area)
+ Classical-style runs:  horizontal (long scalar passages across the neck)
+ Jazz comping:  vertical (chord voicings in specific positions)
+ Rock shredding:  often horizontal (dramatic position-shifting runs)
+
+PAGE 2: Position Shifting and Combining Both
+----------------------------------------
+Position shifting is the technique that enables smooth horizontal movement — the physical skill of moving your fretting hand from one position to another without disrupting the melodic line.
+
+  POSITION SHIFTING TECHNIQUE  
+When shifting position during a scale run or melodic phrase:
+1. Identify the shift point — which finger moves first?
+2. A "guide finger" maintains light contact with the string during the shift
+3. The guide finger slides smoothly along the string to the new position
+4. The hand arrives before the next note is due — never late
+5. No audible scrape or pause occurs during the shift
+
+  THE GUIDE FINGER  
+The guide finger is whichever finger plays both the last note before the shift and the first note after it (or stays on the same string during the shift). Its continuous contact with the string:
+- Prevents the "jump" that disrupts melodic lines
+- Guides the hand to the precise target position
+- Produces a subtle, expressive slide sound that enhances legato phrasing
+
+  COMBINING VERTICAL AND HORIZONTAL — THE PROFESSIONAL APPROACH  
+Great guitarists don't commit exclusively to either approach. They:
+1. Enter a box position (vertical) for a specific lick or chord-tone phrase
+2. Slide out horizontally to the next position
+3. Settle into the new box for another phrase
+4. Continue moving across the neck as the music dictates
+
+The music directs the movement — not a rigid commitment to either approach.
+
+  PRACTISING THE COMBINATION  
+Take an Am backing track. Start in the pentatonic box at the 5th fret (vertical). After 4 bars, slide up to the next position (horizontal shift). Play from there for 4 bars. Shift again. Force yourself to cover 3 different positions across one solo. This conscious practice builds the habit of neck-wide thinking.
+

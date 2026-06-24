@@ -1,0 +1,83 @@
+LEVEL: Advanced
+LESSON: Genre-Specific Soloing
+============================================================
+
+PAGE 1: Blues Soloing
+----------------------------------------
+Blues is the foundation of virtually all rock, soul, and jazz guitar soloing. Mastering blues vocabulary gives you a universal musical language that transfers across every genre.
+
+  THE BLUES VOCABULARY  
+Blues soloing is not about scales — it's about phrasing, bends, and storytelling. The notes are secondary to how they're delivered.
+
+  CORE TECHNIQUES IN BLUES  
+ Call and response:  a phrase followed by a pause, then an answering phrase. Mimics conversation and sermon-response in the tradition that birthed blues.
+ Bending:  virtually every significant blues note is bent. A blues lick without bends is not blues.
+ Vibrato:  every sustained note gets vibrato. No exceptions in authentic blues.
+ Repetition:  playing the same lick 2-3 times, slightly varied, before moving on. Builds familiarity and emotional intensity.
+
+  THE TURNAROUND  
+The last two bars of a 12-bar blues (bars 11-12) are called the turnaround. A distinctive lick brings the progression back to the beginning. Having a vocabulary of turnaround licks is essential for blues playing.
+
+  THE BB KING PRINCIPLE — LESS IS MORE  
+BB King was famous for very few notes played with extraordinary expression. One perfectly bent note with vibrato, held until it fades, surrounded by silence — more powerful in blues than running the entire pentatonic scale. Let notes breathe. Let silence work.
+
+  BLUES SCALE vs MAJOR PENTATONIC IN BLUES  
+The most sophisticated blues soloists blend both:
+   Over the I chord:  mix major and minor pentatonic freely
+   Over the IV chord:  lean toward major pentatonic (brighter)
+   Over the V chord:  lean toward minor pentatonic or blues scale (more tension)
+This chord-sensitive scale blending is what distinguishes advanced blues playing from intermediate blues playing.
+
+PAGE 2: Rock Soloing
+----------------------------------------
+Rock soloing builds on the blues foundation but adds more technical intensity, wider pitch range, heavier tone, and a more structured dramatic arc. Understanding the full spectrum of rock soloing gives you a complete vocabulary.
+
+  THE ROCK SOLO STRUCTURE  
+Unlike jazz (prioritises chord changes) or blues (prioritises feel), rock solos often have a structured arc:
+   Build:  start in a lower register with simpler phrases
+   Climax:  highest register, most intense technique (fast runs, high bends, screaming notes)
+   Resolution:  return to a melodic, resolved landing
+
+  ESSENTIAL ROCK SOLOING ELEMENTS  
+- Pentatonic and blues scale as foundation — same as blues, played faster and more aggressively
+- Fast alternate-picked runs — the "shred" element of rock and metal
+- Wide bends (full step and wider) with vibrato
+- High-register playing on the 1st and 2nd strings
+- Strategic sustain — letting notes ring and feed back on electric guitar
+- Whammy bar for pitch dives and dramatic effects (electric only)
+
+  THE DIFFERENT ERAS  
+ Classic Rock (Clapton, Page, Hendrix):  blues-rooted, feel-focused, pentatonic and blues scale
+ Hard Rock / Heavy Metal (Van Halen, Randy Rhoads):  added sweep picking, tapping, neoclassical elements
+ Alternative (Jonny Greenwood, Thurston Moore):  texture, noise, non-conventional phrasing
+ Modern Metal (Petrucci, Guthrie Govan):  combines all previous eras with jazz harmony and extreme technical facility
+
+  YOUR PERSONAL STYLE  
+The best rock soloists are immediately recognisable. That recognisability comes not from technique but from consistent choices: specific bends you favour, scale positions you gravitate toward, tempo of phrases, vibrato character. These preferences emerge through hundreds of hours of improvisation — they cannot be forced; they are discovered.
+
+PAGE 3: Jazz Improvisation Basics
+----------------------------------------
+Jazz improvisation is the most harmonically sophisticated improvisational tradition in Western music. Even basic jazz vocabulary will transform the harmonic awareness you bring to every style.
+
+  THE FUNDAMENTAL DIFFERENCE  
+ Blues/rock improvisation:  play one scale over the whole progression, rely on feel and phrasing.
+ Jazz improvisation:  change scales and arpeggios with every chord change, track the harmony precisely.
+This is called "playing the changes" — the defining skill of jazz improvisation.
+
+  THE ii-V-I PROGRESSION  
+The most important progression in jazz: Dm7 - G7 - Cmaj7 (in C major)
+   Over Dm7:  play D Dorian (natural minor with raised 6th)
+   Over G7:  play G Mixolydian (major with flat 7th) or G altered scale
+   Over Cmaj7:  play C Ionian (C major scale)
+
+This single progression — and knowing which scale fits each chord — is the foundation of all jazz improvisation.
+
+  ARPEGGIO SOLOING  
+Instead of scale runs, jazz improvisation extensively uses arpeggios — the notes of the current chord, played in order. Over Dm7, playing D-F-A-C (the Dm7 arpeggio) clearly outlines the chord and creates harmonically precise solo lines.
+
+  BEBOP VOCABULARY  
+Bebop (Charlie Parker, Dizzy Gillespie) added chromatic passing notes between chord tones, creating flowing 8th-note lines that outline harmony while maintaining smooth melodic movement. The "bebop major scale" (major scale + chromatic note between the 7th and octave) creates a characteristic 8-note scale that fits perfectly into swung 8th-note patterns.
+
+  THE HONEST REALITY  
+Jazz improvisation takes years of dedicated study. But 6 months of focused work on ii-V-I, basic arpeggios, and guide tones will make you noticeably more harmonically aware in every style. The investment pays dividends across all music.
+

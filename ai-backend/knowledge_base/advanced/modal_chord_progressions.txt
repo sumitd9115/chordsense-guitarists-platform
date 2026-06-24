@@ -1,0 +1,60 @@
+LEVEL: Advanced
+LESSON: Modal Chord Progressions
+============================================================
+
+PAGE 1: Creating Modal Progressions
+----------------------------------------
+Modes are not useful in isolation — they become powerful when combined with chord progressions that establish and reinforce the modal tonal centre.
+
+  THE COMMON MISTAKE  
+Many guitarists learn mode scales as shapes, then play them over chord progressions that don't support the mode. The result sounds wrong — not because the notes are wrong, but because the harmonic context doesn't establish the modal home base. The chord progression creates the mode, not the scale alone.
+
+  HOW TO CREATE A MODAL PROGRESSION  
+You need chord progressions that: (1) establish the mode's root as the tonal centre, and (2) include the characteristic chord that confirms the mode's specific colour.
+
+  DORIAN PROGRESSION (A Dorian)  
+Notes: A B C D E F# G
+Characteristic chord: D major (contains F# — distinguishes Dorian from Aeolian)
+Progression: Am7 - D - Am7 - G
+The Am7 establishes A as home; the D major confirms Dorian (not plain A minor).
+
+  MIXOLYDIAN PROGRESSION (G Mixolydian)  
+Notes: G A B C D E F natural
+Characteristic chord: F major (the F natural chord — impossible in G major)
+Progression: G - F - C - G
+Used in countless rock songs. The F chord is the Mixolydian signature.
+
+  LYDIAN PROGRESSION (C Lydian)  
+Notes: C D E F# G A B
+Characteristic chord: D major (F# only exists in Lydian, not standard C major)
+Progression: Cmaj7 - D - Cmaj7
+The Cmaj7 establishes home; the D major confirms the Lydian raised 4th.
+
+  PHRYGIAN PROGRESSION (E Phrygian)  
+Notes: E F G A B C D
+Characteristic movement: Em → F major (F natural one semitone above root)
+Progression: Em - F - Em - F
+The F chord — just one semitone above E — is the defining Phrygian sound.
+
+PAGE 2: How To Hear the Modal Centre
+----------------------------------------
+Identifying the modal centre of a piece of music — knowing which mode is being used — is the advanced analytical skill that connects theory to your ears.
+
+  WHAT IS THE MODAL CENTRE?  
+The modal centre is the note (and mode) that sounds like "home" in a given musical context. In a Dorian piece in A, the note A sounds resolved, arrived, at rest. All other notes create varying degrees of tension relative to it.
+
+  CLUE 1 — THE LOWEST BASS NOTE  
+The bass note that appears most often and on the strongest beats is usually the modal root. In a G - F - C - G progression, G appears on the strongest beats — G is the modal root. The F chord (b7 of G) confirms Mixolydian.
+
+  CLUE 2 — THE CHORD THAT RESOLVES EVERYTHING  
+The chord that other chords "want" to move toward is the I chord. Identify the chord that provides the greatest sense of rest and arrival — that's your tonic chord and root of the mode.
+
+  CLUE 3 — THE CHARACTERISTIC CHORD  
+Find the chord in the progression that "shouldn't" be there according to the obvious major or minor key. That unexpected chord is usually the one confirming the mode:
+   Unexpected F major in a G context  → Mixolydian (flat 7th)
+   Unexpected D major in an A minor context  → Dorian (raised 6th)
+   Unexpected F major in an E minor context  → Phrygian (flat 2nd)
+
+  TRAINING YOUR EAR  
+Take 5 songs you know that use specific modes. Listen with the characteristic note in mind. When the characteristic note or chord appears, notice how it sounds — notice the specific colour it creates. Over time, your ear begins recognising modal colours immediately rather than analytically.
+

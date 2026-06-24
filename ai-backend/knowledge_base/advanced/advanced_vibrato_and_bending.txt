@@ -1,0 +1,49 @@
+LEVEL: Advanced
+LESSON: Advanced Vibrato and Bending
+============================================================
+
+PAGE 1: Microtonal Bends and Pre-Bends
+----------------------------------------
+Advanced bending techniques go beyond standard half-step and full-step bends to include subtle pitch manipulations that bring extraordinary expressiveness to lead playing.
+
+  MICROTONAL BEND (QUARTER-TONE BEND)  
+A quarter-tone bend raises the pitch by half of a half-step — an interval that doesn't exist in standard Western harmony but is deeply felt in blues and vocal music. It's the "almost-in-tune" note that gives Delta blues and country lead guitar its crying, expressive quality.
+
+To execute: pick the note and push the string upward with minimal force — barely enough to raise pitch slightly. The note should sound neither entirely in tune nor a full half-step sharp. This unstable, between-notes quality is intentional and emotionally powerful.
+
+  PRE-BEND  
+Bend the string to the target pitch before picking — the string is already bent when the pick strikes it. Then release downward to the unbent pitch. The listener hears the note starting high and falling, rather than the usual rising bend.
+
+TAB: (7b9)r7 — parentheses indicate the bend happens before the pick strike, then release from 9 pitch back to 7 pitch.
+
+  PRE-BEND AND RELEASE COMBINED  
+Combine pre-bend with a ringing open string: the picked pre-bent note falls while an open string rings simultaneously — a traditional country pedal-steel sound achievable on regular guitar.
+
+  BEND INTONATION AT THE ADVANCED LEVEL  
+Advanced bending is not just reaching the target pitch — it's controlling the speed of arrival, the amount of time spent at the peak pitch, and the character of the release. A bend that arrives at the target pitch quickly and stays there communicates differently from one that glides slowly to the target and immediately releases. Both are tools in the expressive vocabulary.
+
+PAGE 2: Expressive Vibrato Control
+----------------------------------------
+Advanced vibrato is not one fixed speed and width — it is a continuously variable expression tool that communicates emotional nuance no other technique can.
+
+  SPEED AND WIDTH AS EXPRESSIVE VARIABLES  
+Every combination of vibrato speed and width produces a different emotional quality:
+   Slow + wide:  maximum emotional weight, vulnerability, crying quality (BB King, David Gilmour)
+   Fast + narrow:  intensity, urgency, controlled aggression (Eddie Van Halen high notes)
+   Slow + narrow:  gentle warmth, subtle colour (jazz and classical)
+   Accelerating:  starts slow and narrow, gradually increases — creates a natural swell
+
+  TIMING OF VIBRATO ONSET  
+ Beginning of note:  let it sustain plain for a brief moment before adding vibrato. This "speaking" of the note before the vibrato begins sounds more vocal and intentional.
+ Immediate vibrato on attack:  sounds urgent, aggressive, raw — appropriate in specific contexts.
+ Delayed vibrato after a bend:  sustain the bent pitch briefly before adding vibrato at the top — the most expressive blues technique.
+
+  THE ACCELERATING VIBRATO  
+Start the vibrato slow and narrow immediately after picking. Gradually increase speed and width through the note's duration. The note builds from subtle to intensely expressive — mirroring how a singer's voice naturally vibrates more intensely on sustained notes. This is the advanced technique used by Gilmour, Santana, and Gary Moore.
+
+  VIBRATO ON DIFFERENT STRINGS  
+The same wrist rotation produces different results on different strings due to their thickness and tension. Develop vibrato individually on every string — don't assume the motion that works on the G string will feel or sound the same on the B string.
+
+  YOUR PERSONAL VIBRATO  
+After years of playing, your vibrato will be as individual as your fingerprint. Every choice — speed, width, timing, onset, release — combines into a recognisable signature. The path to personal vibrato is not copying one player but absorbing many and allowing your own preferences to emerge through thousands of hours of expressive playing.
+

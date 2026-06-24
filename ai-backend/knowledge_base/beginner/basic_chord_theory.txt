@@ -1,0 +1,50 @@
+LEVEL: Beginner
+LESSON: Basic Chord Theory
+============================================================
+
+PAGE 1: What Is A Chord?
+----------------------------------------
+A chord is three or more notes played simultaneously. On guitar, chords are the foundation of rhythm playing — they provide the harmonic backdrop over which melodies and solos are played.
+ 
+  MAJOR vs MINOR  
+The two most fundamental chord types:
+ Major chords  sound happy, bright, and resolved. Think of the opening of "Let It Be" — those are major chords.
+ Minor chords  sound sad, dark, or emotional. Think of the intro to "Stairway to Heaven" — those are minor chords.
+The difference between them is a single note (the third of the chord) being lowered by one half-step. That tiny change completely transforms the emotional quality.
+ 
+  HOW FINGER PLACEMENT CREATES SOUND  
+When you press a string down against a fret, you shorten its vibrating length. A shorter string vibrates faster, producing a higher pitch. By pressing different combinations of strings at different frets, you create specific combinations of pitches — that combination is a chord.
+ 
+  CHORD DIAGRAMS — HOW TO READ THEM  
+Guitar chords are shown in chord charts:
+- Vertical lines = strings (leftmost = low E, rightmost = high e)
+- Horizontal lines = frets
+- Dots = where to place your fingers
+- Numbers inside dots = which finger (1=index, 2=middle, 3=ring, 4=pinky)
+- X above a string = do not play that string
+- O above a string = play that string open (no finger)
+ 
+  YOUR FIRST GOAL  
+Learn 8 essential open chords: E, A, D, G, C (major) and Em, Am, Dm (minor). With just these 8 chords you can play thousands of songs across every genre.
+
+PAGE 2: How Chords Create Emotion
+----------------------------------------
+Understanding why chords sound the way they do transforms you from someone who memorises shapes into someone who understands music.
+ 
+  THE PHYSICS OF HARMONY  
+When two or more notes are played together, their sound waves interact. Notes whose frequencies have simple mathematical relationships blend smoothly — they sound consonant (pleasant). Notes whose frequencies don't relate cleanly create tension — they sound dissonant (unresolved or tense).
+ 
+Major and minor chords are built from consonant intervals, which is why they sound stable and resolved. Diminished chords use less consonant intervals, which is why they sound tense and unstable.
+ 
+  THE MAJOR THIRD vs MINOR THIRD  
+The defining interval between the root and the third of a chord:
+-  Major 3rd  (4 semitones apart): creates the "happy" sound of major chords
+-  Minor 3rd  (3 semitones apart): creates the "sad" sound of minor chords
+ 
+This single semitone difference — just one fret — is responsible for one of the most profound emotional distinctions in all of music.
+ 
+  CONTEXT MATTERS  
+The same chord can feel different depending on context. Am feels sad after C major. But Am can feel resolved and "home" if the song is in A minor — because now Am is the tonic (home base), not a departure from major.
+ 
+This is why understanding keys matters even for beginners: it tells you which chords are "home" and which create tension or movement.
+

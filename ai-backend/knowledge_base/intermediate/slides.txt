@@ -1,0 +1,62 @@
+LEVEL: Intermediate
+LESSON: Slides
+============================================================
+
+PAGE 1: Slide Up and Slide Down
+----------------------------------------
+Slides connect two notes with a smooth, continuous pitch transition — the guitar equivalent of a vocal glide. They add fluidity and expression to lead playing.
+
+  WHAT IS A SLIDE?  
+Pick a note, then slide your fretting finger along the string to a higher or lower fret without lifting it. The continuous contact with the string keeps it vibrating throughout the movement, producing a smooth pitch transition between the two notes.
+
+  TAB NOTATION  
+ / = slide up      5/7 = pick fret 5, slide up to fret 7
+ \ = slide down    7\5 = pick fret 7, slide down to fret 5
+
+  HOW TO EXECUTE A SLIDE UP  
+1. Pick the first note cleanly (e.g., 5th fret, G string)
+2. While the note is ringing, smoothly move the finger up the string toward the higher fret
+3. Maintain constant, firm pressure throughout — don't let the string stop vibrating
+4. Arrive at the target fret (e.g., 7th fret)
+5. The second note should be clearly audible
+
+  HOW TO EXECUTE A SLIDE DOWN  
+Same process in reverse. Pick the higher fret, slide downward. Slightly more force is needed to keep the string vibrating while sliding against the natural string tension.
+
+  SLIDE WITH PICK VS WITHOUT  
+ "Picked slide":  both the start and end notes are clearly defined — you pick the first note and the slide lands the second.
+ "Legato slide":  only the first note is picked; the slide arrives at the destination silently. Written: 5/7 with parentheses around 7: 5/(7)
+
+  MAKING SLIDES MUSICAL  
+The speed of the slide matters enormously to the musical feel:
+-  Fast slide:  aggressive, punchy (rock, blues)
+-  Slow slide:  expressive, vocal, emotional (ballads, blues)
+-  Very short slides (1-2 frets):  grace note effect — common in blues and country
+
+PAGE 2: Slides Between Chords
+----------------------------------------
+Sliding between chord positions is a technique that adds smoothness and a professional "greasy" feel to rhythm guitar playing — especially in blues, soul, and R&B.
+
+  CHORD SLIDE TECHNIQUE  
+Instead of lifting your fingers and replanting them on the new chord, keep the entire chord shape pressed and slide it to the new position. This works best when the chord shape is the same or very similar between two chords.
+
+  POWER CHORD SLIDES (most common)  
+Power chords are the easiest to slide because the two-finger shape stays consistent. Sliding a power chord up or down 2 frets before landing on the target chord adds immediate blues/rock flavour.
+
+Example:
+  Play G5 at fret 3 → slide up to A5 at fret 5
+  Tab: E|--3/5--|  A|--3/5--|
+
+  BLUES CHORD SLIDES  
+In blues rhythm playing, sliding into dominant 7th chords from 1-2 frets below is a classic technique:
+  Approach E7 by sliding up from fret 1 or 2 first
+  The slide approach "leans into" the chord rhythmically
+
+  PARTIAL CHORD SLIDES  
+You don't always slide the entire chord — sometimes just one or two fingers slide while others lift. This creates a partial voice-leading effect:
+  One finger slides to its target while another moves independently
+  Common in jazz and fingerstyle guitar
+
+  THE EXPRESSIVE VALUE  
+Chord slides remove the "hard attack" of a directly placed chord. The smooth approach makes chord changes feel inevitable rather than abrupt — the difference between speaking and singing. In blues and soul rhythm playing, this smoothness is essential to the authentic feel.
+

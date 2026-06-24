@@ -1,0 +1,77 @@
+LEVEL: Advanced
+LESSON: All 7 Modes of the Major Scale
+============================================================
+
+PAGE 1: The 7 Modes — Complete Reference
+----------------------------------------
+At the advanced level, modes cease to be abstract theory and become practical, expressive tools for improvisation and composition.
+
+  IONIAN (1st mode) = The Major Scale  
+Formula: W W H W W W H
+Character: Bright, happy, resolved
+Use over: Major chords, I chord in major key, pop, country
+Example: C Ionian = C D E F G A B
+
+  DORIAN (2nd mode)  
+Formula: W H W W W H W
+Character: Minor but sophisticated — "cool minor"
+Unique note: Raised 6th compared to natural minor
+Use over: Minor 7th chords, ii chord in major key, jazz, funk-rock
+Example: D Dorian = D E F G A B C
+Famous use: "Oye Como Va" (Santana), most jazz minor ii chords
+
+  PHRYGIAN (3rd mode)  
+Formula: H W W W H W W
+Character: Dark, tense, exotic — Spanish/flamenco character
+Unique note: Flat 2nd (one semitone above root)
+Use over: iii chord in major key, flamenco, metal
+Famous use: Metallica's "Wherever I May Roam," flamenco guitar
+
+  LYDIAN (4th mode)  
+Formula: W W W H W W H
+Character: Dreamy, floating, otherworldly — "the sci-fi scale"
+Unique note: Raised 4th (tritone above root)
+Use over: Major 7th chords, IV chord in major key, film music
+Famous use: John Williams film scores, "Flying in a Blue Dream" (Satriani)
+
+  MIXOLYDIAN (5th mode)  
+Formula: W W H W W H W
+Character: Major but bluesy — "dominant" sound
+Unique note: Flat 7th compared to major scale
+Use over: Dominant 7th chords, V chord, blues-rock, classic rock
+Famous use: Nearly all blues-rock leads, Beatles songs
+
+  AEOLIAN (6th mode) = Natural Minor Scale  
+Formula: W H W W H W W
+Character: Sad, melancholic, serious
+Use over: Minor chords, vi chord in major key, rock, ballads
+
+  LOCRIAN (7th mode)  
+Formula: H W W H W W W
+Character: Unstable, dissonant — the "bad" sound
+Unique note: Flat 2nd AND flat 5th
+Use over: Diminished chords, vii° chord — rarely used in practice
+
+PAGE 2: Hearing the Modal Difference
+----------------------------------------
+Knowing the formulas of modes is theory. Hearing the difference between them in a musical context is the actual skill. Here is how to develop modal hearing.
+
+  THE CHARACTERISTIC NOTE  
+Every mode has one note that most strongly defines its character — the note that is different from the nearest "obvious" scale (major or natural minor). Targeting and emphasising this characteristic note when playing in a mode makes the modal colour clear.
+
+  MODE CHARACTERISTIC NOTES  
+   Dorian:  the raised 6th (F# in A Dorian) — brighter than natural minor
+   Phrygian:  the flat 2nd (F in E Phrygian) — creates the Spanish tension
+   Lydian:  the raised 4th (F# in C Lydian) — the floating, dream quality
+   Mixolydian:  the flat 7th (F in G Mixolydian) — the bluesy dominant quality
+   Locrian:  the flat 5th (Bb in B Locrian) — the extreme instability
+
+  LISTENING EXERCISE  
+Find a single-chord backing track (e.g., an Am7 vamp). Play A natural minor (Aeolian) over it. Listen for the sound. Now raise the F to F# (A Dorian). Listen to how the character changes — same tonal centre, dramatically different flavour. This direct comparison is the fastest way to train modal hearing.
+
+  MODAL CONTEXT MATTERS  
+The same scale sounds different depending on the harmonic context. A Dorian sounds like "Dorian" only when A is clearly established as the tonal centre. Over a C major chord progression, those same notes would sound like C major (Ionian). The chord progression creates the mode, not just the scale.
+
+  TRANSCRIBING MODAL MUSIC  
+Find songs known to use specific modes (Santana for Dorian, Satriani for Lydian) and transcribe the leads. Identify the characteristic note. Notice when the guitarist emphasises it. This direct connection between sound and theory builds modal hearing faster than any theoretical exercise.
+

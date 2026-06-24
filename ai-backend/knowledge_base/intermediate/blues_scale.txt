@@ -1,0 +1,62 @@
+LEVEL: Intermediate
+LESSON: Blues Scale
+============================================================
+
+PAGE 1: The Blue Note
+----------------------------------------
+The blues scale is the minor pentatonic scale with one extra note added — a single addition that defines the entire sound of blues, rock, and soul music.
+
+  THE BLUE NOTE  
+The blues scale adds the b5 (flat fifth — the "blue note") to the minor pentatonic scale. In A minor pentatonic (A-C-D-E-G), the blues scale adds Eb/D# between D and E.
+
+A BLUES SCALE: A - C - D - Eb - E - G
+
+That one extra note — Eb — creates the characteristic tension and "bent" quality of blues. It is a note that feels unstable and desperate, which is why blues music feels so emotionally raw.
+
+  THE BLUES SCALE BOX (A, starting 5th fret)  
+  e |--5--8--|
+  B |--5--8--|
+  G |--5--6--7--|  ← Eb at 6th fret = the blue note
+  D |--5--6--7--|  ← Eb at 6th fret = the blue note
+  A |--5--7--|
+  E |--5--8--|
+
+Compare this to the minor pentatonic box — you've only added two notes (one per octave) but the character changes dramatically.
+
+  USING THE BLUE NOTE  
+The blue note is a passing note — not a landing point. Use it to:
+- Pass quickly through it to E or D on either side
+- Bend into it from D (a half-step bend)
+- Bend through it on the way to E (a full-step bend from D)
+
+Landing on the blue note and sustaining it creates unresolved, uncomfortable tension. Moving through it expressively creates authentic blues feeling.
+
+PAGE 2: The BB King Box
+----------------------------------------
+Blues legend BB King famously used a small cluster of notes at the top of the pentatonic box as his primary improvisational zone — producing some of the most expressive lead guitar sounds in music history.
+
+  WHAT IS THE BB KING BOX?  
+It is not a full scale position — it's a small, focused area on the high e and B strings around frets 7-10 in the A minor pentatonic box. BB King rarely moved far from this area, yet produced solos of extraordinary emotional depth.
+
+  THE NOTES (in A minor pentatonic, 5th position)  
+  e |--8--10--|
+  B |--7--10--|
+These 4 notes — combined with bends, vibrato, and slides — were the foundation of BB King's entire improvisational vocabulary for 60 years.
+
+  WHY SUCH A SMALL AREA?  
+BB King believed in expression over quantity of notes. Within this small zone:
+- Every note is a chord tone or a blue note
+- Bends are easy and controllable at this part of the neck
+- Vibrato can be applied to every sustained note
+- The high register projects powerfully over a blues band
+
+  THE BB KING APPROACH TO IMPROVISATION  
+1. Play a simple 2-3 note phrase
+2. Let it ring — don't rush to the next phrase
+3. Bend the last note slightly and add vibrato
+4. Leave silence (the "answer space")
+5. Respond with another simple phrase
+
+  APPLYING IT  
+Take an Am backing track. Stay only on the B and high e strings in the 7-10 fret area. Use only bends, vibrato, and deliberate note choices. Force yourself to use fewer notes than you think you need. This restriction produces more musical results than running through the full box.
+

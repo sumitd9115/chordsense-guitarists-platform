@@ -1,0 +1,56 @@
+LEVEL: Advanced
+LESSON: 3 Notes Per String Scales
+============================================================
+
+PAGE 1: The 3NPS System
+----------------------------------------
+The 3-notes-per-string (3NPS) system is the preferred scale system of professional lead guitarists. It enables faster playing, consistent picking patterns, and seamless across-neck movement.
+
+  WHY 3 NOTES PER STRING?  
+Pentatonic box patterns have 2 notes per string. While excellent for beginners and intermediate players, 2NPS patterns limit speed because each string crossing requires a picking direction change very frequently. 3NPS patterns give your picking hand more time on each string before crossing — allowing higher speeds with less effort.
+
+  THE PATTERN  
+Every string has exactly 3 notes from the scale. This creates a consistent, repeatable picking pattern (down-up-down across every string) that your picking hand can fully automate.
+
+  G MAJOR SCALE — 3NPS POSITION 1 (root at 6th string, 3rd fret)  
+  e |--2--3--5--|
+  B |--2--3--5--|
+  G |--2--4--5--|
+  D |--2--3--5--|
+  A |--2--3--5--|
+  E |--3--5--7--|
+
+  THE PICKING PATTERN PER STRING  
+With 3 notes per string, each string gets: D-U-D (down-up-down). Moving to the next string continues D-U-D. This is called "outside picking" at the string crossing and creates a very efficient picking arc.
+
+  WHY IT'S FASTER  
+With 2NPS, crossing to a new string requires an immediate direction change: D-U | U-D (awkward). With 3NPS, crossing continues in the same direction: D-U-D | D-U-D (fluid). This continuity is why 3NPS enables dramatically higher speeds.
+
+  FAMOUS PLAYERS WHO USE 3NPS  
+John Petrucci (Dream Theater), Paul Gilbert, Steve Morse, and virtually all modern shred and progressive rock guitarists use 3NPS as their primary scale system.
+
+PAGE 2: Connecting 3NPS Positions
+----------------------------------------
+3NPS patterns become truly powerful when you connect all 7 positions into continuous across-neck runs — one of the most impressive techniques in advanced guitar playing.
+
+  THE 7 POSITIONS  
+G major scale has 7 positions using the 3NPS system (one starting from each scale degree). Each position spans exactly 2 frets in width, and positions connect more seamlessly than pentatonic boxes.
+
+  CONNECTING POSITIONS 1 AND 2 (G major)  
+Position 1 ends at fret 7 on the high e string.
+Position 2 begins at fret 5 on the low E string.
+
+The run across the entire neck (ascending G major):
+  Start at fret 3 on low E (Position 1) → play through all strings → arrive at fret 19 on high e (Position 7)
+
+This "burning across the neck" — a single continuous scale run from the lowest note to the highest — is the hallmark of professional lead guitar playing.
+
+  POSITION SHIFTING TECHNIQUE  
+When moving between positions, a guide finger maintains light contact with the string during the shift, guiding the hand to the new position without losing the string. This prevents the "jump" that disrupts the melodic line.
+
+  LEARNING ORDER  
+Position 1 (root position) → Position 2 → connect them in both directions → add Position 3 → connect all three → continue outward. Never learn all 7 simultaneously — build outward from Position 1.
+
+  PRACTICE WITH A METRONOME  
+Start at 60 BPM with 8th notes. Play Position 1 up and down cleanly. Then Position 2. Then connect both in one continuous run. Add 5 BPM only when the run is clean. Speed built this way is reliable — speed forced by skipping steps breaks down under performance pressure.
+

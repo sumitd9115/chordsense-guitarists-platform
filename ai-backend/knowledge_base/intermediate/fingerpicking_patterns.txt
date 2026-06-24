@@ -1,0 +1,66 @@
+LEVEL: Intermediate
+LESSON: Fingerpicking Patterns
+============================================================
+
+PAGE 1: PIMA Technique and Travis Picking
+----------------------------------------
+Fingerpicking uses your thumb and fingers to pluck individual strings rather than strumming with a pick — opening a completely different expressive world on guitar.
+
+  THE PIMA SYSTEM  
+Classical and fingerstyle guitarists use letters from Spanish finger names:
+   p  = pulgar (thumb) → plays strings 4, 5, 6 (bass strings)
+   i  = índice (index finger) → plays string 3
+   m  = medio (middle finger) → plays string 2
+   a  = anular (ring finger) → plays string 1
+
+Thumb handles bass; fingers handle treble. This division lets you play bass and melody simultaneously.
+
+  TRAVIS PICKING  
+Alternates the thumb between two bass strings while fingers play a consistent pattern on higher strings. Made famous by Merle Travis — used extensively in folk, country, and acoustic pop.
+
+On a C major chord:
+  Thumb alternates: string 5 (A) and string 4 (D)
+  Fingers i, m, a play strings 3, 2, 1 in between thumb strokes
+  Pattern: p-i-p-m-a-m (or variations)
+
+  SIMPLE ARPEGGIO (starting point)  
+p-i-m-a = one finger per string, lowest to highest:
+  Beat 1: Thumb → root bass string
+  Beat 2: Index → string 3
+  Beat 3: Middle → string 2
+  Beat 4: Ring → string 1
+
+This simple pattern already sounds beautiful on Am, C, G, and Em.
+
+  FINGERNAILS vs FLESH  
+ Longer nails:  brighter, louder tone (classical guitar style)
+ Flesh of fingertips:  warmer, softer tone (folk, acoustic pop)
+Find your preference through experimentation.
+
+PAGE 2: Alternating Bass Patterns
+----------------------------------------
+Alternating bass fingerpicking is one of the most musically rich techniques on acoustic guitar — the thumb walks bass lines while the fingers play chord tones and melodies simultaneously.
+
+  THE ALTERNATING BASS CONCEPT  
+Your thumb alternates between two bass strings on every beat — providing a bass line — while your fingers pluck the higher strings on the off-beats, providing the chordal and melodic content. The result sounds like two instruments: a bass player and a guitarist playing simultaneously.
+
+  CHORD-SPECIFIC BASS STRING PAIRS  
+For each chord, the thumb alternates between the root string and a secondary bass string:
+   C major:  alternates between 5th string (A=root) and 4th string (D)
+   G major:  alternates between 6th string (E=root) and 4th string (D)
+   D major:  alternates between 4th string (D=root) and 5th string (A)
+   Am:  alternates between 5th string (A=root) and 4th string (D)
+
+  A COMPLETE ALTERNATING BASS PATTERN (C major)  
+  Beat 1: Thumb → 5th string (C root note)
+  Beat 1+: Index → 3rd string
+  Beat 2: Thumb → 4th string (D, second bass note)
+  Beat 2+: Middle → 2nd string
+  Beat 3: Thumb → 5th string (C root again)
+  Beat 3+: Index → 3rd string
+  Beat 4: Thumb → 4th string
+  Beat 4+: Ring → 1st string
+
+  START SLOWLY  
+Practice the thumb alternation alone first (no fingers) until it's automatic. Then add the finger pattern on top. The thumb must be independent of the fingers — it should not stop or hesitate when the fingers move. This thumb independence is the core skill of all fingerstyle guitar.
+

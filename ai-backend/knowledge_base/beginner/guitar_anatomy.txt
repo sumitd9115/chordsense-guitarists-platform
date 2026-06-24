@@ -1,0 +1,98 @@
+LEVEL: Beginner
+LESSON: Guitar Anatomy
+============================================================
+
+PAGE 1: Parts of Guitar
+----------------------------------------
+Every guitar — acoustic or electric — is built around three main sections: the Headstock, the Neck, and the Body. Understanding each part helps you communicate with other musicians, care for your instrument, and understand how sound is made.
+ 
+  HEADSTOCK  
+The headstock sits at the very top of the guitar. It holds the tuning pegs (also called machine heads), which you turn to tighten or loosen each string. Tightening raises the pitch; loosening lowers it. The nut — a small notched piece of plastic or bone — sits at the base of the headstock where it meets the neck. The nut spaces the strings evenly and keeps them at the right height.
+ 
+  NECK  
+The neck is the long, thin piece of wood connecting the headstock to the body. It is where your fretting hand works. On the face of the neck is the fretboard (also called the fingerboard) — a flat surface usually made of rosewood, maple, or ebony. Embedded into the fretboard are metal strips called frets. Pressing a string behind a fret shortens its vibrating length, raising its pitch. Most guitars have 20 to 22 frets. Inside the neck runs a metal rod called the truss rod, which keeps the neck straight against string tension.
+ 
+   BODY  
+The body is the large section you rest against your body. On an acoustic guitar, the body contains the sound hole — a circular opening that projects the vibrating sound outward. The bridge is glued to the top of the body and anchors the strings. The saddle (a small strip inside the bridge) is the last contact point for the strings before they travel up the neck. On electric guitars, the body holds the pickups (which convert string vibration to electrical signal), the volume and tone knobs, the pickup selector switch, and the output jack where you plug in your cable.
+ 
+  KEY PARTS SUMMARY  
+- Tuning Pegs → tune each string up or down
+- Nut → spaces strings, defines the start of the fretboard
+- Neck → where your fretting hand lives
+- Fretboard → the playing surface on the neck
+- Frets → metal strips that define each note
+- Truss Rod → keeps the neck straight (inside the neck)
+- Body → resonates sound and holds all hardware
+- Sound Hole → projects acoustic sound (acoustic only)
+- Bridge → anchors the strings to the body
+- Pickups → capture string vibration (electric only)
+
+PAGE 2: String Names (EADGBE)
+----------------------------------------
+A standard guitar has 6 strings. Each string has a name, a number, a note, and a specific thickness (gauge). Knowing this is the very first thing every guitarist must memorize.
+ 
+  STRING NAMES AND NUMBERS  
+Strings are numbered 1 through 6. Here is the key fact that confuses most beginners: String 1 is the thinnest string (at the bottom when you hold the guitar), and String 6 is the thickest string (at the top). The numbering goes from thinnest to thickest.
+ 
+  THE NOTES — EADGBE  
+From the thickest string (6th) to the thinnest (1st), the open string notes are:
+ 
+  6th string → E (lowest pitch, thickest)
+  5th string → A
+  4th string → D
+  3rd string → G
+  2nd string → B
+  1st string → E (highest pitch, thinnest)
+ 
+This is called Standard Tuning. Almost all beginner lessons, songs, and tutorials are written in standard tuning.
+ 
+  HOW TO REMEMBER THEM  
+A classic memory trick: "Eddie Ate Dynamite, Good Bye Eddie"
+E - A - D - G - B - E  (read from the 6th string down to the 1st)
+ 
+  WHY THIS SPECIFIC TUNING?  
+Standard tuning uses mostly Perfect 4th intervals between strings (E→A→D→G), with one Major 3rd between G and B. This single exception makes common chord shapes physically comfortable to play. Without it, basic chords like C and G would require an awkward finger stretch.
+ 
+  EXACT FREQUENCIES  
+  6th (E2) → 82.41 Hz
+  5th (A2) → 110 Hz
+  4th (D3) → 146.83 Hz
+  3rd (G3) → 196 Hz
+  2nd (B3) → 246.94 Hz
+  1st (E4) → 329.63 Hz
+ 
+  STRING GAUGES  
+Strings also vary by thickness, measured in thousandths of an inch. Light gauge strings (like .009 or .010 sets) are easier to press and bend — perfect for beginners. Heavier gauges produce a fuller, louder tone but need more finger strength. Most beginner guitars come with a .010 or .011 set.
+ 
+  WHEN TO CHANGE STRINGS  
+Change your strings when they look dull/dark, feel rough or sticky, or when your guitar won't stay in tune. Fresh strings make a guitar significantly easier and more enjoyable to play.
+
+PAGE 3: Types of Guitar
+----------------------------------------
+Guitars come in several types, each designed for different sounds and playing styles. Choosing the right type as a beginner directly affects how fast you progress.
+ 
+  ACOUSTIC GUITAR  
+Acoustic guitars produce sound entirely through the vibration of the strings and the resonance of the hollow wooden body — no electricity needed. They come in two main varieties:
+ 
+  Steel-String Acoustic: The most common type. Bright, loud, and versatile. Used in pop, rock, country, folk, and blues. Steel strings are harder on beginner fingers initially, but calluses build within a few weeks.
+ 
+  Classical / Nylon-String: Uses nylon strings instead of steel. Softer on fingers, wider neck, and a warm, mellow tone. Standard for classical music and flamenco. The wider neck can be harder for small hands.
+ 
+Best for beginners who: want to play without any extra equipment, or love acoustic sounds in singer-songwriter, folk, or country styles.
+ 
+  ELECTRIC GUITAR  
+Electric guitars use magnetic pickups to convert string vibration into an electrical signal, which is sent to an amplifier. The body is usually solid wood (solid body), producing very little sound without amplification. They have thinner strings and lower action (string height), making them physically easier to press down than acoustics.
+ 
+Iconic styles include the Fender Stratocaster, Fender Telecaster, and Gibson Les Paul.
+ 
+Best for beginners who: want to play rock, metal, blues, or jazz, and don't mind investing in an amplifier too.
+ 
+  SEMI-HOLLOW / HOLLOW BODY ELECTRIC  
+These have a partially or fully hollow body combined with electric pickups. They produce a warm, resonant tone with some natural acoustic projection. Popular in jazz, blues, and rockabilly.
+ 
+  BASS GUITAR  
+The bass guitar has 4 strings (usually E, A, D, G — an octave lower than a standard guitar) and provides the low-end foundation in a band. It's played differently from a regular guitar and is its own instrument.
+ 
+  WHICH SHOULD YOU START WITH?  
+If you're unsure: start with a steel-string acoustic. It builds finger strength faster, requires no extra gear, and teaches you the fundamentals that transfer to any other guitar type. If you already know you want to play a specific style (rock, metal), go electric from the start.
+

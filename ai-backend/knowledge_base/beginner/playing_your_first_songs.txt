@@ -1,0 +1,62 @@
+LEVEL: Beginner
+LESSON: Playing Your First Songs
+============================================================
+
+PAGE 1: How To Follow A Chord Chart?
+----------------------------------------
+A chord chart is the simplest way a song's harmony is written down. Learning to read one quickly is a practical skill you'll use constantly.
+ 
+  WHAT A CHORD CHART LOOKS LIKE  
+- Song title and key at the top
+- Chord symbols written above the lyrics at the exact syllable where the chord changes
+- Sometimes shown as: | G | C | D | Em |
+ 
+  READING CHORD SYMBOLS  
+ Capital letter alone  = major chord (G = G major)
+ Capital letter + m  = minor chord (Am = A minor)
+ Capital letter + 7  = dominant 7th (G7)
+ Capital letter + maj7  = major 7th (Cmaj7)
+ Capital letter + / + note  = slash chord (G/B = G chord with B as lowest note)
+ 
+  COUNTING BARS  
+Each | | section usually represents one bar of 4 beats. If a chord has no replacement for 2 bars, hold it for 8 beats. Follow the lyrics to know where you are in the song.
+ 
+  PRACTICAL APPROACH  
+1. Read through the entire chart before playing
+2. Identify any unfamiliar chords — look them up first
+3. Listen to the song once while following the chart with your eyes
+4. Play slowly, focusing on hitting the chord change on the right syllable
+5. Speed up gradually once all changes are in the right place
+ 
+  THE MOST IMPORTANT SKILL: TIMING THE CHANGE  
+A chord change even slightly late sounds worse than an imperfect chord shape. Train yourself to anticipate the change — start moving your fingers just before the change is due. This anticipation is what makes transitions sound smooth and musical.
+
+PAGE 2: Simple 3-Chord Songs
+----------------------------------------
+The vast majority of popular songs are built on 3 or 4 chords. Understanding this structure lets you learn new songs much faster and start making real music immediately.
+ 
+  THE I-IV-V PROGRESSION  
+The most fundamental chord progression in Western music.
+  Key of G: I = G, IV = C, V = D
+  Key of A: I = A, IV = D, V = E
+  Key of C: I = C, IV = F, V = G
+ 
+The V chord creates the strongest pull back to I — it's the tension-resolution engine of almost all folk, blues, country, and rock.
+ 
+  GOOD FIRST SONGS  
+- "Knockin' on Heaven's Door" — G, D, Am and C (slow, clear changes)
+- "Horse With No Name" — Em and D only (two chords)
+- "Leaving on a Jet Plane" — G, C, D (slow and clear)
+- "Bad Moon Rising" — D, A, G (punchy rhythm)
+- "Brown Eyed Girl" — G, C, D, Em (iconic, great for practice)
+ 
+  THE IMPERFECT RUN-THROUGH RULE  
+Play from start to finish without stopping, even when you make mistakes. Stopping every time trains your muscle memory to stop — the opposite of performance muscle memory. Keep going. Let the mistakes happen. Identify what needs work, then fix it in isolation.
+ 
+  VERSE-CHORUS STRUCTURE  
+Most popular songs alternate between:
+-  Verse:  tells the story, slightly lower energy
+-  Chorus:  the emotional peak, most memorable part
+ 
+Often the same chords appear in both sections with different ordering or energy. Once you know the key, you know the likely chord pool.
+

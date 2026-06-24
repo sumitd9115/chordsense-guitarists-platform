@@ -1,0 +1,31 @@
+LEVEL: Intermediate
+LESSON: Pentatonic Scale — Major
+============================================================
+
+PAGE 1: Major Pentatonic Scale
+----------------------------------------
+The major pentatonic scale is the "happy" counterpart to the minor pentatonic. It produces a bright, country, and melodic quality — same 5-note structure, completely different emotional character.
+
+  THE NOTES  
+A major pentatonic: A - B - C# - E - F#
+A minor pentatonic: A - C - D - E - G
+Different notes, but the same physical pattern — just starting from a different root.
+
+  THE RELATIVE RELATIONSHIP  
+A major pentatonic uses the same notes as F# minor pentatonic. They are relative scales — the same 5 notes with a different tonal centre. This means you already know the major pentatonic shape — it's the same box you learned for minor pentatonic, just shifted 3 frets down or interpreted starting from a different root note within the box.
+
+  G MAJOR PENTATONIC BOX (starting 2nd fret, root on 6th string)  
+  e |--2--5--|
+  B |--3--5--|
+  G |--2--4--|
+  D |--2--5--|
+  A |--2--5--|
+  E |--2--5--|
+
+  HOW IT SOUNDS vs MINOR PENTATONIC  
+ Minor pentatonic:  bluesy, melancholic, rock/blues feel
+ Major pentatonic:  bright, cheerful, country/folk/pop feel
+
+  WHEN TO USE MAJOR PENTATONIC  
+Play major pentatonic over major chord progressions where the harmony is bright and resolved. If the song has a bluesy feel, use minor pentatonic. Many guitarists blend both within the same solo — major pentatonic for bright resolved phrases, minor pentatonic for the darker tense ones. This blending is the signature of most great rock and blues soloists.
+

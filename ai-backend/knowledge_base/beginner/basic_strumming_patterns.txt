@@ -1,0 +1,64 @@
+LEVEL: Beginner
+LESSON: Basic Strumming Patterns
+============================================================
+
+PAGE 1: Down Strums and Down-Up
+----------------------------------------
+These are the first two strumming techniques every guitarist learns. Master these before attempting more complex patterns.
+ 
+  HOW TO READ STRUMMING PATTERNS  
+ D  = Down strum (strum from low E string toward high e string)
+ U  = Up strum (strum from high e string toward low E string)
+ -  = Rest (silence — hand moves but doesn't touch strings)
+ 
+  PATTERN 1 — ALL DOWNSTROKES (starting point)  
+Count:  1    2    3    4
+Strum:  D    D    D    D
+The simplest possible strumming pattern. Focus entirely on keeping the tempo even and the tone consistent. Use a metronome.
+ 
+  PATTERN 2 — DOWN-UP (eighth notes)  
+Count:  1  +  2  +  3  +  4  +
+Strum:  D  U  D  U  D  U  D  U
+This doubles the activity. Keep your strumming hand moving in a constant pendulum motion — down on numbers, up on "ands." Even on the "U" counts where you might miss the strings intentionally (air strum), the hand keeps moving.
+ 
+  THE PENDULUM PRINCIPLE  
+Your strumming arm should never stop moving — it swings continuously down-up-down-up at the subdivision rate. You choose when to make contact with the strings and when to let the pick pass through air. This is what makes rhythmic consistency possible. Stopping and restarting the arm produces stiffness and inconsistency.
+ 
+  TONE CONSISTENCY  
+Strum through all the strings your chord uses with even pressure. Don't strum harder on some beats and softer on others (unless intentional). Consistent tone comes from consistent pick depth and arm speed.
+
+PAGE 2: D DU UDU Pattern
+----------------------------------------
+This pattern — or close variations of it — is used in more popular songs than any other single strumming pattern. Learn it and you instantly unlock a huge song library.
+ 
+  THE PATTERN  
+Count:  1    2   +  3  +  4  +
+Strum:  D    D   U  -  U  D  U
+ 
+Written as: D - D U - U D U
+(the dash represents a missed/air strum where your hand moves DOWN but skips the strings)
+ 
+  BREAKING IT DOWN  
+Beat 1: DOWN
+Beat 2: DOWN
+Beat 2 "and": UP
+Beat 3: MISS (hand moves DOWN but doesn't touch strings)
+Beat 3 "and": UP
+Beat 4: DOWN
+Beat 4 "and": UP
+ 
+  THE KEY TO MAKING IT WORK  
+The "miss" on beat 3 is what makes this pattern feel musical rather than mechanical. Your hand still moves DOWN on beat 3 — it just doesn't contact the strings. If you actually stop your arm, the pattern breaks down. The pendulum keeps going; only the contact is interrupted.
+ 
+  PRACTICE APPROACH  
+Step 1: Air strum the pattern (no guitar) while counting aloud until the arm motion feels natural
+Step 2: Apply to one chord (G major works well) and strum slowly — listen for the pattern
+Step 3: Speed up gradually with a metronome
+Step 4: Add chord changes
+ 
+  VARIATIONS  
+Once this pattern is comfortable, experiment with:
+  D - D U U - D U  (slightly different feel)
+  D U D U - U D U  (busier, more syncopated)
+Most strumming patterns are variations of the same down-up motion with different notes "missed."
+

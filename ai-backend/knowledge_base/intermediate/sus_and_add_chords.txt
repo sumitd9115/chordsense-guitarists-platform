@@ -1,0 +1,93 @@
+LEVEL: Intermediate
+LESSON: Sus and Add Chords
+============================================================
+
+PAGE 1: Sus Chords
+----------------------------------------
+Suspended (sus) chords replace the 3rd of a chord with either the 2nd or 4th scale degree. This creates a floating, unresolved sound that is extremely common in pop, rock, and folk.
+
+  SUS2 CHORD  
+The 3rd is replaced by the 2nd scale degree.
+Formula: 1 - 2 - 5
+Sound: Open, airy, ambiguous — neither major nor minor.
+
+ Dsus2: 
+  e |--0--|
+  B |--3--|
+  G |--2--|
+  D |--0--|
+  A |--x--|
+  E |--x--|
+
+ Asus2: 
+  e |--0--|
+  B |--0--|
+  G |--2--|
+  D |--2--|
+  A |--0--|
+  E |--x--|
+
+  SUS4 CHORD  
+The 3rd is replaced by the 4th scale degree.
+Formula: 1 - 4 - 5
+Sound: Tense, suspended — strongly wants to resolve down to the major chord.
+
+ Dsus4: 
+  e |--3--|
+  B |--3--|
+  G |--2--|
+  D |--0--|
+  A |--x--|
+  E |--x--|
+
+ Asus4: 
+  e |--0--|
+  B |--3--|
+  G |--2--|
+  D |--2--|
+  A |--0--|
+  E |--x--|
+
+  THE CLASSIC MOVE: Sus4 → Major  
+Playing Asus4 then immediately releasing to A major (or Dsus4 → D) is one of the most satisfying movements in all of rock. The tension of the sus4 resolving to major is immediately recognisable.
+
+Famous uses: "Pinball Wizard" by The Who (Asus4-A opening), countless acoustic intros in pop and rock.
+
+PAGE 2: Add Chords
+----------------------------------------
+Add chords include an extra note on top of a basic triad without the 7th. They add colour without the full tension of a 7th chord.
+
+  ADD9 CHORD  
+Adds the 9th (same pitch as the 2nd, but an octave higher) to a major chord.
+Formula: 1 - 3 - 5 - 9
+Sound: Lush, full, colourful — like a major chord with extra shimmer.
+
+ Cadd9 (one of the most used chords in rock): 
+  e |--0--|
+  B |--3--|  ← ring finger
+  G |--0--|
+  D |--2--|  ← middle finger
+  A |--3--|  ← ring finger
+  E |--x--|
+
+ Gadd9: 
+  e |--3--|  ← pinky
+  B |--3--|  ← ring finger
+  G |--0--|
+  D |--0--|
+  A |--2--|  ← middle finger
+  E |--3--|  ← index finger
+
+Cadd9 is everywhere in modern rock and pop — richer than plain C major while equally easy to play.
+
+  ADD2 vs ADD9  
+Technically, add2 and add9 describe different octave placements of the same note, but guitarists use the terms interchangeably. Both add the 2/9 note without the 7th.
+
+  WHEN TO USE ADD CHORDS  
+Substitute a plain major chord with its add9 version whenever you want more harmonic colour without the tension of a 7th chord. G - Cadd9 - D became the defining sound of 1990s–2000s acoustic rock precisely because of this.
+
+  HOW TENSION WORKS IN SUS AND ADD  
+ Sus chords:  create tension by removing the 3rd (ambiguity — not clearly major or minor)
+ Sus4 specifically:  the 4th scale degree "leans" downward to the 3rd — strong pull to resolve
+ Add chords:  add colour without tension — they're stable and pleasant, just richer
+

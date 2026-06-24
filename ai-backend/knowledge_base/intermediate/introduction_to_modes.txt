@@ -1,0 +1,59 @@
+LEVEL: Intermediate
+LESSON: Introduction to Modes
+============================================================
+
+PAGE 1: What Are Modes
+----------------------------------------
+Modes are one of the most misunderstood topics in guitar theory. Here is a clear, practical explanation from the ground up.
+
+  WHAT ARE MODES?  
+The major scale has 7 notes. If you play those same 7 notes but start from a different note (not the root), you get a different mode. Each mode has its own characteristic sound and emotional quality.
+
+  THE 7 MODES OF THE C MAJOR SCALE  
+Start from each note of C major and play to the octave:
+   C to C = Ionian  (this IS the major scale — happy, resolved)
+   D to D = Dorian  (minor sound with a raised 6th — cool, jazzy)
+   E to E = Phrygian  (dark, exotic, Spanish-sounding)
+   F to F = Lydian  (dreamy, floating — major with a raised 4th)
+   G to G = Mixolydian  (dominant, bluesy — used in rock constantly)
+   A to A = Aeolian  (natural minor scale — melancholic, dark)
+   B to B = Locrian  (very dark, unstable — rarely used)
+
+  THE MOST IMPORTANT PRACTICAL INSIGHT  
+Don't think of modes as separate shapes to memorise independently. Think of them as the major scale played from different starting points, each emphasising different intervals and creating different emotional colour. The notes are the same — the tonal centre (what feels like "home") is different.
+
+  THE COMMON MISTAKE  
+Playing D Dorian over a C major chord progression does NOT produce Dorian sound. The chord progression must establish D as the tonal centre. Modal playing requires both the scale AND the appropriate chord context.
+
+PAGE 2: Dorian and Mixolydian
+----------------------------------------
+These two modes are the most immediately useful for rock guitarists and the best starting points for modal playing.
+
+  DORIAN MODE (2nd mode of the major scale)  
+Formula: W H W W W H W
+Compared to natural minor (Aeolian): Dorian has a raised 6th degree.
+  A natural minor: A B C D E F G
+  A Dorian:        A B C D E F# G (F# instead of F)
+
+The raised 6th gives Dorian a "brighter" minor quality — it's minor but with a cool, sophisticated edge rather than pure sadness.
+
+ Sound:  Minor but sophisticated, jazzy, slightly funky
+ Use over:  Minor 7th chords (Am7, Dm7), minor chord vamps, funk-rock, Latin-rock
+ Famous uses:  "So What" (Miles Davis), "Oye Como Va" (Santana), "Smoke on the Water" main riff
+
+Play A Dorian: Use the same shape as A natural minor but raise every F to F#.
+
+  MIXOLYDIAN MODE (5th mode of the major scale)  
+Formula: W W H W W H W
+Compared to major (Ionian): Mixolydian has a flat 7th degree.
+  G major:      G A B C D E F#
+  G Mixolydian: G A B C D E F (F natural instead of F#)
+
+The flat 7th gives Mixolydian a "dominant" quality — it feels like a major scale but with a bluesy edge.
+
+ Sound:  Major but bluesy, slightly unresolved, rock-friendly
+ Use over:  Dominant 7th chords (G7, A7, D7), blues-rock, classic rock
+ Famous uses:  Almost all blues-rock leads, The Beatles' "Norwegian Wood," nearly every classic rock solo
+
+Play G Mixolydian: Use the G major scale but play F natural instead of F#.
+

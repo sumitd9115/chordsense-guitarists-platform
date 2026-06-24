@@ -1,0 +1,86 @@
+LEVEL: Beginner
+LESSON: Open Chords — Minor
+============================================================
+
+PAGE 1: E Minor (Em)
+----------------------------------------
+E minor is the easiest chord on the entire guitar — just two fingers — and one of the most emotionally powerful. It is the starting point for understanding minor chords.
+ 
+  THE SHAPE  
+  e |--0--|
+  B |--0--|
+  G |--0--|
+  D |--2--|  ← middle finger (or index)
+  A |--2--|  ← index finger (or middle)
+  E |--0--|
+ 
+Strum all 6 strings. Every string rings open except the A and D strings.
+ 
+  TWO FINGERING OPTIONS  
+ Option 1:  Index on A string (5th), middle on D string (4th) — most common
+ Option 2:  Middle on A string, ring on D string — leaves index free, which makes transitioning to other chords easier in some progressions
+ 
+  THE SOUND  
+Em has a deep, melancholic, slightly dramatic quality. It's the "emotional" chord that appears in countless ballads, rock songs, and classical pieces. The fact that it uses all 6 open strings gives it a full, resonant sound that smaller chord shapes can't match.
+ 
+  RELATIONSHIP TO E MAJOR  
+Place your E major chord. Now lift the middle finger off the G string (fret 1). What remains is E minor. The only difference is that one fret — and it completely transforms the emotional character. This major-to-minor relationship is fundamental to understanding chord construction.
+ 
+  COMMON USES  
+Em is the vi chord in G major — making it a natural partner for G, C, and D. It appears in the classic I-V-vi-IV progression (G-D-Em-C) that drives hundreds of pop songs.
+
+PAGE 2: A Minor (Am)
+----------------------------------------
+A minor is one of the most-used chords in all of popular music. It has a warm yet melancholic quality and serves as the home chord (tonic) for songs in A minor.
+ 
+  THE SHAPE  
+  e |--0--|
+  B |--1--|  ← index finger
+  G |--2--|  ← middle finger
+  D |--2--|  ← ring finger
+  A |--0--|
+  E |--x--|  (avoid the low E string)
+ 
+Strum strings 5 through 1 only (avoid the 6th string).
+ 
+  AVOIDING THE LOW E  
+The low E string is not part of Am — it's an E note, and although it won't sound terrible, it muddies the bass. Practice angling your strumming motion to start from the A string (5th) rather than the low E.
+ 
+  THE AM - C CONNECTION  
+Am and C major share two notes (C and E). Moving between them uses very little finger movement — your middle finger stays at the same place (D string, 2nd fret) for both chords. This pivot finger makes Am-C one of the smoothest transitions in beginner guitar.
+ 
+  RELATIVE MAJOR  
+Am is the relative minor of C major — they share the same 7 notes. This is why Am, C, G, and F sound so naturally together in songs: they all live in the same musical "family."
+ 
+  SONGS BUILT ON AM  
+"Stairway to Heaven" opening, "Hotel California" verse, "Losing My Religion" — all use Am prominently. Once you have Am, C, G, and F, you can play a huge library of songs.
+
+PAGE 3: D Minor (Dm)
+----------------------------------------
+D minor is often described as the "saddest chord" — it has a particularly dark, mournful quality that makes it emotionally distinctive even among minor chords.
+ 
+  THE SHAPE  
+  e |--1--|  ← index finger
+  B |--3--|  ← ring finger
+  G |--2--|  ← middle finger
+  D |--0--|
+  A |--x--|  (don't play)
+  E |--x--|  (don't play)
+ 
+Play only strings 4 through 1 (same 4 strings as D major).
+ 
+  COMPARING DM TO D MAJOR  
+D major:   e=2, B=3, G=2, D=0
+D minor:   e=1, B=3, G=2, D=0
+ 
+The only difference: the high e string drops from fret 2 to fret 1 (one half step lower). That single note — the third of the chord lowering from F# to F — shifts the chord from major to minor and completely changes its emotional character.
+ 
+  THE FINGER STRETCH  
+Dm requires your fingers to spread across three different fret positions on adjacent strings. This stretch is challenging for beginners initially. Keep your thumb behind the neck and let your fingers arch over from above — this gives them the reach they need.
+ 
+  COMMON PROGRESSIONS WITH DM  
+Dm is the ii chord in C major and the iv chord in A minor. Common progressions:
+  Am - Dm - E (A minor classical progression)
+  C - Am - Dm - G (pop/rock in C major)
+  F - C - Dm - Bb (very common in pop)
+

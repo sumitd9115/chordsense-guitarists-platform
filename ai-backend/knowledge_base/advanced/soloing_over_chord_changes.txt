@@ -1,0 +1,55 @@
+LEVEL: Advanced
+LESSON: Soloing Over Chord Changes
+============================================================
+
+PAGE 1: Chord Tone Targeting and Guide Tones
+----------------------------------------
+The most important skill in lead guitar is making your solos follow and respond to the underlying chord changes — not just running scale patterns without listening.
+
+  THE COMMON MISTAKE  
+Most intermediate improvisers pick one scale (usually pentatonic) and run it over the entire chord progression without differentiating what they play over each chord. The result: technically correct but musically flat — like reading from a list rather than having a conversation.
+
+  CHORD TONE SOLOING  
+The most reliable way to make solos track chord changes: target the notes of whatever chord is currently playing, especially on strong beats (beat 1 and beat 3).
+
+If the current chord is G major (G-B-D), prioritise landing on G, B, or D on strong beats. If the chord changes to C major (C-E-G), shift to landing on C, E, or G. The notes between — passing notes, scale runs — can be anything from your scale. But the landing points should reflect the current chord.
+
+  GUIDE TONES  
+The most harmonically clear notes in any chord are the 3rd and 7th — called guide tones:
+   The 3rd  tells you: major or minor quality
+   The 7th  tells you: dominant, major 7th, or minor 7th quality
+
+Build solos around guide tones and the harmony sounds clear and intentional even in complex chord progressions.
+
+  ANTICIPATION AND RESOLUTION  
+Professional soloists often play a note from the upcoming chord just before the chord change (anticipation) — creating a smooth, forward-moving quality. Alternatively, landing on a slightly "wrong" note and resolving to the chord tone on the beat creates beautiful tension and release.
+
+  PHRASING AS CONVERSATION  
+Think of the solo as a conversation: ask a musical question (phrase ending unresolved) then answer it (phrase resolving to a chord tone). Space between phrases gives the listener time to process what you've said.
+
+PAGE 2: Avoiding Scale Running
+----------------------------------------
+"Scale running" is the most common trap advanced guitarists fall into — technically impressive but musically empty passages that run up and down scale patterns without musical intent.
+
+  WHAT IS SCALE RUNNING?  
+Scale running is improvising by playing scale notes in order — up, down, or in patterns — rather than choosing notes for their musical meaning. The result sounds like a "guitar exercise" over the chord changes rather than a musical statement.
+
+  HOW TO IDENTIFY IT IN YOUR OWN PLAYING  
+Record yourself improvising. Listen back without playing. Ask:
+- Am I emphasising chord tones on strong beats? Or am I just passing through them?
+- Do my phrases have clear beginnings, midpoints, and endings? Or do they just start and stop randomly?
+- Could I sing what I'm playing? Or is it too fast and pattern-driven to sing?
+- Is there space between phrases? Or is every beat filled with notes?
+
+  THE MELODIC APPROACH — THINK IN MOTIFS  
+A motif is a short, recognisable melodic idea (3-5 notes). Great improvisers develop a motif and repeat it, vary it, and transform it through the chord changes — rather than running up and down scale patterns.
+
+Step 1: Play a simple 3-note idea
+Step 2: Repeat it (exact or near-exact)
+Step 3: Vary it — change the rhythm, change one note, change the direction
+Step 4: Develop it further — invert it, play it in a higher position, extend it
+Step 5: Resolve it — land on a chord tone and let it rest
+
+  RHYTHM IS AS IMPORTANT AS NOTES  
+Many scale-running improvisers play everything in even 8th notes. Introducing quarter notes, dotted rhythms, triplets, rests, and syncopation makes the same notes sound completely different — and dramatically more musical. Rhythmic variety is the first tool to develop when escaping scale running.
+
