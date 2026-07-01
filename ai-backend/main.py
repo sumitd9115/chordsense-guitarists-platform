@@ -27,13 +27,9 @@ app.add_middleware(
 
 # Import routers (we'll create these next)
 from routes.assistant import router as assistant_router
-from routes.chord_recognition import router as chord_router
-from routes.lyrics_support import router as lyrics_router
 
 # Register routers
 app.include_router(assistant_router, prefix="/api/assistant", tags=["AI Assistant"])
-app.include_router(chord_router, prefix="/api/audio", tags=["Audio Analysis"])
-app.include_router(lyrics_router, prefix="/api/lyrics", tags=["Lyrics Support"])
 
 # Health check endpoint
 @app.get("/")
